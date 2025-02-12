@@ -1,0 +1,1 @@
+# FIAP-2025-ABDR-StreamProcessingPipelines
