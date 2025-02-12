@@ -257,3 +257,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T04:17:27.890Z,53.861666666667,-166.79566666667,7.31,-0.09,ml,5.0,125.0,0.05338,0.06,av,av93032649,2025-02-12T22:32:34.740Z,"16 km W of Dutch Harbor, Alaska",earthquake,0.38,0.73,0.25236625485922,6.0,reviewed,av,av
 2025-02-12T16:44:25.568Z,36.6216,25.6457,10.0,4.3,mb,48.0,83.0,1.465,1.24,us,us7000pd4h,2025-02-12T22:43:04.040Z,"29 km NE of Firá, Greece",earthquake,2.91,1.879,0.084,40.0,reviewed,us,us
 2025-02-12T04:49:20.660Z,61.308666666667,-152.37183333333,2.94,-0.08,ml,8.0,164.0,0.04975,0.23,av,av93497266,2025-02-12T22:41:47.520Z,"71 km WNW of Tyonek, Alaska",earthquake,0.73,0.89,0.12037344122419,8.0,reviewed,av,av
+2025-02-12T22:50:06.569Z,39.1553,-119.0421,6.6,1.2,ml,8.0,79.9,0.014,0.1007,nn,nn00893393,2025-02-12T22:52:27.622Z,"21 km NNE of Yerington, Nevada",earthquake,,0.6,0.39,4.0,automatic,nn,nn
