@@ -329,3 +329,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T14:45:00.440Z,61.272333333333,-152.24033333333,3.2,-0.48,ml,8.0,145.0,0.0418,0.08,av,av93497676,2025-02-13T03:16:53.520Z,"63 km WNW of Tyonek, Alaska",earthquake,0.23,0.42,0.2606507624049,8.0,reviewed,av,av
 2025-02-12T14:28:38.720Z,58.245333333333,-155.10216666667,6.2,-0.34,ml,7.0,117.0,0.05511,0.08,av,av93497666,2025-02-13T03:13:21.440Z,"84 km NNW of Karluk, Alaska",earthquake,0.27,0.75,0.28003200308959,7.0,reviewed,av,av
 2025-02-12T15:22:53.830Z,61.369166666667,-152.43666666667,1.65,0.01,ml,7.0,307.0,0.1148,0.18,av,av93497701,2025-02-13T03:39:40.950Z,"76 km WNW of Beluga, Alaska",earthquake,0.91,0.98,0.077715238304668,5.0,reviewed,av,av
+2025-02-13T03:42:51.678Z,64.6079,-150.4529,2.0,1.4,ml,,,,0.47,ak,ak02520toolr,2025-02-13T03:44:47.073Z,"44 km S of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-02-13T03:42:11.150Z,38.795333862305,-122.77233123779,7.5,0.83,md,5.0,162.0,0.02194,0.02,nc,nc75132617,2025-02-13T03:43:48.757Z,"2 km NNW of The Geysers, CA",earthquake,1.55,2.70000005,0.11,5.0,automatic,nc,nc
+2025-02-13T03:40:28.182Z,64.6126,-150.4406,17.6,2.4,ml,,,,0.47,ak,ak02520to7cy,2025-02-13T03:42:24.877Z,"44 km SSE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
