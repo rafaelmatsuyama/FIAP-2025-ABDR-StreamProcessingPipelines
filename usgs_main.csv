@@ -572,3 +572,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T01:09:21.130Z,58.293166666667,-154.98816666667,3.06,-0.33,ml,4.0,253.0,0.03975,0.08,av,av93032769,2025-02-13T23:10:15.680Z,"86 km NNW of Karluk, Alaska",earthquake,0.7,0.62,0.16422258368141,4.0,reviewed,av,av
 2025-02-13T23:29:12.232Z,61.8614,-149.7673,25.6,1.4,ml,,,,0.44,ak,ak025215ihcn,2025-02-13T23:31:37.268Z,"19 km NE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-13T03:25:07.860Z,61.338833333333,-152.28816666667,-2.44,-0.53,ml,6.0,191.0,0.08972,0.23,av,av93498221,2025-02-13T23:33:16.180Z,"68 km WNW of Beluga, Alaska",earthquake,0.66,2.7,0.23103678429285,6.0,reviewed,av,av
+2025-02-13T23:41:01.487Z,62.9802,-149.4082,67.9,1.8,ml,,,,0.47,ak,ak025215l144,2025-02-13T23:42:53.521Z,"51 km SSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-02-13T04:14:38.690Z,58.274333333333,-154.99983333333,3.89,0.73,ml,9.0,128.0,0.04007,0.23,av,av93498251,2025-02-13T23:45:09.620Z,"84 km NNW of Karluk, Alaska",earthquake,0.47,0.87,0.15290919138962,10.0,reviewed,av,av
