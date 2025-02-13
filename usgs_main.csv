@@ -444,3 +444,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T13:36:46.635Z,32.46,-102.045,5.4317,1.5,ml,33.0,99.0,0.1,0.4,tx,tx2025dbpo,2025-02-13T13:44:58.694Z,"31 km SSW of Los Ybanez, Texas",earthquake,0.0,1.3092328310013,0.1,24.0,automatic,tx,tx
 2025-02-13T04:53:39.343Z,36.6466,-116.2706,6.7,-0.3,ml,12.0,174.29,0.055,0.098,nn,nn00893434,2025-02-13T13:47:26.752Z,"52 km SE of Beatty, Nevada",earthquake,,2.1,0.11,2.0,reviewed,nn,nn
 2025-02-13T13:23:11.490Z,18.1193,-66.75,21.0,3.06,md,20.0,102.0,0.1628,0.2,pr,pr2025044001,2025-02-13T13:52:25.483Z,"5 km SSW of Adjuntas, Puerto Rico",earthquake,0.41,0.93,0.13,13.0,reviewed,pr,pr
+2025-02-13T13:59:07.070Z,33.928833,-116.5699997,12.58,1.14,ml,15.0,91.0,0.1059,0.24,ci,ci40185530,2025-02-13T14:05:14.031Z,"4 km NW of Garnet, CA",earthquake,0.62,1.48,0.101,6.0,automatic,ci,ci
+2025-02-13T09:11:14.852Z,36.6006,-116.2255,3.1,-0.1,ml,12.0,223.22,0.096,0.1121,nn,nn00893436,2025-02-13T14:02:57.161Z,"48 km NNW of Pahrump, Nevada",earthquake,,5.3,0.14,3.0,reviewed,nn,nn
+2025-02-13T07:36:48.211Z,36.8118,-116.1045,6.0,-0.4,ml,9.0,148.29,0.01,0.0836,nn,nn00893435,2025-02-13T13:59:51.036Z,"47 km NW of Indian Springs, Nevada",earthquake,,1.4,0.23,2.0,reviewed,nn,nn
