@@ -539,3 +539,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T17:37:02.740Z,33.2093333,-115.5751667,3.94,1.48,ml,10.0,105.0,0.04649,0.17,ci,ci40185602,2025-02-13T20:38:24.089Z,"6 km WSW of Niland, CA",earthquake,0.49,0.4,0.215,7.0,reviewed,ci,ci
 2025-02-13T20:44:50.738Z,60.9651,-151.4303,61.0,1.4,ml,,,,0.26,ak,ak025213th8x,2025-02-13T20:46:24.923Z,"19 km SW of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-02-13T20:02:00.280Z,46.0155,-112.46033333333,-2.0,1.88,ml,16.0,74.0,0.06547,0.14,mb,mb90072473,2025-02-13T20:49:15.210Z,"5 km ENE of Butte, Montana",quarry blast,0.35,31.61,0.26321209804116,32.0,reviewed,mb,mb
+2025-02-13T20:52:16.190Z,60.408,-152.0455,83.7,3.2,ml,,,,0.25,ak,ak025213v4b7,2025-02-13T20:53:37.258Z,"40 km W of Cohoe, Alaska",earthquake,,0.6,,,automatic,ak,ak
