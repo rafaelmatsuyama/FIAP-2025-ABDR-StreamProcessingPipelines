@@ -441,3 +441,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T13:30:29.630Z,35.6,-118.339,2.74,1.3,ml,25.0,31.0,0.0955,0.12,ci,ci40185522,2025-02-13T13:33:55.171Z,"12 km E of Lake Isabella, CA",earthquake,0.15,0.36,0.199,24.0,automatic,ci,ci
 2025-02-13T13:28:32.334Z,60.2717,-151.3014,53.2,1.4,ml,,,,0.45,ak,ak02520zjz4x,2025-02-13T13:30:47.723Z,"6 km NE of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-13T13:10:55.915Z,31.633,-104.295,3.8357,1.7,ml,21.0,66.0,0.0,0.4,tx,tx2025dbot,2025-02-13T13:37:24.673Z,"59 km NW of Toyah, Texas",earthquake,0.0,1.2308043241501,0.1,17.0,automatic,tx,tx
+2025-02-13T13:36:46.635Z,32.46,-102.045,5.4317,1.5,ml,33.0,99.0,0.1,0.4,tx,tx2025dbpo,2025-02-13T13:44:58.694Z,"31 km SSW of Los Ybanez, Texas",earthquake,0.0,1.3092328310013,0.1,24.0,automatic,tx,tx
