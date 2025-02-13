@@ -510,3 +510,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T18:30:41.928Z,30.037,-103.338,8.0225,2.9,ml,43.0,107.0,0.4,0.3,tx,tx2025dbzi,2025-02-13T18:58:53.192Z,"20 km SSW of Marathon, Texas",earthquake,2.0502575938901,1.6113422054076,0.1,18.0,reviewed,tx,tx
 2025-02-13T16:21:38.700Z,52.354166666667,-174.132,2.66,0.34,ml,4.0,270.0,0.0225,0.08,av,av93498991,2025-02-13T19:07:16.240Z,"18 km NNE of Atka, Alaska",earthquake,1.67,0.68,0.32705002783291,4.0,reviewed,av,av
 2025-02-13T15:54:50.570Z,52.360166666667,-174.133,-0.2,0.4,ml,5.0,217.0,0.02104,0.15,av,av93498971,2025-02-13T19:00:55.290Z,"18 km NNE of Atka, Alaska",earthquake,0.84,3.05,0.24571913829314,4.0,reviewed,av,av
+2025-02-13T19:14:29.340Z,60.808,-152.0599,75.8,1.5,ml,,,,0.24,ak,ak0252131kie,2025-02-13T19:16:35.076Z,"44 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-02-13T19:13:57.347Z,31.678,-104.41,6.2588,1.8,ml,17.0,69.0,0.0,0.3,tx,tx2025dcax,2025-02-13T19:21:00.376Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.5273456573486,0.2,13.0,automatic,tx,tx
+2025-02-13T17:44:34.866Z,-10.7147,123.9343,10.0,4.6,mb,31.0,98.0,1.008,0.73,us,us7000pdgz,2025-02-13T19:18:04.040Z,"70 km SSE of Kupang, Indonesia",earthquake,6.93,1.904,0.12,21.0,reviewed,us,us
+2025-02-13T16:29:11.110Z,52.351166666667,-174.13916666667,1.62,0.41,ml,4.0,268.0,0.01953,0.17,av,av93499001,2025-02-13T19:20:52.000Z,"17 km NNE of Atka, Alaska",earthquake,1.16,0.92,0.26104265863415,4.0,reviewed,av,av
