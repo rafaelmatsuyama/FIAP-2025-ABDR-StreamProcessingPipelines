@@ -453,3 +453,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T14:30:32.530Z,33.1903333,-116.3715,11.66,0.72,ml,33.0,50.0,0.08657,0.2,ci,ci40185554,2025-02-13T14:35:11.183Z,"7 km S of Borrego Springs, CA",earthquake,0.24,0.64,0.143,11.0,automatic,ci,ci
 2025-02-12T23:40:14.269Z,32.007,-103.811,6.7407,1.6,ml,12.0,77.0,0.0,0.1,tx,tx2025dany,2025-02-13T14:43:38.761Z,"34 km SE of Malaga, New Mexico",earthquake,0.6374239819021,0.58985514859645,0.2,9.0,reviewed,tx,tx
 2025-02-13T13:35:40.790Z,18.099333333333,-66.725,25.78,2.33,md,10.0,114.0,0.1262,0.2,pr,pr71472678,2025-02-13T14:49:24.890Z,"4 km N of Peñuelas, Puerto Rico",earthquake,0.63,1.44,0.11623914897384,6.0,reviewed,pr,pr
+2025-02-13T15:07:42.747Z,32.449,-102.039,4.4037,1.2,ml,17.0,79.0,0.1,0.5,tx,tx2025dbso,2025-02-13T15:15:44.022Z,"31 km WSW of Ackerly, Texas",earthquake,0.0,1.2224811315536,0.2,10.0,automatic,tx,tx
+2025-02-13T15:05:26.888Z,55.6986,-155.0916,3.4,3.3,ml,,,,0.62,ak,ak025210lw59,2025-02-13T15:09:07.795Z,"150 km SSW of Akhiok, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-02-13T14:10:44.120Z,18.119333333333,-66.757833333333,19.6,2.56,md,17.0,81.0,0.1039,0.24,pr,pr71472688,2025-02-13T15:06:01.125Z,"6 km SW of Adjuntas, Puerto Rico",earthquake,0.5,0.4,0.16680904970796,8.0,reviewed,pr,pr
