@@ -357,3 +357,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T05:40:46.311Z,40.8038,-119.9672,0.0,2.5,ml,9.0,332.06,0.658,0.3477,nn,nn00893425,2025-02-13T05:43:40.293Z,"54 km WNW of Gerlach, Nevada",earthquake,,36.7,0.42,6.0,automatic,nn,nn
 2025-02-13T05:36:10.433Z,31.642,-104.289,4.2483,1.5,ml,17.0,69.0,0.0,0.2,tx,tx2025dazs,2025-02-13T05:44:37.366Z,"59 km NW of Toyah, Texas",earthquake,0.0,1.2945115566254,0.1,13.0,automatic,tx,tx
 2025-02-13T05:35:16.408Z,31.421,-103.523,4.642,1.8,ml,9.0,109.0,0.0,0.8,tx,tx2025dazr,2025-02-13T05:44:14.379Z,"2 km W of Pecos, Texas",earthquake,0.0,1.7415806055069,0.2,7.0,automatic,tx,tx
+2025-02-12T17:01:47.620Z,61.197,-152.308,3.97,-0.2,ml,8.0,169.0,0.01551,0.13,av,av93497746,2025-02-13T05:51:27.020Z,"64 km WNW of Tyonek, Alaska",earthquake,0.53,0.23,0.11186686220957,8.0,reviewed,av,av
