@@ -456,3 +456,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T15:07:42.747Z,32.449,-102.039,4.4037,1.2,ml,17.0,79.0,0.1,0.5,tx,tx2025dbso,2025-02-13T15:15:44.022Z,"31 km WSW of Ackerly, Texas",earthquake,0.0,1.2224811315536,0.2,10.0,automatic,tx,tx
 2025-02-13T15:05:26.888Z,55.6986,-155.0916,3.4,3.3,ml,,,,0.62,ak,ak025210lw59,2025-02-13T15:09:07.795Z,"150 km SSW of Akhiok, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-13T14:10:44.120Z,18.119333333333,-66.757833333333,19.6,2.56,md,17.0,81.0,0.1039,0.24,pr,pr71472688,2025-02-13T15:06:01.125Z,"6 km SW of Adjuntas, Puerto Rico",earthquake,0.5,0.4,0.16680904970796,8.0,reviewed,pr,pr
+2025-02-13T15:13:30.339Z,32.4,-102.046,4.4683,1.1,ml,17.0,52.0,0.1,0.4,tx,tx2025dbsv,2025-02-13T15:26:41.117Z,"34 km WSW of Ackerly, Texas",earthquake,0.0,1.146656036377,0.2,11.0,automatic,tx,tx
+2025-02-13T10:02:51.570Z,33.4891667,-116.7631667,8.84,0.89,ml,49.0,20.0,0.04033,0.19,ci,ci40185450,2025-02-13T15:20:35.442Z,"11 km ENE of Aguanga, CA",earthquake,0.16,0.44,0.163,28.0,reviewed,ci,ci
