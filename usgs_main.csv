@@ -389,3 +389,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T08:58:44.905Z,36.5021,25.5284,10.0,4.3,mb,58.0,81.0,1.318,1.02,us,us7000pd2y,2025-02-13T07:36:22.040Z,"12 km NE of Firá, Greece",earthquake,4.49,1.928,0.105,26.0,reviewed,us,us
 2025-02-13T05:40:27.569Z,41.9235,-119.629,6.104,3.0,ml,41.0,42.0,0.318,0.73,us,us7000pdbr,2025-02-13T07:42:10.040Z,"43 km E of Fort Bidwell, California",earthquake,2.93,6.055,0.041,80.0,reviewed,us,us
 2025-02-13T05:06:37.595Z,55.7747,-142.7925,12.0,3.0,ml,,,,0.76,ak,ak02520unsn5,2025-02-13T07:44:06.118Z,Gulf of Alaska,earthquake,,348126.5,,,reviewed,ak,ak
+2025-02-13T05:49:50.484Z,41.9001,-119.606,7.249,2.9,ml,36.0,84.0,0.347,0.8,us,us7000pdbt,2025-02-13T07:52:36.040Z,"45 km E of Fort Bidwell, California",earthquake,2.17,5.434,0.043,72.0,reviewed,us,us
