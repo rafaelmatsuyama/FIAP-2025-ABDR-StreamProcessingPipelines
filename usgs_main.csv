@@ -368,3 +368,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T20:00:16.740Z,40.745166666667,-122.30883333333,-0.58,1.74,md,12.0,107.0,0.139,0.05,nc,nc75132362,2025-02-13T06:13:37.158Z,"9 km NE of Shasta Lake, CA",quarry blast,0.28,31.61,0.168,14.0,reviewed,nc,nc
 2025-02-12T18:07:26.820Z,61.342666666667,-152.10766666667,1.14,-0.51,ml,8.0,226.0,0.06583,0.15,av,av93497821,2025-02-13T06:33:34.330Z,"59 km WNW of Beluga, Alaska",earthquake,0.64,1.27,0.14837162602323,7.0,reviewed,av,av
 2025-02-12T17:19:06.670Z,58.157166666667,-155.328,1.01,-0.4,ml,7.0,191.0,0.05299,0.05,av,av93032724,2025-02-13T06:13:28.380Z,"83 km NW of Karluk, Alaska",earthquake,0.27,1.44,0.36128962742165,8.0,reviewed,av,av
+2025-02-12T20:34:56.300Z,37.000833333333,-119.80366666667,-0.5,1.68,md,10.0,186.0,0.07728,0.06,nc,nc75132382,2025-02-13T06:41:14.243Z,"7 km E of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.63,31.61,0.169,5.0,reviewed,nc,nc
