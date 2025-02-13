@@ -332,3 +332,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T03:42:51.678Z,64.6079,-150.4529,2.0,1.4,ml,,,,0.47,ak,ak02520toolr,2025-02-13T03:44:47.073Z,"44 km S of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-13T03:42:11.150Z,38.795333862305,-122.77233123779,7.5,0.83,md,5.0,162.0,0.02194,0.02,nc,nc75132617,2025-02-13T03:43:48.757Z,"2 km NNW of The Geysers, CA",earthquake,1.55,2.70000005,0.11,5.0,automatic,nc,nc
 2025-02-13T03:40:28.182Z,64.6126,-150.4406,17.6,2.4,ml,,,,0.47,ak,ak02520to7cy,2025-02-13T03:42:24.877Z,"44 km SSE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-13T04:14:38.114Z,58.2937,-154.8769,3.5,1.0,ml,,,,0.52,ak,ak02520u4343,2025-02-13T04:16:06.889Z,"84 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
