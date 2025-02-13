@@ -384,3 +384,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T06:52:05.170Z,19.197,-66.5841,30.0,3.55,md,23.0,263.0,0.722,0.33,pr,pr2025044000,2025-02-13T07:14:59.634Z,"81 km N of Arecibo, Puerto Rico",earthquake,1.26,10.87,0.11,22.0,reviewed,pr,pr
 2025-02-12T20:33:46.680Z,58.260833333333,-154.99233333333,3.49,-0.36,ml,5.0,222.0,0.05165,0.09,av,av93497941,2025-02-13T07:17:52.090Z,"83 km NNW of Karluk, Alaska",earthquake,0.52,0.9,0.2128983512484,5.0,reviewed,av,av
 2025-02-12T20:26:44.500Z,53.9465,-166.64966666667,5.97,-0.12,ml,6.0,180.0,0.02842,0.11,av,av93497931,2025-02-13T07:13:10.730Z,"9 km NW of Dutch Harbor, Alaska",earthquake,0.42,0.92,0.20748052390626,6.0,reviewed,av,av
+2025-02-13T07:22:46.970Z,33.0091667,-115.3995,17.19,1.47,ml,12.0,243.0,0.1501,0.27,ci,ci40185418,2025-02-13T07:27:18.993Z,"13 km ENE of Brawley, CA",earthquake,1.31,2.03,0.225,13.0,automatic,ci,ci
+2025-02-13T07:11:30.608Z,-28.9908,-71.3769,37.903,4.7,mwr,50.0,141.0,0.593,0.78,us,us7000pdc7,2025-02-13T07:29:17.040Z,"75 km SW of Vallenar, Chile",earthquake,4.62,6.812,0.047,43.0,reviewed,us,us
