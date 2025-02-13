@@ -371,3 +371,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T20:34:56.300Z,37.000833333333,-119.80366666667,-0.5,1.68,md,10.0,186.0,0.07728,0.06,nc,nc75132382,2025-02-13T06:41:14.243Z,"7 km E of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.63,31.61,0.169,5.0,reviewed,nc,nc
 2025-02-13T06:27:12.620Z,-8.573,118.3,135.939,4.6,mb,26.0,66.0,0.576,1.03,us,us7000pdc0,2025-02-13T06:46:04.040Z,"18 km WSW of Dompu, Indonesia",earthquake,7.39,6.079,0.125,19.0,reviewed,us,us
 2025-02-12T19:30:08.670Z,53.869166666667,-166.75833333333,6.22,-0.64,ml,5.0,101.0,0.04521,0.04,av,av93032729,2025-02-13T06:47:58.680Z,"14 km W of Dutch Harbor, Alaska",earthquake,0.34,0.69,0.2166041319561,5.0,reviewed,av,av
+2025-02-13T06:51:13.476Z,60.7519,-147.2043,26.1,1.4,ml,,,,0.95,ak,ak02520vits2,2025-02-13T06:53:22.149Z,"31 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-13T06:50:47.850Z,35.6183319,-117.4923325,4.17,1.14,ml,10.0,146.0,0.07282,0.11,ci,ci40185402,2025-02-13T06:52:50.963Z,"17 km E of Ridgecrest, CA",earthquake,0.51,1.48,0.353,5.0,automatic,ci,ci
