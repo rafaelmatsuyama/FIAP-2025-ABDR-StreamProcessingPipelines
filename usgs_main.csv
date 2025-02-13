@@ -393,3 +393,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T08:06:47.561Z,63.4806,-150.1065,128.2,2.0,ml,,,,0.34,ak,ak02520wg4gv,2025-02-13T08:08:51.088Z,"58 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-13T07:56:16.560Z,38.777667999268,-122.71616363525,1.710000038147,1.05,md,10.0,78.0,0.01625,0.02,nc,nc75132727,2025-02-13T07:57:53.815Z,"2 km WNW of Anderson Springs, CA",earthquake,0.29,0.409999996,0.19,12.0,automatic,nc,nc
 2025-02-13T06:05:09.603Z,48.1526,-116.3662,9.78,2.6,ml,24.0,73.0,0.518,0.71,us,us7000pdbv,2025-02-13T08:08:18.040Z,"11 km SSW of East Hope, Idaho",earthquake,2.3,8.524,0.048,58.0,reviewed,us,us
+2025-02-13T08:20:28.440Z,36.595664978027,-121.25450134277,6.3000001907349,1.0,md,4.0,146.0,0.06054,0.01,nc,nc75132732,2025-02-13T08:22:03.962Z,"12 km NW of Pinnacles, CA",earthquake,0.66,1.34000003,0.35,3.0,automatic,nc,nc
