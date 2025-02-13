@@ -479,3 +479,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T17:03:05.207Z,38.1541,-118.0151,3.2,2.4,ml,19.0,71.75,0.051,0.2699,nn,nn00893449,2025-02-13T17:06:08.669Z,"27 km SSE of Mina, Nevada",earthquake,,2.0,0.22,14.0,automatic,nn,nn
 2025-02-13T17:00:02.561Z,32.505,-102.115,2.0926,1.0,ml,5.0,219.0,0.1,0.1,tx,tx2025dbwn,2025-02-13T17:05:04.195Z,"30 km SSW of Lamesa, Texas",earthquake,0.0,4.1034631729126,0.3,5.0,automatic,tx,tx
 2025-02-13T05:49:50.373Z,41.9312,-119.589,0.9,3.1,ml,5.0,129.34,0.532,0.1132,nn,nn00893448,2025-02-13T17:06:33.843Z,"47 km E of Fort Bidwell, California",earthquake,,3.5,0.23,4.0,reviewed,nn,nn
+2025-02-13T17:19:52.800Z,38.791831970215,-122.77683258057,0.81999999284744,0.58,md,7.0,104.0,0.008767,0.01,nc,nc75132892,2025-02-13T17:21:29.015Z,"2 km NW of The Geysers, CA",earthquake,0.32,1.16999996,0.17,7.0,automatic,nc,nc
+2025-02-13T17:10:25.032Z,58.8819,-153.0854,68.4,1.5,ml,,,,0.24,ak,ak025211tu3r,2025-02-13T17:12:51.757Z,"85 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
