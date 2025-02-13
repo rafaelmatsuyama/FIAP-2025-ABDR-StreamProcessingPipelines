@@ -390,3 +390,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T05:40:27.569Z,41.9235,-119.629,6.104,3.0,ml,41.0,42.0,0.318,0.73,us,us7000pdbr,2025-02-13T07:42:10.040Z,"43 km E of Fort Bidwell, California",earthquake,2.93,6.055,0.041,80.0,reviewed,us,us
 2025-02-13T05:06:37.595Z,55.7747,-142.7925,12.0,3.0,ml,,,,0.76,ak,ak02520unsn5,2025-02-13T07:44:06.118Z,Gulf of Alaska,earthquake,,348126.5,,,reviewed,ak,ak
 2025-02-13T05:49:50.484Z,41.9001,-119.606,7.249,2.9,ml,36.0,84.0,0.347,0.8,us,us7000pdbt,2025-02-13T07:52:36.040Z,"45 km E of Fort Bidwell, California",earthquake,2.17,5.434,0.043,72.0,reviewed,us,us
+2025-02-13T08:06:47.561Z,63.4806,-150.1065,128.2,2.0,ml,,,,0.34,ak,ak02520wg4gv,2025-02-13T08:08:51.088Z,"58 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-02-13T07:56:16.560Z,38.777667999268,-122.71616363525,1.710000038147,1.05,md,10.0,78.0,0.01625,0.02,nc,nc75132727,2025-02-13T07:57:53.815Z,"2 km WNW of Anderson Springs, CA",earthquake,0.29,0.409999996,0.19,12.0,automatic,nc,nc
+2025-02-13T06:05:09.603Z,48.1526,-116.3662,9.78,2.6,ml,24.0,73.0,0.518,0.71,us,us7000pdbv,2025-02-13T08:08:18.040Z,"11 km SSW of East Hope, Idaho",earthquake,2.3,8.524,0.048,58.0,reviewed,us,us
