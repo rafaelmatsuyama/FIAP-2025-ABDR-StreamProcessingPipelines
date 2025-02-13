@@ -468,3 +468,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T15:42:21.492Z,36.5777,25.5149,10.0,4.7,mb,38.0,96.0,1.383,0.9,us,us7000pde0,2025-02-13T16:10:36.040Z,"17 km NE of Oía, Greece",earthquake,5.23,1.545,0.092,36.0,reviewed,us,us
 2025-02-13T15:40:07.650Z,36.5561,25.5398,10.0,4.4,mb,31.0,104.0,1.371,1.11,us,us7000pddy,2025-02-13T16:01:34.040Z,"17 km NNE of Firá, Greece",earthquake,5.74,1.897,0.09,36.0,reviewed,us,us
 2025-02-13T16:19:08.582Z,61.5121,-149.9978,16.4,1.4,ml,,,,0.72,ak,ak025211aaoa,2025-02-13T16:21:00.948Z,"2 km WSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-02-13T16:42:15.729Z,38.4827,-118.4901,1.3,1.5,ml,8.0,135.84,0.148,0.406,nn,nn00893445,2025-02-13T16:45:03.108Z,"12 km ESE of Hawthorne, Nevada",earthquake,,5.1,0.29,4.0,automatic,nn,nn
+2025-02-13T16:38:02.043Z,31.895,-101.764,3.7217,1.8,ml,53.0,40.0,0.1,0.4,tx,tx2025dbvo,2025-02-13T16:46:43.467Z,"26 km S of Stanton, Texas",earthquake,0.0,0.79962545633316,0.2,38.0,automatic,tx,tx
+2025-02-13T16:31:08.720Z,20.136833190918,-155.79333496094,21.290000915527,2.78,ml,52.0,280.0,0.01922,0.189999998,hv,hv74614702,2025-02-13T16:43:10.040Z,"10 km S of Kapaau, Hawaii",earthquake,0.69,0.879999995,0.84,9.0,automatic,hv,hv
+2025-02-13T03:06:29.240Z,33.6408333,-116.6986667,13.55,0.57,ml,20.0,71.0,0.03484,0.14,ci,ci37541397,2025-02-13T16:40:40.535Z,"10 km NNW of Anza, CA",earthquake,0.26,0.52,0.132,5.0,reviewed,ci,ci
