@@ -434,3 +434,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T12:18:38.546Z,-20.5962,168.8718,10.0,4.9,mb,48.0,91.0,2.405,0.99,us,us7000pdd4,2025-02-13T12:35:46.040Z,"124 km SSW of Isangel, Vanuatu",earthquake,7.28,1.901,0.092,37.0,reviewed,us,us
 2025-02-13T12:17:54.372Z,63.7853,-147.9708,29.5,1.4,ml,,,,0.67,ak,ak02520yw8d2,2025-02-13T12:21:38.137Z,"46 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-13T12:16:36.594Z,61.8657,-150.9543,19.6,1.4,ml,,,,0.29,ak,ak02520yvz9n,2025-02-13T12:17:57.941Z,"27 km ESE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-13T13:03:18.370Z,37.645999908447,-122.05400085449,5.3299999237061,2.67,md,64.0,39.0,0.08053,0.14,nc,nc75132817,2025-02-13T13:12:32.472Z,"2 km E of Hayward, CA",earthquake,0.16,0.529999971,0.15,69.0,automatic,nc,nc
