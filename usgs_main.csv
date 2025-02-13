@@ -395,3 +395,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T06:05:09.603Z,48.1526,-116.3662,9.78,2.6,ml,24.0,73.0,0.518,0.71,us,us7000pdbv,2025-02-13T08:08:18.040Z,"11 km SSW of East Hope, Idaho",earthquake,2.3,8.524,0.048,58.0,reviewed,us,us
 2025-02-13T08:20:28.440Z,36.595664978027,-121.25450134277,6.3000001907349,1.0,md,4.0,146.0,0.06054,0.01,nc,nc75132732,2025-02-13T08:22:03.962Z,"12 km NW of Pinnacles, CA",earthquake,0.66,1.34000003,0.35,3.0,automatic,nc,nc
 2025-02-13T08:34:01.140Z,59.142,-153.2086,71.3,2.2,ml,,,,0.31,ak,ak02520wm0z9,2025-02-13T08:35:36.225Z,"77 km WSW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-13T09:09:15.850Z,37.631500244141,-122.48583221435,8.1899995803833,1.56,md,11.0,148.0,0.04681,0.03,nc,nc75132742,2025-02-13T09:11:13.433Z,"2 km NNE of Pacifica, CA",earthquake,0.47,0.639999986,0.36,9.0,automatic,nc,nc
+2025-02-13T09:08:54.358Z,32.397,-102.04,6.2241,1.0,ml,17.0,59.0,0.1,0.4,tx,tx2025dbgs,2025-02-13T09:13:04.486Z,"33 km WSW of Ackerly, Texas",earthquake,0.0,1.7457708120346,0.3,13.0,automatic,tx,tx
