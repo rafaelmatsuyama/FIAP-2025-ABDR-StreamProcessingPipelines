@@ -458,3 +458,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T14:10:44.120Z,18.119333333333,-66.757833333333,19.6,2.56,md,17.0,81.0,0.1039,0.24,pr,pr71472688,2025-02-13T15:06:01.125Z,"6 km SW of Adjuntas, Puerto Rico",earthquake,0.5,0.4,0.16680904970796,8.0,reviewed,pr,pr
 2025-02-13T15:13:30.339Z,32.4,-102.046,4.4683,1.1,ml,17.0,52.0,0.1,0.4,tx,tx2025dbsv,2025-02-13T15:26:41.117Z,"34 km WSW of Ackerly, Texas",earthquake,0.0,1.146656036377,0.2,11.0,automatic,tx,tx
 2025-02-13T10:02:51.570Z,33.4891667,-116.7631667,8.84,0.89,ml,49.0,20.0,0.04033,0.19,ci,ci40185450,2025-02-13T15:20:35.442Z,"11 km ENE of Aguanga, CA",earthquake,0.16,0.44,0.163,28.0,reviewed,ci,ci
+2025-02-13T15:33:16.620Z,34.060833,-117.3003311,17.56,1.2,ml,24.0,89.0,0.09166,0.11,ci,ci40185570,2025-02-13T15:35:23.525Z,"2 km SE of Colton, CA",earthquake,0.38,0.63,0.368,8.0,automatic,ci,ci
+2025-02-13T15:31:13.962Z,63.7189,-149.3748,5.1,2.2,ml,,,,0.75,ak,ak025210rg2s,2025-02-13T15:33:13.109Z,"22 km W of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-13T15:29:08.977Z,38.1353,-117.9651,8.1,1.8,ml,8.0,145.35,0.066,0.1234,nn,nn00893442,2025-02-13T15:31:42.613Z,"30 km SSE of Mina, Nevada",earthquake,,0.7,0.54,5.0,automatic,nn,nn
+2025-02-13T15:08:11.099Z,-6.5299,130.2826,150.154,4.8,mb,47.0,45.0,2.03,0.67,us,us7000pddw,2025-02-13T15:34:03.040Z,"290 km WSW of Tual, Indonesia",earthquake,8.63,7.211,0.076,57.0,reviewed,us,us
