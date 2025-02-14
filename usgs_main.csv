@@ -702,3 +702,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T02:10:16.370Z,44.202166666667,-115.093,8.81,2.39,ml,32.0,73.0,0.2016,0.25,mb,mb90072498,2025-02-14T15:28:47.950Z,"12 km W of Stanley, Idaho",earthquake,0.39,0.74,0.19216088782043,40.0,reviewed,mb,mb
 2025-02-14T15:37:09.440Z,33.5676667,-118.1763333,9.57,1.82,ml,39.0,114.0,0.1747,0.26,ci,ci40185970,2025-02-14T15:41:51.038Z,"20 km SSW of Seal Beach, CA",earthquake,0.38,1.03,0.226,34.0,automatic,ci,ci
 2025-02-13T23:53:20.000Z,44.1965,-115.09733333333,1.75,1.57,ml,13.0,74.0,0.2018,0.17,mb,mb90072478,2025-02-14T15:38:25.690Z,"12 km W of Stanley, Idaho",earthquake,0.55,1.81,0.17478288574623,16.0,reviewed,mb,mb
+2025-02-14T15:29:31.194Z,53.0736,-161.2448,10.0,3.8,ml,22.0,222.0,2.2,0.74,us,us7000pdpd,2025-02-14T15:42:44.040Z,"232 km SSE of King Cove, Alaska",earthquake,4.69,1.994,0.085,24.0,reviewed,us,us
