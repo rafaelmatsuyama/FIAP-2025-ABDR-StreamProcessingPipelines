@@ -686,3 +686,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T21:33:42.229Z,36.4625,-98.81116667,6.49,1.35,ml,36.0,102.0,0.01529699821,0.24,ok,ok2025dcfi,2025-02-14T13:58:56.124Z,"14 km SSE of Waynoka, Oklahoma",earthquake,,0.5,0.2,12.0,reviewed,ok,ok
 2025-02-14T14:24:22.760Z,65.3663,-148.0787,14.4,1.0,ml,,,,0.56,ak,ak02522nnvms,2025-02-14T14:26:01.379Z,"27 km SE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-14T14:16:31.510Z,38.806331634521,-122.82550048828,2.920000076294,1.31,md,29.0,70.0,0.00383,0.02,nc,nc75133282,2025-02-14T14:19:28.980Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.14,30.0,automatic,nc,nc
+2025-02-14T14:30:23.680Z,36.1481667,-118.0613333,3.69,1.56,ml,21.0,59.0,0.1699,0.18,ci,ci40185938,2025-02-14T14:33:52.666Z,"15 km NW of Coso Junction, CA",earthquake,0.23,1.09,0.175,23.0,automatic,ci,ci
