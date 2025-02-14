@@ -700,3 +700,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T14:03:42.760Z,44.625,-112.08633333333,8.47,1.18,ml,24.0,55.0,0.2222,0.14,mb,mb90072503,2025-02-14T15:13:48.660Z,"30 km NNE of Spencer, Idaho",earthquake,0.28,2.37,0.086980694729976,23.0,reviewed,mb,mb
 2025-02-14T15:32:03.125Z,60.5595,-148.3887,13.9,2.0,ml,,,,0.56,ak,ak02522oazg8,2025-02-14T15:34:19.348Z,"28 km SE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-14T02:10:16.370Z,44.202166666667,-115.093,8.81,2.39,ml,32.0,73.0,0.2016,0.25,mb,mb90072498,2025-02-14T15:28:47.950Z,"12 km W of Stanley, Idaho",earthquake,0.39,0.74,0.19216088782043,40.0,reviewed,mb,mb
+2025-02-14T15:37:09.440Z,33.5676667,-118.1763333,9.57,1.82,ml,39.0,114.0,0.1747,0.26,ci,ci40185970,2025-02-14T15:41:51.038Z,"20 km SSW of Seal Beach, CA",earthquake,0.38,1.03,0.226,34.0,automatic,ci,ci
+2025-02-13T23:53:20.000Z,44.1965,-115.09733333333,1.75,1.57,ml,13.0,74.0,0.2018,0.17,mb,mb90072478,2025-02-14T15:38:25.690Z,"12 km W of Stanley, Idaho",earthquake,0.55,1.81,0.17478288574623,16.0,reviewed,mb,mb
