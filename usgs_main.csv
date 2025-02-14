@@ -705,3 +705,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T15:29:31.194Z,53.0736,-161.2448,10.0,3.8,ml,22.0,222.0,2.2,0.74,us,us7000pdpd,2025-02-14T15:42:44.040Z,"232 km SSE of King Cove, Alaska",earthquake,4.69,1.994,0.085,24.0,reviewed,us,us
 2025-02-14T15:52:01.830Z,33.5928345,-117.9455032,5.96,1.38,ml,16.0,88.0,0.146,0.28,ci,ci40185978,2025-02-14T15:54:06.866Z,"3 km SSW of Newport Beach, CA",earthquake,0.78,5.71,0.487,13.0,automatic,ci,ci
 2025-02-14T15:26:55.656Z,16.1209,-98.7884,10.0,4.8,mb,40.0,232.0,1.449,0.88,us,us7000pdpc,2025-02-14T15:53:24.040Z,"43 km SW of Montecillos, Mexico",earthquake,8.7,1.962,0.033,286.0,reviewed,us,us
+2025-02-14T15:11:58.043Z,55.1918,-160.5175,78.773,3.1,ml,26.0,182.0,0.16,0.71,us,us7000pdpb,2025-02-14T16:00:41.040Z,"16 km S of Sand Point, Alaska",earthquake,6.32,15.47,0.064,32.0,reviewed,us,us
