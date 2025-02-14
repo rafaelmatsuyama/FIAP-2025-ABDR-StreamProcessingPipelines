@@ -679,3 +679,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T13:29:39.456Z,28.75,-98.854,7.7881,2.6,ml,23.0,73.0,0.1,0.3,tx,tx2025ddkw,2025-02-14T13:48:43.615Z,"19 km SW of Charlotte, Texas",earthquake,1.2879285457643,2.4024060967423,0.1,12.0,reviewed,tx,tx
 2025-02-13T21:09:09.099Z,34.5355,-96.613,2.0,1.11,ml,25.0,81.0,0.1115781046,0.17,ok,ok2025dcem,2025-02-14T13:47:23.978Z,"15 km SSW of Stonewall, Oklahoma",earthquake,,1.4,0.12,12.0,reviewed,ok,ok
 2025-02-13T19:35:28.980Z,34.02116667,-97.46816667,4.84,1.01,ml,9.0,138.0,0.1790648614,0.11,ok,ok2025dcbk,2025-02-14T13:50:57.563Z,"16 km SSW of Wilson, Oklahoma",earthquake,,0.8,0.16,6.0,reviewed,ok,ok
+2025-02-14T13:54:54.429Z,61.4955,-147.7964,20.0,1.7,ml,,,,0.66,ak,ak02522n8xya,2025-02-14T13:56:50.837Z,"35 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-14T13:50:19.849Z,62.9573,-156.3941,0.0,1.9,ml,,,,1.48,ak,ak02522n80f8,2025-02-14T13:54:06.024Z,"17 km WSW of Takotna, Alaska",earthquake,,0.6,,,automatic,ak,ak
