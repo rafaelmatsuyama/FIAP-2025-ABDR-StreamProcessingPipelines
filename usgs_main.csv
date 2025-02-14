@@ -711,3 +711,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T15:58:54.712Z,30.9806,142.3395,10.0,4.8,mb,42.0,132.0,3.021,1.11,us,us7000pdpi,2025-02-14T16:25:20.040Z,"Izu Islands, Japan region",earthquake,7.73,1.806,0.081,52.0,reviewed,us,us
 2025-02-14T13:43:00.215Z,28.884,-98.197,5.6885,1.8,ml,17.0,71.0,0.0,0.4,tx,tx2025ddlh,2025-02-14T16:27:11.500Z,"20 km WSW of Falls City, Texas",earthquake,1.5241071332663,2.7810391087663,0.1,16.0,reviewed,tx,tx
 2025-02-14T12:38:58.493Z,28.897,-98.195,6.5674,2.4,ml,26.0,74.0,0.1,0.2,tx,tx2025ddje,2025-02-14T16:10:57.348Z,"19 km WSW of Falls City, Texas",earthquake,1.2169708561542,2.3329855611635,0.1,14.0,reviewed,tx,tx
+2025-02-14T16:34:00.020Z,36.079334259033,-120.24433135986,7.6300001144409,1.49,md,5.0,229.0,0.07507,0.01,nc,nc75133317,2025-02-14T16:35:38.014Z,"12 km SE of Coalinga, CA",earthquake,3.68,1.50999999,0.04,4.0,automatic,nc,nc
