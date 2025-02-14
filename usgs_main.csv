@@ -723,3 +723,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T17:24:08.380Z,38.836166381836,-122.81700134277,1.8899999856949,0.23,md,11.0,65.0,0.01385,0.01,nc,nc75133342,2025-02-14T17:25:47.289Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.689999998,0.06,10.0,automatic,nc,nc
 2025-02-14T17:30:53.737Z,57.8658,-156.0267,116.3,1.9,ml,,,,0.4,ak,ak02522phj4t,2025-02-14T17:33:08.220Z,"88 km ESE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-14T06:48:00.790Z,28.858,-98.188,7.1533,1.4,ml,10.0,72.0,0.0,0.2,tx,tx2025dcxp,2025-02-14T17:36:27.057Z,"21 km SW of Falls City, Texas",earthquake,1.4716543165728,2.5132390088525,0.1,14.0,reviewed,tx,tx
+2025-02-14T17:40:32.414Z,37.3009,-117.6475,1.5,1.1,ml,8.0,209.77,0.308,0.286,nn,nn00893481,2025-02-14T17:43:08.954Z,"50 km S of Silver Peak, Nevada",earthquake,,27.1,0.44,6.0,automatic,nn,nn
+2025-02-14T03:29:24.999Z,28.921,-98.217,9.8389,1.8,ml,20.0,79.0,0.1,0.3,tx,tx2025dcrb,2025-02-14T17:38:36.061Z,"20 km WSW of Falls City, Texas",earthquake,1.1616624336939,3.2154462067047,0.1,17.0,reviewed,tx,tx
