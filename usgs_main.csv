@@ -764,3 +764,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T09:52:03.623Z,66.3909,-162.208,19.6,2.5,ml,,,,0.59,ak,ak02522kuo8d,2025-02-14T19:06:39.354Z,"42 km NNE of Deering, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-02-13T20:39:23.250Z,48.069166666667,-115.14,5.1,0.92,ml,6.0,233.0,0.3222,0.11,mb,mb90072568,2025-02-14T19:00:24.420Z,"1 km S of Happys Inn, Montana",earthquake,1.48,9.07,0.11331450993834,4.0,reviewed,mb,mb
 2025-02-14T10:19:20.310Z,48.0945,-114.63216666667,4.99,0.12,ml,6.0,177.0,0.226,0.11,mb,mb90072578,2025-02-14T19:17:04.020Z,"2 km ESE of Marion, Montana",earthquake,0.53,7.74,0.074527064674906,2.0,reviewed,mb,mb
+2025-02-14T18:53:13.450Z,-17.2785,167.5586,11.732,4.9,mww,47.0,106.0,1.853,0.53,us,us7000pdth,2025-02-14T19:38:07.040Z,"94 km WNW of Port-Vila, Vanuatu",earthquake,7.31,4.577,0.086,13.0,reviewed,us,us
+2025-02-13T21:38:47.640Z,51.686666666667,179.8835,5.07,1.65,ml,5.0,257.0,0.2525,0.16,av,av93499231,2025-02-14T19:39:04.100Z,"241 km W of Adak, Alaska",earthquake,1.21,31.61,0.28434919594433,5.0,reviewed,av,av
