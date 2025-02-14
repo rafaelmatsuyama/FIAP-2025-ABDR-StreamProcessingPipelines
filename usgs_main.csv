@@ -706,3 +706,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T15:52:01.830Z,33.5928345,-117.9455032,5.96,1.38,ml,16.0,88.0,0.146,0.28,ci,ci40185978,2025-02-14T15:54:06.866Z,"3 km SSW of Newport Beach, CA",earthquake,0.78,5.71,0.487,13.0,automatic,ci,ci
 2025-02-14T15:26:55.656Z,16.1209,-98.7884,10.0,4.8,mb,40.0,232.0,1.449,0.88,us,us7000pdpc,2025-02-14T15:53:24.040Z,"43 km SW of Montecillos, Mexico",earthquake,8.7,1.962,0.033,286.0,reviewed,us,us
 2025-02-14T15:11:58.043Z,55.1918,-160.5175,78.773,3.1,ml,26.0,182.0,0.16,0.71,us,us7000pdpb,2025-02-14T16:00:41.040Z,"16 km S of Sand Point, Alaska",earthquake,6.32,15.47,0.064,32.0,reviewed,us,us
+2025-02-14T16:22:22.840Z,36.1471667,-118.0661667,2.45,1.66,ml,25.0,59.0,0.1736,0.16,ci,ci40186010,2025-02-14T16:25:51.276Z,"16 km NW of Coso Junction, CA",earthquake,0.19,0.84,0.171,26.0,automatic,ci,ci
+2025-02-14T16:19:27.010Z,36.148,-118.0633333,2.79,1.96,ml,24.0,59.0,0.1715,0.18,ci,ci40186002,2025-02-14T16:25:29.909Z,"15 km NW of Coso Junction, CA",earthquake,0.21,1.01,0.209,25.0,automatic,ci,ci
+2025-02-14T15:58:54.712Z,30.9806,142.3395,10.0,4.8,mb,42.0,132.0,3.021,1.11,us,us7000pdpi,2025-02-14T16:25:20.040Z,"Izu Islands, Japan region",earthquake,7.73,1.806,0.081,52.0,reviewed,us,us
+2025-02-14T13:43:00.215Z,28.884,-98.197,5.6885,1.8,ml,17.0,71.0,0.0,0.4,tx,tx2025ddlh,2025-02-14T16:27:11.500Z,"20 km WSW of Falls City, Texas",earthquake,1.5241071332663,2.7810391087663,0.1,16.0,reviewed,tx,tx
+2025-02-14T12:38:58.493Z,28.897,-98.195,6.5674,2.4,ml,26.0,74.0,0.1,0.2,tx,tx2025ddje,2025-02-14T16:10:57.348Z,"19 km WSW of Falls City, Texas",earthquake,1.2169708561542,2.3329855611635,0.1,14.0,reviewed,tx,tx
