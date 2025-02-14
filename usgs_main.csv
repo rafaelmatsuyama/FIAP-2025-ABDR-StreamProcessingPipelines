@@ -617,3 +617,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T03:16:41.308Z,37.3181,-117.5824,0.0,1.9,ml,10.0,174.63,0.099,0.2569,nn,nn00893473,2025-02-14T03:19:06.300Z,"48 km S of Silver Peak, Nevada",earthquake,,21.1,0.07,8.0,automatic,nn,nn
 2025-02-13T13:25:17.630Z,61.309666666667,-152.2485,0.5,-0.67,ml,6.0,174.0,0.06327,0.06,av,av93498746,2025-02-14T03:17:58.580Z,"65 km WNW of Beluga, Alaska",earthquake,0.38,1.65,0.2220981522242,7.0,reviewed,av,av
 2025-02-13T13:21:59.460Z,61.315166666667,-152.25483333333,-2.3,-0.2,ml,9.0,123.0,0.06934,0.16,av,av93498736,2025-02-14T03:15:07.700Z,"65 km WNW of Beluga, Alaska",earthquake,0.39,2.1,0.26302790258644,9.0,reviewed,av,av
+2025-02-14T03:46:41.430Z,33.3031667,-116.124,7.81,1.49,ml,65.0,25.0,0.118,0.2,ci,ci40185842,2025-02-14T03:50:44.349Z,"16 km W of Salton City, CA",earthquake,0.15,0.63,0.154,26.0,automatic,ci,ci
