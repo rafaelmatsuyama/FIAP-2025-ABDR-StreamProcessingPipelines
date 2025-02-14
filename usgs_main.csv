@@ -642,3 +642,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T05:59:18.260Z,48.292,-123.27116666667,40.13,3.66,ml,54.0,36.0,0.1264,0.19,uw,uw62067602,2025-02-14T06:10:45.490Z,"17 km SSE of Victoria, Canada",earthquake,0.32,0.46,0.16176318739425,43.0,reviewed,uw,uw
 2025-02-14T05:55:07.954Z,59.786,-152.7115,40.2,1.5,ml,,,,0.22,ak,ak02522ihl8r,2025-02-14T05:57:28.466Z,"49 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-02-14T06:34:02.830Z,19.430665969849,-154.87167358398,7.4499998092651,1.98,ml,39.0,268.0,0.05069,0.239999995,hv,hv74615272,2025-02-14T06:37:24.480Z,"6 km SE of Leilani Estates, Hawaii",earthquake,0.89,0.610000014,0.39,5.0,automatic,hv,hv
+2025-02-14T06:39:50.419Z,1.1194,-85.2951,10.0,5.2,mww,59.0,89.0,5.886,1.26,us,us7000pdkh,2025-02-14T06:51:55.040Z,off the coast of Ecuador,earthquake,8.36,1.942,0.065,23.0,reviewed,us,us
