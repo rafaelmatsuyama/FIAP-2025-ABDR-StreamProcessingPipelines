@@ -785,3 +785,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T21:06:41.250Z,34.1613333,-117.2661667,7.6,1.12,ml,32.0,42.0,0.0575,0.18,ci,ci40186090,2025-02-14T21:14:10.402Z,"4 km NE of San Bernardino, CA",earthquake,0.21,0.64,0.157,32.0,automatic,ci,ci
 2025-02-14T20:56:59.235Z,32.0,-102.214,6.9292,1.9,ml,6.0,173.0,0.0,0.5,tx,tx2025ddzp,2025-02-14T21:10:18.426Z,"12 km W of Midland, Texas",earthquake,0.0,4.8225030899048,0.2,6.0,automatic,tx,tx
 2025-02-14T21:19:22.490Z,37.4775,-117.8758,8.3,0.8,ml,8.0,245.55,0.134,0.2199,nn,nn00893495,2025-02-14T21:21:59.687Z,"26 km SE of Dyer, Nevada",earthquake,,1.8,0.48,6.0,automatic,nn,nn
+2025-02-14T12:50:00.810Z,44.655333333333,-111.90216666667,8.16,0.05,ml,6.0,227.0,0.1844,0.06,mb,mb90072598,2025-02-14T21:30:10.470Z,"39 km NE of Spencer, Idaho",earthquake,0.7,3.51,0.24051126126852,3.0,reviewed,mb,mb
