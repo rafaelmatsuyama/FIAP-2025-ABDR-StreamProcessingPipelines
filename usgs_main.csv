@@ -645,3 +645,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T06:39:50.419Z,1.1194,-85.2951,10.0,5.2,mww,59.0,89.0,5.886,1.26,us,us7000pdkh,2025-02-14T06:51:55.040Z,off the coast of Ecuador,earthquake,8.36,1.942,0.065,23.0,reviewed,us,us
 2025-02-14T07:04:21.962Z,61.2956,-147.6545,0.0,2.1,ml,,,,1.1,ak,ak02522jdk0k,2025-02-14T07:06:28.053Z,"57 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-14T06:59:53.600Z,36.224,-117.8956667,6.81,1.39,ml,18.0,66.0,0.1112,0.16,ci,ci40185874,2025-02-14T07:03:23.386Z,"12 km ESE of Olancha, CA",earthquake,0.3,1.14,0.158,20.0,automatic,ci,ci
+2025-02-14T01:22:46.986Z,49.8705,-179.4152,11.8,2.9,ml,,,,0.51,ak,ak02522fx06x,2025-02-14T07:20:30.141Z,"296 km SW of Adak, Alaska",earthquake,,5.7,,,reviewed,ak,ak
