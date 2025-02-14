@@ -658,3 +658,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T09:00:32.240Z,34.0421667,-117.243,14.55,1.29,ml,64.0,60.0,0.07122,0.19,ci,ci40185898,2025-02-14T09:05:03.582Z,"2 km ESE of Loma Linda, CA",earthquake,0.17,0.29,0.173,29.0,automatic,ci,ci
 2025-02-14T08:58:31.237Z,60.9789,-151.4637,68.5,1.2,ml,,,,0.17,ak,ak02522kal03,2025-02-14T09:00:24.167Z,"20 km WSW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-02-14T08:09:58.119Z,-4.3774,143.7281,116.38,4.8,mb,24.0,85.0,3.541,0.71,us,us7000pdks,2025-02-14T08:55:19.040Z,"51 km SW of Angoram, Papua New Guinea",earthquake,9.63,9.664,0.109,26.0,reviewed,us,us
+2025-02-14T09:02:53.172Z,32.418,-102.126,4.2652,1.2,ml,29.0,95.0,0.0,0.5,tx,tx2025ddcb,2025-02-14T09:19:25.512Z,"38 km SSW of Los Ybanez, Texas",earthquake,0.0,0.93261122703552,0.2,20.0,automatic,tx,tx
