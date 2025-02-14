@@ -766,3 +766,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T10:19:20.310Z,48.0945,-114.63216666667,4.99,0.12,ml,6.0,177.0,0.226,0.11,mb,mb90072578,2025-02-14T19:17:04.020Z,"2 km ESE of Marion, Montana",earthquake,0.53,7.74,0.074527064674906,2.0,reviewed,mb,mb
 2025-02-14T18:53:13.450Z,-17.2785,167.5586,11.732,4.9,mww,47.0,106.0,1.853,0.53,us,us7000pdth,2025-02-14T19:38:07.040Z,"94 km WNW of Port-Vila, Vanuatu",earthquake,7.31,4.577,0.086,13.0,reviewed,us,us
 2025-02-13T21:38:47.640Z,51.686666666667,179.8835,5.07,1.65,ml,5.0,257.0,0.2525,0.16,av,av93499231,2025-02-14T19:39:04.100Z,"241 km W of Adak, Alaska",earthquake,1.21,31.61,0.28434919594433,5.0,reviewed,av,av
+2025-02-14T19:45:01.807Z,36.772,-115.959,2.5,0.2,ml,8.0,242.44,0.048,0.3482,nn,nn00893493,2025-02-14T19:47:00.344Z,"34 km NW of Indian Springs, Nevada",earthquake,,1.1,0.53,6.0,automatic,nn,nn
