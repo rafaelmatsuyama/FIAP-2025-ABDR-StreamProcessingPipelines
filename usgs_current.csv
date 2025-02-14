@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T19:35:28.980Z,34.02116667,-97.46816667,4.84,1.01,ml,9,138,0.1790648614,0.11,ok,ok2025dcbk,2025-02-14T13:51:19.694Z,"16 km SSW of Wilson, Oklahoma",earthquake,,0.8,0.16,6,reviewed,ok,ok
 2025-02-13T19:29:47.920Z,35.5045,-84.4695,7.51,1.42,md,8,75,0.06923,0.07,se,se60598326,2025-02-14T13:20:11.550Z,"6 km E of Niota, Tennessee",earthquake,0.39,1.18,0.052240076155281,7,reviewed,se,se
 2025-02-13T19:29:32.820Z,44.0165,-121.24683333333,-1.75,1.91,ml,8,146,0.2147,0.11,uw,uw62075691,2025-02-13T21:37:10.270Z,"7 km SE of Bend, Oregon",explosion,0.78,31.61,0.086388168499497,6,reviewed,uw,uw
-2025-02-13T19:26:10.051Z,61.9451,-143.6502,5,2.3,ml,,,,0.41,ak,ak02521343lw,2025-02-14T05:15:11.860Z,"57 km SW of Nabesna, Alaska",earthquake,,0,,,reviewed,ak,ak
