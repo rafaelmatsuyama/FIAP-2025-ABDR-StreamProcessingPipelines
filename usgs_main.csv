@@ -721,3 +721,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T17:04:06.162Z,31.567,-104.182,6.792,1.8,ml,18.0,69.0,0.0,0.2,tx,tx2025ddry,2025-02-14T17:10:15.840Z,"46 km NW of Toyah, Texas",earthquake,0.62626334509083,0.61997444938402,0.2,7.0,reviewed,tx,tx
 2025-02-14T16:39:59.811Z,28.871,-98.327,10.6201,1.7,ml,12.0,73.0,0.1,0.2,tx,tx2025ddre,2025-02-14T17:07:10.821Z,"18 km SE of Pleasanton, Texas",earthquake,2.5319976070041,1.3862948063195,0.1,12.0,reviewed,tx,tx
 2025-02-14T17:24:08.380Z,38.836166381836,-122.81700134277,1.8899999856949,0.23,md,11.0,65.0,0.01385,0.01,nc,nc75133342,2025-02-14T17:25:47.289Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.689999998,0.06,10.0,automatic,nc,nc
+2025-02-14T17:30:53.737Z,57.8658,-156.0267,116.3,1.9,ml,,,,0.4,ak,ak02522phj4t,2025-02-14T17:33:08.220Z,"88 km ESE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-02-14T06:48:00.790Z,28.858,-98.188,7.1533,1.4,ml,10.0,72.0,0.0,0.2,tx,tx2025dcxp,2025-02-14T17:36:27.057Z,"21 km SW of Falls City, Texas",earthquake,1.4716543165728,2.5132390088525,0.1,14.0,reviewed,tx,tx
