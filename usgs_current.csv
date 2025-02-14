@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-14T17:53:56.515Z,60.6749,-150.3389,48.7,1.7,ml,,,,0.54,ak,ak02522pmgtf,2025-02-14T17:56:07.817Z,"27 km ENE of Sterling, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-14T17:40:32.414Z,37.3009,-117.6475,1.5,1.1,ml,8,209.77,0.308,0.286,nn,nn00893481,2025-02-14T17:43:08.954Z,"50 km S of Silver Peak, Nevada",earthquake,,27.1,0.44,6,automatic,nn,nn
 2025-02-14T17:30:53.737Z,57.8658,-156.0267,116.3,1.9,ml,,,,0.4,ak,ak02522phj4t,2025-02-14T17:33:08.220Z,"88 km ESE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-14T17:24:08.380Z,38.836166381836,-122.81700134277,1.8899999856949,0.23,md,11,65,0.01385,0.01,nc,nc75133342,2025-02-14T17:25:47.289Z,"8 km WNW of Cobb, CA",earthquake,0.38,0.689999998,0.06,10,automatic,nc,nc
@@ -170,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T18:08:21.200Z,33.3663333,-116.3761667,11.66,0.4,ml,6,75,0.04021,0.11,ci,ci37697764,2025-02-13T19:57:34.883Z,"12 km N of Borrego Springs, CA",earthquake,0.53,0.93,0.085,6,reviewed,ci,ci
 2025-02-13T18:07:58.830Z,33.3703333,-116.3818333,10.45,0.97,ml,25,65,0.04519,0.18,ci,ci40185626,2025-02-13T19:54:19.099Z,"13 km N of Borrego Springs, CA",earthquake,0.27,0.48,0.137,14,reviewed,ci,ci
 2025-02-13T18:06:58.590Z,34.0688333,-117.6876667,11.22,1.73,ml,63,32,0.01407,0.17,ci,ci40185618,2025-02-13T20:10:02.420Z,"1 km SSE of Montclair, CA",earthquake,0.16,0.28,0.155,76,reviewed,ci,ci
-2025-02-13T17:51:07.442Z,31.617,-104.093,6.2408,1.6,ml,35,62,0,0.1,tx,tx2025dbye,2025-02-13T19:55:43.690Z,"43 km NW of Toyah, Texas",earthquake,0.39705328025128,0.35745528606516,0.2,36,reviewed,tx,tx
