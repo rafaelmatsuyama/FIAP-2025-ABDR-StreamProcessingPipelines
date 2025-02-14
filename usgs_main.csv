@@ -696,3 +696,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T14:38:12.177Z,-7.9665,116.9943,281.233,4.4,mb,51.0,65.0,1.153,1.09,us,us7000pdp4,2025-02-14T15:05:35.040Z,"69 km NNE of Labuan Lombok, Indonesia",earthquake,4.94,6.723,0.101,28.0,reviewed,us,us
 2025-02-14T13:22:45.226Z,11.432,125.6948,10.0,4.5,mb,33.0,111.0,9.566,1.12,us,us7000pdln,2025-02-14T15:07:29.040Z,"14 km NE of Hernani, Philippines",earthquake,12.18,1.899,0.102,28.0,reviewed,us,us
 2025-02-14T01:17:33.370Z,44.9945,-111.89833333333,2.65,1.9,ml,44.0,38.0,0.1507,0.18,mb,mb90072488,2025-02-14T15:02:45.580Z,"33 km S of Virginia City, Montana",earthquake,0.25,1.11,0.28498454599396,44.0,reviewed,mb,mb
+2025-02-14T15:12:51.800Z,33.4953333,-116.7601667,8.52,0.97,ml,37.0,38.0,0.04107,0.16,ci,ci40185962,2025-02-14T15:18:29.771Z,"10 km SW of Anza, CA",earthquake,0.16,0.4,0.168,29.0,automatic,ci,ci
+2025-02-14T14:03:42.760Z,44.625,-112.08633333333,8.47,1.18,ml,24.0,55.0,0.2222,0.14,mb,mb90072503,2025-02-14T15:13:48.660Z,"30 km NNE of Spencer, Idaho",earthquake,0.28,2.37,0.086980694729976,23.0,reviewed,mb,mb
