@@ -662,3 +662,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T09:30:53.650Z,34.8795013,-117.0561676,6.56,1.29,ml,28.0,118.0,0.04901,0.19,ci,ci40185906,2025-02-14T09:32:56.777Z,"4 km SW of Barstow, CA",earthquake,0.31,0.77,0.173,4.0,automatic,ci,ci
 2025-02-14T09:27:41.611Z,-5.8459,145.5144,108.023,4.8,mb,58.0,67.0,3.894,0.87,us,us7000pdkt,2025-02-14T09:45:57.040Z,"29 km NNE of Goroka, Papua New Guinea",earthquake,8.05,7.48,0.07,65.0,reviewed,us,us
 2025-02-14T09:46:33.012Z,-58.9359,-22.9486,10.0,5.1,mb,61.0,48.0,8.796,0.8,us,us7000pdky,2025-02-14T10:09:09.040Z,South Sandwich Islands region,earthquake,9.8,1.748,0.084,46.0,reviewed,us,us
+2025-02-14T10:23:07.937Z,37.3564,-117.6708,4.1,1.7,ml,13.0,115.39,0.125,0.417,nn,nn00893474,2025-02-14T10:27:38.569Z,"44 km S of Silver Peak, Nevada",earthquake,,1.0,0.22,10.0,automatic,nn,nn
