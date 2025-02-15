@@ -1050,3 +1050,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T19:00:53.680Z,35.7113333,-117.5181667,5.98,1.04,ml,29.0,56.0,0.08967,0.16,ci,ci40186418,2025-02-15T19:04:15.278Z,"12 km WSW of Searles Valley, CA",earthquake,0.19,0.77,0.209,19.0,automatic,ci,ci
 2025-02-15T17:48:19.456Z,33.4051,73.0929,49.342,4.7,mb,133.0,42.0,3.471,0.62,us,us7000pe02,2025-02-15T19:22:16.040Z,"21 km S of Rawalpindi, Pakistan",earthquake,8.2,5.817,0.048,140.0,reviewed,us,us
 2025-02-15T19:12:22.551Z,32.427,-102.038,6.0073,1.7,ml,21.0,85.0,0.1,0.5,tx,tx2025dfrq,2025-02-15T19:26:45.237Z,"32 km WSW of Ackerly, Texas",earthquake,0.0,1.550769329071,0.2,13.0,automatic,tx,tx
+2025-02-15T19:33:36.650Z,39.405498504639,-123.27633666992,5.1599998474121,1.47,md,9.0,81.0,0.07911,0.02,nc,nc75134147,2025-02-15T19:35:14.888Z,"7 km ESE of Willits, CA",earthquake,0.27,1.34000003,0.14,7.0,automatic,nc,nc
+2025-02-15T19:32:17.150Z,38.844165802002,-122.82966613769,1.2699999809265,0.77,md,8.0,119.0,0.007188,0.02,nc,nc75134142,2025-02-15T19:33:54.799Z,"10 km WNW of Cobb, CA",earthquake,0.36,0.74000001,0.31,10.0,automatic,nc,nc
+2025-02-15T19:28:43.249Z,62.0005,-150.7223,0.1,1.6,ml,,,,0.32,ak,ak02524e7alg,2025-02-15T19:30:21.158Z,"35 km E of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
