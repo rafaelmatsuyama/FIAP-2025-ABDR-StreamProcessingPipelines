@@ -932,3 +932,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T09:08:22.689Z,60.4576,-146.921,29.2,2.1,ml,,,,0.72,ak,ak0252484mn0,2025-02-15T09:10:29.371Z,"47 km SSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-14T22:14:56.180Z,58.4965,-154.96516666667,5.0,0.17,ml,8.0,213.0,0.2073,0.1,av,av93500471,2025-02-15T09:15:12.940Z,"100 km ESE of King Salmon, Alaska",earthquake,0.56,10.2,0.18078042734512,8.0,reviewed,av,av
 2025-02-14T22:14:37.150Z,53.948333333333,-166.56666666667,10.02,0.46,ml,10.0,131.0,0.07053,0.17,av,av93500466,2025-02-15T09:09:41.360Z,"6 km NNW of Dutch Harbor, Alaska",earthquake,0.47,0.8,0.19500778325003,10.0,reviewed,av,av
+2025-02-15T09:17:22.622Z,60.0085,-152.6051,98.3,1.6,ml,,,,0.56,ak,ak0252486k2u,2025-02-15T09:20:10.127Z,"49 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-02-14T22:48:16.290Z,61.308,-152.2555,0.86,0.04,ml,8.0,120.0,0.06461,0.07,av,av93500506,2025-02-15T09:24:55.640Z,"65 km WNW of Beluga, Alaska",earthquake,0.23,1.38,0.21567480263808,9.0,reviewed,av,av
