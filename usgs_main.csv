@@ -855,3 +855,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T03:17:06.518Z,60.6565,-151.9201,76.6,1.4,ml,,,,0.28,ak,ak025244lx7f,2025-02-15T03:19:13.607Z,"33 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-15T03:45:41.155Z,61.5171,-147.8405,23.3,1.2,ml,,,,0.62,ak,ak025244rzxf,2025-02-15T03:47:50.909Z,"33 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-14T10:32:03.960Z,61.309833333333,-152.24983333333,1.97,-0.89,ml,6.0,174.0,0.06385,0.06,av,av93499861,2025-02-15T03:44:59.350Z,"65 km WNW of Beluga, Alaska",earthquake,0.38,1.06,0.11884066219658,7.0,reviewed,av,av
+2025-02-15T04:04:41.836Z,65.3663,-148.0722,12.9,1.7,ml,,,,0.49,ak,ak0252454n87,2025-02-15T04:06:55.007Z,"28 km SE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-14T11:51:55.520Z,52.842666666667,-169.88566666667,5.29,0.66,ml,4.0,261.0,0.02004,0.32,av,av93032914,2025-02-15T03:59:33.510Z,"69 km W of Nikolski, Alaska",earthquake,3.27,1.7,0.23934765247364,4.0,reviewed,av,av
