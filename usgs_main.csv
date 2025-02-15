@@ -926,3 +926,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T20:28:24.530Z,51.427833333333,-178.58716666667,3.36,1.35,ml,14.0,241.0,0.1895,0.4,av,av93500391,2025-02-15T08:36:32.140Z,"143 km WSW of Adak, Alaska",earthquake,1.39,1.99,0.31067341389989,14.0,reviewed,av,av
 2025-02-15T08:52:28.730Z,38.797832489014,-122.74933624268,11.359999656677,0.41,md,9.0,191.0,0.02893,0.06,nc,nc75133842,2025-02-15T08:54:03.893Z,"2 km NNE of The Geysers, CA",earthquake,1.28,2.27999997,0.22,7.0,automatic,nc,nc
 2025-02-15T08:51:40.363Z,61.7382,-147.9019,35.7,1.2,ml,,,,0.06,ak,ak025247sg6s,2025-02-15T08:53:25.016Z,"15 km WSW of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-02-14T22:03:59.970Z,51.916,-176.79733333333,0.61,1.32,ml,10.0,156.0,0.1379,0.11,av,av93500446,2025-02-15T08:58:23.130Z,"12 km WNW of Adak, Alaska",earthquake,0.79,0.7,0.27827481688339,11.0,reviewed,av,av
