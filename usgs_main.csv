@@ -1099,3 +1099,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T23:09:45.568Z,61.2427,-152.1757,1.8,-0.1,ml,,,,0.62,ak,ak02524ggyle,2025-02-15T23:12:40.680Z,"59 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-15T23:24:35.489Z,55.7565,-158.1463,41.2,2.0,ml,,,,0.96,ak,ak02524gk5jw,2025-02-15T23:26:28.006Z,"62 km SSE of Chignik, Alaska",earthquake,,7.9,,,automatic,ak,ak
 2025-02-15T21:34:13.240Z,47.602,-121.80633333333,17.43,1.29,ml,14.0,128.0,0.1055,0.11,uw,uw62076096,2025-02-15T23:29:23.300Z,"7 km ENE of Fall City, Washington",earthquake,0.38,0.52,0.14129786535923,8.0,reviewed,uw,uw
+2025-02-15T23:01:05.768Z,0.5843,123.5971,260.883,4.3,mb,36.0,58.0,1.508,0.76,us,us7000pe12,2025-02-15T23:36:37.040Z,"59 km E of Gorontalo, Indonesia",earthquake,7.69,7.552,0.116,21.0,reviewed,us,us
+2025-02-15T13:05:50.370Z,37.359666666667,-118.681,10.94,1.05,md,23.0,133.0,0.2523,0.06,nc,nc75133952,2025-02-15T23:37:59.243Z,"10 km WSW of Round Valley, CA",earthquake,0.43,2.05,0.107,13.0,reviewed,nc,nc
