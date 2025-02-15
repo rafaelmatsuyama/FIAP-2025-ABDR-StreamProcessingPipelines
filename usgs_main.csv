@@ -909,3 +909,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T07:41:12.710Z,31.656,-104.215,2.764,1.7,ml,15.0,64.0,0.0,0.6,tx,tx2025deve,2025-02-15T07:52:53.403Z,"55 km NW of Toyah, Texas",earthquake,0.0,1.285701751709,0.3,13.0,automatic,tx,tx
 2025-02-15T05:25:28.890Z,31.671,-104.191,6.0999,3.8,ml,32.0,61.0,0.1,0.1,tx,tx2025deqk,2025-02-15T07:49:51.385Z,"54 km NW of Toyah, Texas",earthquake,0.61131278610982,0.75076145755222,0.2,16.0,reviewed,tx,tx
 2025-02-14T19:18:10.710Z,51.882,-176.6285,0.94,0.75,ml,9.0,168.0,0.0997,0.13,av,av93500321,2025-02-15T07:49:34.010Z,"0 km NNE of Adak, Alaska",earthquake,0.43,0.74,0.24937631665864,9.0,reviewed,av,av
+2025-02-15T07:55:56.481Z,62.9586,-150.6451,88.2,2.0,ml,,,,0.44,ak,ak0252477wow,2025-02-15T07:58:30.812Z,"51 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-02-15T07:52:11.026Z,31.655,-104.072,17.6024,1.6,ml,10.0,133.0,0.0,0.8,tx,tx2025devp,2025-02-15T07:59:48.455Z,"45 km W of Mentone, Texas",earthquake,0.0,3.1088316440582,0.1,8.0,automatic,tx,tx
+2025-02-15T05:26:32.418Z,31.671,-104.186,6.0999,2.6,ml,18.0,119.0,0.1,0.2,tx,tx2025deql,2025-02-15T07:58:05.443Z,"54 km NW of Toyah, Texas",earthquake,0.92498277197411,1.5237135676388,0.3,7.0,reviewed,tx,tx
