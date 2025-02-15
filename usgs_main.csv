@@ -1010,3 +1010,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T08:11:43.867Z,-8.6062,117.7671,190.182,4.5,mb,23.0,87.0,0.22,0.53,us,us7000pdy4,2025-02-15T15:11:22.040Z,"38 km SE of Pototano, Indonesia",earthquake,9.17,5.098,0.192,9.0,reviewed,us,us
 2025-02-15T07:48:20.235Z,40.9099,140.9607,101.848,4.3,mb,54.0,89.0,0.144,0.77,us,us7000pdy0,2025-02-15T15:22:41.040Z,"1 km SSE of Hiranai, Japan",earthquake,9.43,4.51,0.089,36.0,reviewed,us,us
 2025-02-14T22:03:25.961Z,36.653,-116.2669,5.6,-0.2,ml,9.0,165.56,0.058,0.0751,nn,nn00893524,2025-02-15T15:07:00.860Z,"52 km ESE of Beatty, Nevada",earthquake,,3.5,0.0,1.0,reviewed,nn,nn
+2025-02-15T15:21:29.555Z,31.641,-104.194,5.4104,2.0,ml,18.0,64.0,0.1,0.2,tx,tx2025dfkd,2025-02-15T15:26:03.977Z,"52 km NW of Toyah, Texas",earthquake,0.0,2.4063687324524,0.2,14.0,automatic,tx,tx
