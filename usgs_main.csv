@@ -881,3 +881,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T05:37:07.065Z,31.881,-101.724,3.9733,1.9,ml,39.0,54.0,0.0,0.4,tx,tx2025derb,2025-02-15T05:45:16.621Z,"23 km W of Garden City, Texas",earthquake,0.0,1.0022388696671,0.1,26.0,automatic,tx,tx
 2025-02-15T05:43:15.218Z,31.663,-104.187,3.8048,1.7,ml,18.0,71.0,0.1,0.4,tx,tx2025derf,2025-02-15T05:53:52.697Z,"53 km NW of Toyah, Texas",earthquake,0.0,1.1992007493973,0.2,14.0,automatic,tx,tx
 2025-02-15T05:36:21.288Z,31.66,-104.213,3.4335,1.9,ml,18.0,64.0,0.0,0.5,tx,tx2025deqw,2025-02-15T05:52:25.837Z,"55 km NW of Toyah, Texas",earthquake,0.0,1.2384954690933,0.4,14.0,automatic,tx,tx
+2025-02-15T05:56:02.740Z,38.75899887085,-122.72083282471,1.1100000143051,1.11,md,9.0,114.0,0.004078,0.03,nc,nc75133762,2025-02-15T05:57:38.565Z,"3 km WSW of Anderson Springs, CA",earthquake,0.37,0.379999995,0.31,9.0,automatic,nc,nc
+2025-02-15T05:23:21.420Z,31.661,-104.18,6.6125,5.0,ml,14.0,67.0,0.1,0.1,tx,tx2025deqh,2025-02-15T05:59:21.730Z,"53 km NW of Toyah, Texas",earthquake,0.5655718521975,1.36092923487,0.1,8.0,reviewed,tx,tx
