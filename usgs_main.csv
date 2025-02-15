@@ -1072,3 +1072,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T13:09:38.870Z,38.783,-122.7085,1.51,0.55,md,25.0,72.0,0.008482,0.05,nc,nc75133962,2025-02-15T21:25:22.734Z,"2 km NW of Anderson Springs, CA",earthquake,0.14,0.22,0.274,18.0,reviewed,nc,nc
 2025-02-15T21:25:33.060Z,33.9076667,-116.3275,3.69,1.2,ml,37.0,59.0,0.07517,0.16,ci,ci40186458,2025-02-15T21:29:57.585Z,"11 km NNE of Thousand Palms, CA",earthquake,0.17,0.56,0.21,26.0,automatic,ci,ci
 2025-02-15T14:00:02.320Z,38.819166666667,-122.8185,2.55,0.38,md,21.0,46.0,0.00782,0.02,nc,nc75133992,2025-02-15T21:31:54.788Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.32,0.151,21.0,reviewed,nc,nc
+2025-02-15T21:36:25.710Z,38.833499908447,-122.79250335693,1.8300000429153,0.83,md,10.0,59.0,0.005184,0.01,nc,nc75134222,2025-02-15T21:37:59.892Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.560000002,0.28,11.0,automatic,nc,nc
