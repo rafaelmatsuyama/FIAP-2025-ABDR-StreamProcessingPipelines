@@ -1048,3 +1048,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T19:12:13.760Z,19.194166183472,-155.49633789062,31.85000038147,2.24,ml,55.0,78.0,0.05032,0.119999997,hv,hv74616527,2025-02-15T19:15:13.570Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.47,0.649999976,0.63,9.0,automatic,hv,hv
 2025-02-15T19:04:07.359Z,31.643,-104.191,6.5552,2.2,ml,17.0,64.0,0.1,0.5,tx,tx2025dfrj,2025-02-15T19:12:34.820Z,"52 km NW of Toyah, Texas",earthquake,0.0,2.4106135368347,0.2,12.0,automatic,tx,tx
 2025-02-15T19:00:53.680Z,35.7113333,-117.5181667,5.98,1.04,ml,29.0,56.0,0.08967,0.16,ci,ci40186418,2025-02-15T19:04:15.278Z,"12 km WSW of Searles Valley, CA",earthquake,0.19,0.77,0.209,19.0,automatic,ci,ci
+2025-02-15T17:48:19.456Z,33.4051,73.0929,49.342,4.7,mb,133.0,42.0,3.471,0.62,us,us7000pe02,2025-02-15T19:22:16.040Z,"21 km S of Rawalpindi, Pakistan",earthquake,8.2,5.817,0.048,140.0,reviewed,us,us
