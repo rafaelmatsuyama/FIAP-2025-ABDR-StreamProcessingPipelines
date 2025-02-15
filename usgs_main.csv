@@ -957,3 +957,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T10:58:01.760Z,37.516498565674,-118.83583068848,0.28000000119209,0.87,md,10.0,216.0,0.07359,0.06,nc,nc75133887,2025-02-15T10:59:39.901Z,"15 km W of Toms Place, CA",earthquake,1.01,7.01999998,0.09,9.0,automatic,nc,nc
 2025-02-15T10:53:21.587Z,31.672,-104.205,4.1537,1.7,ml,16.0,65.0,0.1,0.2,tx,tx2025dfbf,2025-02-15T11:00:14.883Z,"55 km NW of Toyah, Texas",earthquake,0.0,1.3736168146133,0.2,12.0,automatic,tx,tx
 2025-02-15T10:31:36.256Z,-8.2557,119.7624,178.496,4.8,mb,34.0,73.0,1.5,1.1,us,us7000pdyc,2025-02-15T11:06:04.040Z,"29 km NNW of Labuan Bajo, Indonesia",earthquake,7.57,7.984,0.154,13.0,reviewed,us,us
+2025-02-15T11:19:47.740Z,38.847999572754,-122.79699707031,7.5999999046326,0.63,md,7.0,227.0,0.0109,0.03,nc,nc75133902,2025-02-15T11:21:24.971Z,"7 km NW of Cobb, CA",earthquake,1.45,2.22000003,0.19,8.0,automatic,nc,nc
