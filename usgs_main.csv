@@ -1070,3 +1070,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T21:13:54.272Z,31.663,-104.196,5.1936,1.8,ml,15.0,66.0,0.1,0.2,tx,tx2025dfvr,2025-02-15T21:19:59.180Z,"54 km NW of Toyah, Texas",earthquake,0.0,2.8712756633759,0.2,12.0,automatic,tx,tx
 2025-02-15T13:15:34.369Z,54.2725,-159.9404,32.7,2.7,ml,,,,0.56,ak,ak02524ajwap,2025-02-15T21:19:53.797Z,"123 km SSE of Sand Point, Alaska",earthquake,,2.9,,,reviewed,ak,ak
 2025-02-15T13:09:38.870Z,38.783,-122.7085,1.51,0.55,md,25.0,72.0,0.008482,0.05,nc,nc75133962,2025-02-15T21:25:22.734Z,"2 km NW of Anderson Springs, CA",earthquake,0.14,0.22,0.274,18.0,reviewed,nc,nc
+2025-02-15T21:25:33.060Z,33.9076667,-116.3275,3.69,1.2,ml,37.0,59.0,0.07517,0.16,ci,ci40186458,2025-02-15T21:29:57.585Z,"11 km NNE of Thousand Palms, CA",earthquake,0.17,0.56,0.21,26.0,automatic,ci,ci
+2025-02-15T14:00:02.320Z,38.819166666667,-122.8185,2.55,0.38,md,21.0,46.0,0.00782,0.02,nc,nc75133992,2025-02-15T21:31:54.788Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.32,0.151,21.0,reviewed,nc,nc
