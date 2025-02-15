@@ -1061,3 +1061,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T20:13:13.330Z,31.645,-104.194,4.5985,1.6,ml,13.0,80.0,0.1,0.2,tx,tx2025dftr,2025-02-15T20:24:05.197Z,"52 km NW of Toyah, Texas",earthquake,0.0,1.4946948289871,0.1,11.0,automatic,tx,tx
 2025-02-15T20:38:36.170Z,39.356498718262,-123.27649688721,5.8899998664856,1.23,md,7.0,133.0,0.1164,0.03,nc,nc75134177,2025-02-15T20:40:15.378Z,"9 km SE of Willits, CA",earthquake,0.37,2.5999999,0.23,5.0,automatic,nc,nc
 2025-02-15T20:43:24.780Z,38.834999084473,-122.78583526611,2.1900000572205,0.37,md,11.0,67.0,0.004898,0.02,nc,nc75134182,2025-02-15T20:45:00.380Z,"6 km WNW of Cobb, CA",earthquake,0.36,0.629999995,0.28,11.0,automatic,nc,nc
+2025-02-15T11:41:58.104Z,59.3222,-153.841,127.6,1.8,ml,,,,0.43,ak,ak025249imbb,2025-02-15T21:13:09.505Z,"45 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2025-02-15T08:07:07.963Z,52.2565,-179.0486,229.4,3.0,ml,,,,0.33,ak,ak025247iybu,2025-02-15T21:03:55.870Z,"170 km WNW of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
