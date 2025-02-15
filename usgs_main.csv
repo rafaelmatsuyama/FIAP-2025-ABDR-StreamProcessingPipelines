@@ -877,3 +877,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T05:30:34.416Z,31.671,-104.187,4.0635,1.8,ml,18.0,74.0,0.1,0.3,tx,tx2025deqq,2025-02-15T05:40:58.715Z,"54 km NW of Toyah, Texas",earthquake,0.0,1.1714261770248,0.3,14.0,automatic,tx,tx
 2025-02-15T05:27:25.567Z,31.665,-104.19,4.3653,1.9,ml,5.0,181.0,0.1,0.0,tx,tx2025deqy,2025-02-15T05:39:51.666Z,"54 km NW of Toyah, Texas",earthquake,0.0,2.3403694629669,0.2,5.0,automatic,tx,tx
 2025-02-15T05:23:21.003Z,31.6451,-104.2053,13.514,4.9,mww,33.0,104.0,0.231,0.46,us,us7000pdw4,2025-02-15T05:38:35.469Z,"53 km NW of Toyah, Texas",earthquake,1.55,6.984,0.057,30.0,reviewed,us,us
+2025-02-15T05:44:09.290Z,36.21866607666,-120.78483581543,5.289999961853,1.03,md,8.0,194.0,0.01357,0.01,nc,nc75133757,2025-02-15T05:45:44.279Z,"23 km ENE of San Lucas, CA",earthquake,0.57,0.649999976,0.11,4.0,automatic,nc,nc
+2025-02-15T05:37:07.065Z,31.881,-101.724,3.9733,1.9,ml,39.0,54.0,0.0,0.4,tx,tx2025derb,2025-02-15T05:45:16.621Z,"23 km W of Garden City, Texas",earthquake,0.0,1.0022388696671,0.1,26.0,automatic,tx,tx
