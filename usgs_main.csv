@@ -1041,3 +1041,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T18:09:03.050Z,31.9195,-115.8128333,9.62,2.42,ml,14.0,60.0,0.1249,0.25,ci,ci40186370,2025-02-15T18:12:45.000Z,"70 km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.44,0.82,0.194,27.0,automatic,ci,ci
 2025-02-15T15:46:01.491Z,46.2545,151.8789,69.549,4.6,mb,161.0,127.0,6.322,0.64,us,us7000pdzm,2025-02-15T17:57:28.040Z,Kuril Islands,earthquake,10.8,7.981,0.043,159.0,reviewed,us,us
 2025-02-15T18:27:41.941Z,31.659,-104.336,4.4718,1.7,ml,15.0,87.0,0.1,0.3,tx,tx2025dfqe,2025-02-15T18:39:02.881Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.4446160793304,0.2,13.0,automatic,tx,tx
+2025-02-15T18:47:29.630Z,38.820999145508,-122.87066650391,12.260000228882,0.81,md,13.0,195.0,0.0126,0.12,nc,nc75134137,2025-02-15T18:49:04.652Z,"11 km NW of The Geysers, CA",earthquake,1.76,1.01999998,0.08,12.0,automatic,nc,nc
+2025-02-15T16:55:48.005Z,-6.7973,68.1737,10.0,4.6,mb,47.0,97.0,12.805,0.43,us,us7000pdzz,2025-02-15T18:48:01.040Z,Chagos Archipelago region,earthquake,12.62,1.892,0.086,40.0,reviewed,us,us
