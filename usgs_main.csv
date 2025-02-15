@@ -853,3 +853,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T08:47:21.060Z,53.929,-166.5915,10.56,-0.42,ml,6.0,201.0,0.06584,0.28,av,av93499766,2025-02-15T02:58:16.100Z,"5 km NW of Dutch Harbor, Alaska",earthquake,1.18,1.87,0.11853990514137,6.0,reviewed,av,av
 2025-02-15T03:23:05.860Z,19.275833129883,-155.41217041016,31.010000228882,2.18,ml,57.0,72.0,0.04057,0.140000001,hv,hv74616022,2025-02-15T03:26:20.240Z,"10 km NE of Pāhala, Hawaii",earthquake,0.4,0.519999981,0.44,25.0,automatic,hv,hv
 2025-02-15T03:17:06.518Z,60.6565,-151.9201,76.6,1.4,ml,,,,0.28,ak,ak025244lx7f,2025-02-15T03:19:13.607Z,"33 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-02-15T03:45:41.155Z,61.5171,-147.8405,23.3,1.2,ml,,,,0.62,ak,ak025244rzxf,2025-02-15T03:47:50.909Z,"33 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-14T10:32:03.960Z,61.309833333333,-152.24983333333,1.97,-0.89,ml,6.0,174.0,0.06385,0.06,av,av93499861,2025-02-15T03:44:59.350Z,"65 km WNW of Beluga, Alaska",earthquake,0.38,1.06,0.11884066219658,7.0,reviewed,av,av
