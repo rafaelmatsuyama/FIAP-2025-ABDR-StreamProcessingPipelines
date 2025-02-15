@@ -1097,3 +1097,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T23:10:45.880Z,34.4458333,-117.0493333,2.83,1.19,ml,27.0,152.0,0.07111,0.26,ci,ci40186546,2025-02-15T23:15:47.057Z,"8 km W of Lucerne Valley, CA",earthquake,0.56,1.06,0.21,25.0,automatic,ci,ci
 2025-02-15T23:10:37.392Z,32.169,-102.166,3.9657,1.2,ml,13.0,128.0,0.0,0.5,tx,tx2025dfzq,2025-02-15T23:14:23.143Z,"20 km NNW of Midland, Texas",earthquake,0.0,1.600714802742,0.2,6.0,automatic,tx,tx
 2025-02-15T23:09:45.568Z,61.2427,-152.1757,1.8,-0.1,ml,,,,0.62,ak,ak02524ggyle,2025-02-15T23:12:40.680Z,"59 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-02-15T23:24:35.489Z,55.7565,-158.1463,41.2,2.0,ml,,,,0.96,ak,ak02524gk5jw,2025-02-15T23:26:28.006Z,"62 km SSE of Chignik, Alaska",earthquake,,7.9,,,automatic,ak,ak
