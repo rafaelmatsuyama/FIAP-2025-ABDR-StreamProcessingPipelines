@@ -1063,3 +1063,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T20:43:24.780Z,38.834999084473,-122.78583526611,2.1900000572205,0.37,md,11.0,67.0,0.004898,0.02,nc,nc75134182,2025-02-15T20:45:00.380Z,"6 km WNW of Cobb, CA",earthquake,0.36,0.629999995,0.28,11.0,automatic,nc,nc
 2025-02-15T11:41:58.104Z,59.3222,-153.841,127.6,1.8,ml,,,,0.43,ak,ak025249imbb,2025-02-15T21:13:09.505Z,"45 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2025-02-15T08:07:07.963Z,52.2565,-179.0486,229.4,3.0,ml,,,,0.33,ak,ak025247iybu,2025-02-15T21:03:55.870Z,"170 km WNW of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2025-02-15T21:21:04.450Z,38.820499420166,-122.8125,2.8800001144409,1.08,md,24.0,42.0,0.003457,0.02,nc,nc75134212,2025-02-15T21:22:40.888Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.49000001,0.16,25.0,automatic,nc,nc
+2025-02-15T21:19:21.500Z,38.844833374023,-122.87550354004,2.079999923706,1.54,md,30.0,89.0,0.007226,0.03,nc,nc75134207,2025-02-15T21:21:00.067Z,"13 km NW of The Geysers, CA",earthquake,0.23,0.340000004,0.16,30.0,automatic,nc,nc
+2025-02-15T21:17:53.840Z,59.8962,-145.7832,20.2,2.9,ml,,,,0.48,ak,ak02524fbtqw,2025-02-15T21:19:47.535Z,"72 km S of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-15T21:14:39.808Z,31.664,-104.197,4.0172,2.0,ml,15.0,112.0,0.1,0.3,tx,tx2025dfvq,2025-02-15T21:20:02.179Z,"54 km NW of Toyah, Texas",earthquake,0.0,1.3382053375244,0.2,13.0,automatic,tx,tx
+2025-02-15T21:13:54.272Z,31.663,-104.196,5.1936,1.8,ml,15.0,66.0,0.1,0.2,tx,tx2025dfvr,2025-02-15T21:19:59.180Z,"54 km NW of Toyah, Texas",earthquake,0.0,2.8712756633759,0.2,12.0,automatic,tx,tx
+2025-02-15T13:15:34.369Z,54.2725,-159.9404,32.7,2.7,ml,,,,0.56,ak,ak02524ajwap,2025-02-15T21:19:53.797Z,"123 km SSE of Sand Point, Alaska",earthquake,,2.9,,,reviewed,ak,ak
+2025-02-15T13:09:38.870Z,38.783,-122.7085,1.51,0.55,md,25.0,72.0,0.008482,0.05,nc,nc75133962,2025-02-15T21:25:22.734Z,"2 km NW of Anderson Springs, CA",earthquake,0.14,0.22,0.274,18.0,reviewed,nc,nc
