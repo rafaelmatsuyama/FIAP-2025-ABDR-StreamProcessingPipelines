@@ -1091,3 +1091,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T22:59:40.497Z,36.6451,-116.2834,11.4,0.3,ml,13.0,184.24,0.044,0.1273,nn,nn00893547,2025-02-15T23:01:36.995Z,"51 km SE of Beatty, Nevada",earthquake,,1.3,0.23,8.0,automatic,nn,nn
 2025-02-15T22:55:06.153Z,61.3076,-152.2172,0.0,0.2,ml,,,,0.71,ak,ak02524g5av0,2025-02-15T22:58:17.222Z,"63 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-15T22:47:23.770Z,31.643,-104.19,6.8348,1.2,ml,13.0,79.0,0.1,0.3,tx,tx2025dfyt,2025-02-15T23:00:36.019Z,"52 km NW of Toyah, Texas",earthquake,0.0,3.5968914031982,0.2,7.0,automatic,tx,tx
+2025-02-15T23:13:15.020Z,38.778499603271,-122.74033355713,1.0299999713898,1.28,md,19.0,57.0,0.005507,0.03,nc,nc75134267,2025-02-15T23:14:50.907Z,"1 km E of The Geysers, CA",earthquake,0.2,0.319999993,0.13,18.0,automatic,nc,nc
+2025-02-15T23:10:59.060Z,47.22766494751,-122.4820022583,25.75,2.150737285614,ml,59.0,61.0,,0.109999999,uw,uw62076111,2025-02-15T23:13:31.170Z,"2 km ESE of Fircrest, Washington",earthquake,0.27,0.779999971,0.27204245328903,37.0,automatic,uw,uw
+2025-02-15T23:10:49.918Z,31.373,-103.757,5.6136,1.8,ml,5.0,158.0,0.1,0.2,tx,tx2025dfzp,2025-02-15T23:20:40.185Z,"7 km NNE of Toyah, Texas",earthquake,0.0,5.5887866020203,0.2,5.0,automatic,tx,tx
+2025-02-15T23:10:45.880Z,34.4458333,-117.0493333,2.83,1.19,ml,27.0,152.0,0.07111,0.26,ci,ci40186546,2025-02-15T23:15:47.057Z,"8 km W of Lucerne Valley, CA",earthquake,0.56,1.06,0.21,25.0,automatic,ci,ci
+2025-02-15T23:10:37.392Z,32.169,-102.166,3.9657,1.2,ml,13.0,128.0,0.0,0.5,tx,tx2025dfzq,2025-02-15T23:14:23.143Z,"20 km NNW of Midland, Texas",earthquake,0.0,1.600714802742,0.2,6.0,automatic,tx,tx
+2025-02-15T23:09:45.568Z,61.2427,-152.1757,1.8,-0.1,ml,,,,0.62,ak,ak02524ggyle,2025-02-15T23:12:40.680Z,"59 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
