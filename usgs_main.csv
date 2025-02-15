@@ -1043,3 +1043,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T18:27:41.941Z,31.659,-104.336,4.4718,1.7,ml,15.0,87.0,0.1,0.3,tx,tx2025dfqe,2025-02-15T18:39:02.881Z,"57 km S of Whites City, New Mexico",earthquake,0.0,1.4446160793304,0.2,13.0,automatic,tx,tx
 2025-02-15T18:47:29.630Z,38.820999145508,-122.87066650391,12.260000228882,0.81,md,13.0,195.0,0.0126,0.12,nc,nc75134137,2025-02-15T18:49:04.652Z,"11 km NW of The Geysers, CA",earthquake,1.76,1.01999998,0.08,12.0,automatic,nc,nc
 2025-02-15T16:55:48.005Z,-6.7973,68.1737,10.0,4.6,mb,47.0,97.0,12.805,0.43,us,us7000pdzz,2025-02-15T18:48:01.040Z,Chagos Archipelago region,earthquake,12.62,1.892,0.086,40.0,reviewed,us,us
+2025-02-15T18:55:32.400Z,35.8648338,-117.6858368,7.18,1.04,ml,10.0,111.0,0.08531,0.06,ci,ci40186402,2025-02-15T18:57:40.628Z,"21 km ESE of Little Lake, CA",earthquake,0.45,1.22,0.132,6.0,automatic,ci,ci
+2025-02-15T18:53:37.970Z,34.106,-117.773,7.11,1.6,ml,16.0,108.0,0.1793,0.31,ci,ci40186386,2025-02-15T18:59:28.689Z,"1 km NW of La Verne, CA",earthquake,0.71,2.27,0.348,33.0,automatic,ci,ci
