@@ -1003,3 +1003,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T14:30:12.290Z,34.0556679,-118.9128342,14.37,3.52,mlr,137.0,119.0,0.04977,0.33,ci,ci40186290,2025-02-15T14:34:19.489Z,"11 km WNW of Malibu, CA",earthquake,0.42,0.53,0.374,17.0,reviewed,ci,ci
 2025-02-15T14:04:54.067Z,31.715,-104.274,6.9714,2.2,ml,23.0,77.0,0.0,0.2,tx,tx2025dfho,2025-02-15T14:34:54.600Z,"51 km S of Whites City, New Mexico",earthquake,0.55776925589147,0.53885702312788,0.2,19.0,reviewed,tx,tx
 2025-02-15T00:11:25.993Z,36.8004,-116.1552,5.8,-0.1,ml,8.0,183.4,0.051,0.0747,nn,nn00893520,2025-02-15T14:48:26.832Z,"50 km WNW of Indian Springs, Nevada",earthquake,,2.3,0.1,2.0,reviewed,nn,nn
+2025-02-15T14:50:44.290Z,36.1751671,-118.0296631,3.74,1.81,ml,19.0,82.0,0.1527,0.2,ci,ci40186298,2025-02-15T14:53:10.959Z,"12 km S of Olancha, CA",earthquake,0.38,1.55,0.258,23.0,automatic,ci,ci
+2025-02-15T06:04:12.732Z,36.7299,-116.2271,6.5,-0.1,ml,17.0,147.11,0.012,0.0409,nn,nn00893521,2025-02-15T14:51:34.834Z,"51 km ESE of Beatty, Nevada",earthquake,,0.8,0.07,4.0,reviewed,nn,nn
