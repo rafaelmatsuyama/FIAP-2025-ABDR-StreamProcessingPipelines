@@ -934,3 +934,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T22:14:37.150Z,53.948333333333,-166.56666666667,10.02,0.46,ml,10.0,131.0,0.07053,0.17,av,av93500466,2025-02-15T09:09:41.360Z,"6 km NNW of Dutch Harbor, Alaska",earthquake,0.47,0.8,0.19500778325003,10.0,reviewed,av,av
 2025-02-15T09:17:22.622Z,60.0085,-152.6051,98.3,1.6,ml,,,,0.56,ak,ak0252486k2u,2025-02-15T09:20:10.127Z,"49 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-14T22:48:16.290Z,61.308,-152.2555,0.86,0.04,ml,8.0,120.0,0.06461,0.07,av,av93500506,2025-02-15T09:24:55.640Z,"65 km WNW of Beluga, Alaska",earthquake,0.23,1.38,0.21567480263808,9.0,reviewed,av,av
+2025-02-14T22:11:08.510Z,51.962333333333,179.51683333333,4.6,0.97,ml,4.0,292.0,0.06834,0.16,av,av93032984,2025-02-15T09:35:38.640Z,"264 km W of Adak, Alaska",earthquake,2.23,3.55,0.3744062663861,5.0,reviewed,av,av
