@@ -1054,3 +1054,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T19:32:17.150Z,38.844165802002,-122.82966613769,1.2699999809265,0.77,md,8.0,119.0,0.007188,0.02,nc,nc75134142,2025-02-15T19:33:54.799Z,"10 km WNW of Cobb, CA",earthquake,0.36,0.74000001,0.31,10.0,automatic,nc,nc
 2025-02-15T19:28:43.249Z,62.0005,-150.7223,0.1,1.6,ml,,,,0.32,ak,ak02524e7alg,2025-02-15T19:30:21.158Z,"35 km E of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-15T19:39:15.607Z,60.5368,-147.5636,13.5,2.1,ml,,,,0.9,ak,ak02524e9lc8,2025-02-15T19:41:17.441Z,"57 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-15T20:02:00.125Z,61.2874,-152.2279,0.0,1.9,ml,,,,0.66,ak,ak02524en298,2025-02-15T20:04:02.985Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-15T19:59:26.870Z,38.822334289551,-122.76499938965,2.1900000572205,0.77,md,14.0,120.0,0.008986,0.02,nc,nc75134162,2025-02-15T20:01:05.267Z,"4 km WNW of Cobb, CA",earthquake,0.31,0.600000024,0.15,14.0,automatic,nc,nc
