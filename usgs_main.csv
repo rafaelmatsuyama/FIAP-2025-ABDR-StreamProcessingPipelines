@@ -1337,3 +1337,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T21:00:57.096Z,-19.4481,-69.6777,115.95,4.7,mb,39.0,112.0,0.506,0.82,us,us7000pe5e,2025-02-16T22:41:12.040Z,"30 km WSW of Camiña, Chile",earthquake,4.76,5.151,0.106,27.0,reviewed,us,us
 2025-02-16T22:39:01.180Z,33.65,-116.7048333,13.79,0.65,ml,15.0,95.0,0.0642,0.13,ci,ci40187250,2025-02-16T22:43:50.728Z,"10 km S of Idyllwild, CA",earthquake,0.32,0.52,0.286,16.0,automatic,ci,ci
 2025-02-16T20:33:42.780Z,38.82,-122.82283333333,2.53,-0.15,md,19.0,89.0,0.01002,0.02,nc,nc75134797,2025-02-16T22:43:54.254Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.18,0.255,18.0,reviewed,nc,nc
+2025-02-16T23:01:55.735Z,62.4992,-150.7531,69.3,1.9,ml,,,,0.76,ak,ak025263ym51,2025-02-16T23:03:54.378Z,"0 km ENE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-02-16T22:16:39.270Z,37.012,-104.9068,4.046,2.2,ml,9.0,74.0,0.148,0.69,us,us7000pe5k,2025-02-16T22:58:47.040Z,"14 km SSW of Weston, Colorado",earthquake,1.75,5.754,0.085,18.0,reviewed,us,us
