@@ -1287,3 +1287,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T19:12:20.220Z,36.2642,-115.4452,4.7,1.3,ml,22.0,211.92,0.334,0.1643,nn,nn00893576,2025-02-16T19:15:52.722Z,"17 km E of Mount Charleston, Nevada",earthquake,,2.7,0.25,12.0,automatic,nn,nn
 2025-02-16T19:11:52.260Z,38.836334228516,-122.79850006103,1.25,0.59,md,11.0,71.0,0.006698,0.02,nc,nc75134737,2025-02-16T19:13:30.348Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.689999998,0.32,11.0,automatic,nc,nc
 2025-02-16T18:55:37.670Z,32.8128,48.3958,10.0,5.3,mb,124.0,40.0,3.148,1.01,us,us7000pe4x,2025-02-16T19:17:02.418Z,"51 km N of Shahrak-e Kūlūrī, Iran",earthquake,7.65,1.837,0.035,275.0,reviewed,us,us
+2025-02-16T04:02:09.010Z,61.165166666667,-152.23683333333,5.61,-0.88,ml,7.0,223.0,0.03758,0.06,av,av93501756,2025-02-16T19:18:57.050Z,"60 km W of Tyonek, Alaska",earthquake,0.56,0.49,0.1097385740893,7.0,reviewed,av,av
