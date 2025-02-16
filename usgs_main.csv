@@ -1298,3 +1298,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T20:10:43.468Z,28.942,-98.2411,5.0,3.0,mb_lg,19.0,64.0,0.304,0.48,us,us7000pe57,2025-02-16T20:18:54.040Z,"20 km SW of Poth, Texas",earthquake,1.51,1.999,0.088,34.0,reviewed,us,us
 2025-02-16T20:07:49.610Z,38.803165435791,-122.77100372315,2.2799999713898,0.75,md,9.0,135.0,0.00918,0.01,nc,nc75134772,2025-02-16T20:09:25.665Z,"3 km NNW of The Geysers, CA",earthquake,0.39,0.779999971,0.17,11.0,automatic,nc,nc
 2025-02-16T05:48:01.740Z,38.5445,-122.67566666667,5.0,0.78,md,20.0,111.0,0.04162,0.08,nc,nc75134422,2025-02-16T20:22:41.971Z,"7 km ENE of Larkfield-Wikiup, CA",earthquake,0.25,0.43,0.212,15.0,reviewed,nc,nc
+2025-02-16T17:58:49.390Z,36.087666666667,-120.19716666667,10.17,1.0,md,25.0,107.0,0.04907,0.08,nc,nc75134717,2025-02-16T20:30:44.354Z,"11 km NNW of Avenal, CA",earthquake,0.38,0.32,0.247,11.0,reviewed,nc,nc
