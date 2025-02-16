@@ -1317,3 +1317,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T20:49:58.501Z,3.9857,143.7221,10.0,4.6,mb,37.0,119.0,7.009,0.74,us,us7000pe5b,2025-02-16T21:11:30.040Z,Federated States of Micronesia region,earthquake,7.85,1.584,0.112,24.0,reviewed,us,us
 2025-02-16T09:49:59.840Z,38.793833333333,-122.78183333333,3.83,-0.28,md,12.0,93.0,0.0048,0.02,nc,nc75134587,2025-02-16T21:20:29.671Z,"3 km NW of The Geysers, CA",earthquake,0.51,0.45,0.121,11.0,reviewed,nc,nc
 2025-02-16T06:56:40.230Z,38.8305,-122.81666666667,2.09,-0.13,md,7.0,207.0,0.008766,0.02,nc,nc75134457,2025-02-16T21:16:28.239Z,"8 km NNW of The Geysers, CA",earthquake,0.61,0.97,0.049,5.0,reviewed,nc,nc
+2025-02-16T21:24:09.395Z,61.4484,-150.6354,35.7,2.0,ml,,,,0.57,ak,ak025262wku7,2025-02-16T21:26:41.166Z,"12 km SSW of Susitna, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2025-02-16T20:56:03.747Z,1.8736,98.9713,131.106,4.6,mb,46.0,180.0,2.717,0.55,us,us7000pe5d,2025-02-16T21:25:10.040Z,"25 km NE of Sibolga, Indonesia",earthquake,8.5,9.024,0.087,39.0,reviewed,us,us
+2025-02-16T17:15:46.320Z,38.717833333333,-122.7515,6.46,0.42,md,26.0,94.0,0.008432,0.07,nc,nc75134702,2025-02-16T21:27:01.788Z,"7 km S of The Geysers, CA",earthquake,0.28,0.29,0.197,22.0,reviewed,nc,nc
