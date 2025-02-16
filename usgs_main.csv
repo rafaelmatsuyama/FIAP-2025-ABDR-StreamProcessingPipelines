@@ -1222,3 +1222,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T11:10:51.730Z,38.829334259033,-122.80249786377,1.5,1.29,md,23.0,38.0,0.008378,0.02,nc,nc75134617,2025-02-16T11:12:26.611Z,"7 km WNW of Cobb, CA",earthquake,0.17,0.370000005,0.1,25.0,automatic,nc,nc
 2025-02-16T11:03:21.417Z,68.6338,-165.5922,7.8,3.2,ml,,,,0.63,ak,ak02525wtrnx,2025-02-16T11:07:11.845Z,"56 km ENE of Point Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-16T10:50:06.770Z,18.572833333333,-66.830833333333,11.14,3.0,md,22.0,219.0,0.1329,0.23,pr,pr71472863,2025-02-16T11:22:27.440Z,"9 km N of Hatillo, Puerto Rico",earthquake,0.44,0.46,0.12223135098455,13.0,reviewed,pr,pr
+2025-02-16T11:50:04.270Z,39.759498596191,-122.93683624268,-1.2300000190735,2.02,md,10.0,106.0,0.09825,0.18,nc,nc75134627,2025-02-16T11:51:41.833Z,"22 km NW of Alder Springs, CA",earthquake,0.66,3.28999996,0.11,7.0,automatic,nc,nc
+2025-02-16T11:42:27.389Z,31.596,-104.534,4.5121,1.8,ml,8.0,160.0,0.1,0.3,tx,tx2025dgyg,2025-02-16T11:50:46.761Z,"65 km SSW of Whites City, New Mexico",earthquake,0.0,2.2993960380554,0.2,6.0,automatic,tx,tx
