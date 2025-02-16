@@ -1211,3 +1211,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T09:41:38.840Z,38.814167022705,-122.82733154297,2.1300001144409,0.44,md,10.0,63.0,0.005484,0.01,nc,nc75134582,2025-02-16T09:43:15.719Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.699999988,0.29,10.0,automatic,nc,nc
 2025-02-16T09:45:17.010Z,19.402500152588,-155.25300598144,-0.62000000476837,1.9,ml,12.0,81.0,0.01153,0.230000004,hv,hv74616897,2025-02-16T09:48:15.540Z,"4 km SSW of Volcano, Hawaii",earthquake,0.21,0.449999988,0.43,5.0,automatic,hv,hv
 2025-02-16T09:25:24.692Z,-18.5391,-175.3701,202.368,5.0,mb,52.0,97.0,5.183,0.73,us,us7000pe3g,2025-02-16T09:49:33.040Z,"146 km W of Neiafu, Tonga",earthquake,14.56,6.432,0.068,69.0,reviewed,us,us
+2025-02-16T09:50:45.856Z,59.9285,-140.122,10.2,1.8,ml,,,,0.82,ak,ak02525vx0zt,2025-02-16T09:52:57.883Z,"47 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
