@@ -1189,3 +1189,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T08:20:26.052Z,57.8762,-153.9598,74.0,1.4,ml,,,,0.64,ak,ak02525v551u,2025-02-16T08:22:42.131Z,"37 km N of Larsen Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-16T08:34:00.849Z,39.1565,-119.0725,8.3,1.0,ml,8.0,136.47,0.029,0.0879,nn,nn00893555,2025-02-16T08:36:27.094Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.41,3.0,automatic,nn,nn
 2025-02-16T08:41:06.218Z,39.4126,-119.9432,7.0,0.7,ml,8.0,97.59,0.127,0.0851,nn,nn00893556,2025-02-16T08:42:47.267Z,"7 km ENE of Floriston, California",earthquake,,2.0,0.61,6.0,automatic,nn,nn
+2025-02-16T08:51:17.260Z,36.129333496094,-120.16432952881,4.4400000572205,1.39,md,7.0,160.0,0.07231,0.05,nc,nc75134517,2025-02-16T08:52:56.129Z,"10 km SW of Huron, CA",earthquake,1.04,0.529999971,0.32,5.0,automatic,nc,nc
+2025-02-16T08:48:43.940Z,38.5,-122.65133666992,5.4499998092651,1.57,md,18.0,54.0,0.08984,0.07,nc,nc75134512,2025-02-16T08:50:21.501Z,"7 km NE of Santa Rosa, CA",earthquake,0.27,1.12,0.13,17.0,automatic,nc,nc
+2025-02-16T08:47:48.450Z,32.0625,-116.3691667,23.4,1.92,ml,20.0,92.0,0.3532,0.2,ci,ci40186866,2025-02-16T08:51:14.566Z,"32 km NE of Ensenada, B.C., MX",earthquake,0.37,1.61,0.244,25.0,automatic,ci,ci
