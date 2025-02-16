@@ -1215,3 +1215,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T09:57:03.070Z,39.068,-119.027,3.3,1.0,ml,11.0,105.49,0.101,0.1261,nn,nn00893557,2025-02-16T09:59:08.288Z,"14 km NE of Yerington, Nevada",earthquake,,1.2,0.32,4.0,automatic,nn,nn
 2025-02-16T10:19:47.840Z,38.833667755127,-122.79383087158,1.6200000047684,0.7,md,7.0,84.0,0.005462,0.0,nc,nc75134592,2025-02-16T10:21:26.152Z,"6 km WNW of Cobb, CA",earthquake,0.48,1.50999999,0.13,8.0,automatic,nc,nc
 2025-02-16T10:16:27.713Z,55.7498,-155.9775,250.0,2.8,ml,,,,0.8,ak,ak02525wb4ur,2025-02-16T10:19:36.937Z,"162 km ESE of Chignik, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2025-02-16T10:27:05.180Z,38.83716583252,-122.78016662598,1.7699999809265,0.84,md,8.0,111.0,0.006175,0.01,nc,nc75134597,2025-02-16T10:28:41.232Z,"5 km WNW of Cobb, CA",earthquake,0.57,0.479999989,0.28,10.0,automatic,nc,nc
