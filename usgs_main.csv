@@ -1248,3 +1248,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T05:14:43.351Z,36.7743,-116.2783,5.0,-0.4,ml,10.0,87.46,0.034,0.0485,nn,nn00893561,2025-02-16T15:21:13.449Z,"45 km ESE of Beatty, Nevada",earthquake,,3.2,0.0,1.0,reviewed,nn,nn
 2025-02-16T14:47:28.745Z,36.7349,-116.1638,4.2,-0.1,ml,7.0,156.77,0.031,0.0429,nn,nn00893563,2025-02-16T15:27:22.498Z,"47 km WNW of Indian Springs, Nevada",earthquake,,2.5,0.03,3.0,reviewed,nn,nn
 2025-02-16T00:54:38.090Z,44.8815,-111.51,10.91,1.05,ml,18.0,103.0,0.0763,0.21,mb,mb90072638,2025-02-16T15:28:31.850Z,"28 km WNW of Hebgen Lake Estates, Montana",earthquake,0.46,0.73,0.24533654442776,9.0,reviewed,mb,mb
+2025-02-16T14:30:02.548Z,40.7286,14.2131,10.0,3.0,ml,18.0,189.0,1.303,1.13,us,us7000pe46,2025-02-16T15:38:27.611Z,"9 km S of Posillipo, Italy",earthquake,4.92,2.004,0.069,28.0,reviewed,us,us
