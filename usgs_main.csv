@@ -1232,3 +1232,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T12:26:02.930Z,35.36600112915,-120.58666992188,0.090000003576279,1.87,md,12.0,81.0,0.02377,0.07,nc,nc75134642,2025-02-16T12:27:41.012Z,"3 km SSE of Santa Margarita, CA",earthquake,0.28,0.689999998,0.13,6.0,automatic,nc,nc
 2025-02-16T12:53:54.220Z,61.2882,-152.2833,2.8,2.1,ml,,,,0.41,ak,ak02525xpzlq,2025-02-16T12:55:37.181Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-16T12:48:35.656Z,61.1525,-152.0126,91.6,1.7,ml,,,,0.2,ak,ak02525xovl9,2025-02-16T12:57:32.471Z,"48 km W of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-02-16T13:16:07.081Z,39.0345,-119.0298,11.9,1.0,ml,8.0,117.69,0.135,0.1243,nn,nn00893559,2025-02-16T13:18:28.162Z,"12 km ENE of Yerington, Nevada",earthquake,,0.8,0.32,3.0,automatic,nn,nn
