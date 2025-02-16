@@ -1138,3 +1138,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T02:38:35.000Z,38.819999694824,-122.81199645996,2.9700000286102,1.11,md,28.0,41.0,0.003708,0.02,nc,nc75134337,2025-02-16T02:42:03.970Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.15,28.0,automatic,nc,nc
 2025-02-16T02:37:42.170Z,34.1676667,-117.2675,7.27,0.99,ml,54.0,33.0,0.03521,0.21,ci,ci40186682,2025-02-16T02:42:52.689Z,"5 km NNE of San Bernardino, CA",earthquake,0.17,0.53,0.23,29.0,automatic,ci,ci
 2025-02-16T00:16:27.629Z,45.8224,148.1829,189.571,4.3,mb,51.0,135.0,3.92,0.66,us,us7000pe1j,2025-02-16T02:36:42.040Z,"70 km NNE of Kuril’sk, Russia",earthquake,10.58,7.366,0.071,56.0,reviewed,us,us
+2025-02-16T03:24:58.060Z,35.9071667,-117.7028333,8.2,0.46,ml,18.0,46.0,0.05886,0.12,ci,ci40186730,2025-02-16T03:28:31.657Z,"19 km E of Little Lake, CA",earthquake,0.18,0.48,0.155,7.0,automatic,ci,ci
+2025-02-16T02:52:18.036Z,65.4012,-169.0923,9.6,4.2,ml,,,,0.74,ak,ak02525rrdfc,2025-02-16T03:19:52.040Z,"40 km S of Diomede, Alaska",earthquake,,0.4,,,reviewed,ak,ak
