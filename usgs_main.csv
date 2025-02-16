@@ -1188,3 +1188,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T08:26:48.800Z,35.1293333,-119.0871667,8.35,1.21,ml,43.0,63.0,0.07063,0.24,ci,ci40186850,2025-02-16T08:31:09.995Z,"21 km SW of Lamont, CA",earthquake,0.25,0.78,0.148,27.0,automatic,ci,ci
 2025-02-16T08:20:26.052Z,57.8762,-153.9598,74.0,1.4,ml,,,,0.64,ak,ak02525v551u,2025-02-16T08:22:42.131Z,"37 km N of Larsen Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-16T08:34:00.849Z,39.1565,-119.0725,8.3,1.0,ml,8.0,136.47,0.029,0.0879,nn,nn00893555,2025-02-16T08:36:27.094Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.41,3.0,automatic,nn,nn
+2025-02-16T08:41:06.218Z,39.4126,-119.9432,7.0,0.7,ml,8.0,97.59,0.127,0.0851,nn,nn00893556,2025-02-16T08:42:47.267Z,"7 km ENE of Floriston, California",earthquake,,2.0,0.61,6.0,automatic,nn,nn
