@@ -1172,3 +1172,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T06:55:57.450Z,18.2065,-68.2778,152.0,4.08,md,26.0,179.0,0.3244,0.2,pr,pr2025047000,2025-02-16T07:29:41.974Z,"39 km ESE of Boca de Yuma, Dominican Republic",earthquake,2.21,0.76,0.1,21.0,reviewed,pr,pr
 2025-02-16T07:40:09.120Z,31.6985,-115.0573333,11.8,2.63,ml,12.0,119.0,0.2258,0.27,ci,ci40186810,2025-02-16T07:43:41.232Z,"55 km S of Estacion Coahuila, B.C., MX",earthquake,0.65,2.14,0.185,23.0,automatic,ci,ci
 2025-02-16T03:08:35.040Z,37.220166666667,-121.60833333333,3.48,0.73,md,19.0,57.0,0.05842,0.06,nc,nc75134372,2025-02-16T07:47:02.271Z,"11 km NNE of Morgan Hill, CA",earthquake,0.2,0.54,0.217,16.0,reviewed,nc,nc
+2025-02-16T07:50:01.617Z,61.3123,-152.2869,1.6,0.6,ml,,,,0.1,ak,ak02525uq2dd,2025-02-16T07:51:42.156Z,"67 km WNW of Beluga, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2025-02-16T07:46:08.375Z,64.6997,-147.6054,11.3,1.1,ml,,,,0.64,ak,ak02525up81j,2025-02-16T07:49:19.571Z,"11 km SSW of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
