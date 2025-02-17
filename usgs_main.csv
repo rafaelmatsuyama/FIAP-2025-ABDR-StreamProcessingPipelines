@@ -1573,3 +1573,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T21:05:40.193Z,65.9792,-149.7915,6.8,1.6,ml,,,,0.59,ak,ak02527qbx37,2025-02-17T21:08:15.742Z,"31 km W of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-17T02:42:49.890Z,61.311166666667,-152.271,-1.11,0.19,ml,9.0,121.0,0.07155,0.06,av,av93502611,2025-02-17T21:08:30.510Z,"66 km WNW of Beluga, Alaska",earthquake,0.19,4.3,0.24819383201941,9.0,reviewed,av,av
 2025-02-17T02:31:34.620Z,61.312333333333,-152.2845,0.65,-0.34,ml,7.0,123.0,0.06818,0.1,av,av93502606,2025-02-17T21:03:28.940Z,"67 km WNW of Beluga, Alaska",earthquake,0.3,2.2,0.21837612873672,8.0,reviewed,av,av
+2025-02-17T03:13:41.440Z,61.313166666667,-152.278,-0.44,0.15,ml,6.0,174.0,0.07081,0.08,av,av93502646,2025-02-17T21:23:54.830Z,"67 km WNW of Beluga, Alaska",earthquake,0.33,3.76,0.35905862775515,7.0,reviewed,av,av
+2025-02-17T02:12:51.610Z,61.309,-152.27716666667,3.36,-0.13,ml,8.0,122.0,0.06793,0.22,av,av93502576,2025-02-17T21:17:07.910Z,"66 km WNW of Beluga, Alaska",earthquake,0.54,0.69,0.21449758378385,8.0,reviewed,av,av
