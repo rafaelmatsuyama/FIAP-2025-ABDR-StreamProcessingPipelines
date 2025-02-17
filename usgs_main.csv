@@ -1504,3 +1504,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T15:25:24.992Z,32.099,-102.128,5.7095,1.2,ml,23.0,67.0,0.0,0.4,tx,tx2025djbe,2025-02-17T15:36:38.193Z,"12 km NNW of Midland, Texas",earthquake,0.0,1.5208597183228,0.2,14.0,automatic,tx,tx
 2025-02-17T15:52:00.756Z,63.4261,-146.0618,13.1,1.6,ml,,,,0.28,ak,ak02527n1b2j,2025-02-17T15:54:05.387Z,"43 km NNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-17T15:48:20.727Z,62.1933,-151.7535,93.3,2.4,ml,,,,0.67,ak,ak02527n0hrt,2025-02-17T15:49:56.715Z,"29 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-02-17T16:03:31.850Z,38.791000366211,-122.7773361206,0.85000002384186,1.23,md,18.0,80.0,0.008551,0.03,nc,nc75135212,2025-02-17T16:05:07.563Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.409999996,0.15,20.0,automatic,nc,nc
+2025-02-17T15:48:19.729Z,6.7823,-73.0089,155.585,4.6,mb,50.0,90.0,0.887,0.72,us,us7000pe90,2025-02-17T16:04:56.040Z,"4 km NW of Cepitá, Colombia",earthquake,7.54,7.947,0.042,170.0,reviewed,us,us
+2025-02-17T14:05:39.988Z,36.4962,25.58,10.0,4.3,mwr,57.0,58.0,1.33,0.74,us,us7000pe8q,2025-02-17T15:55:21.040Z,"15 km ENE of Firá, Greece",earthquake,5.39,1.887,0.071,19.0,reviewed,us,us
