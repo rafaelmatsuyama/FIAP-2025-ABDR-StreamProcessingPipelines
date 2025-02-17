@@ -1513,3 +1513,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T16:13:41.750Z,65.4445,-148.2472,10.9,1.4,ml,,,,0.12,ak,ak02527negwv,2025-02-17T16:15:15.548Z,"16 km ESE of Livengood, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-17T15:49:04.059Z,36.6008,25.7873,10.0,4.3,mwr,57.0,89.0,1.499,0.57,us,us7000pe91,2025-02-17T16:30:06.040Z,"27 km SSW of Amorgós, Greece",earthquake,5.32,1.912,0.073,18.0,reviewed,us,us
 2025-02-17T15:41:23.873Z,38.2737,38.7531,10.678,4.3,mwr,47.0,84.0,0.881,0.54,us,us7000pe8y,2025-02-17T16:19:52.040Z,"24 km W of Doğanyol, Turkey",earthquake,4.56,4.962,0.049,40.0,reviewed,us,us
+2025-02-17T16:42:39.810Z,36.052333831787,-120.61799621582,3.1199998855591,2.0,md,28.0,76.0,0.02414,0.08,nc,nc75135232,2025-02-17T16:45:51.390Z,"24 km NNW of Parkfield, CA",earthquake,0.24,0.529999971,0.16,18.0,automatic,nc,nc
+2025-02-17T16:40:17.760Z,62.8029,-149.797,77.5,1.9,ml,,,,0.5,ak,ak02527nk7e8,2025-02-17T16:43:55.192Z,"42 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
