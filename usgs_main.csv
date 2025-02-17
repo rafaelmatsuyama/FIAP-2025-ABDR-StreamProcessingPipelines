@@ -1578,3 +1578,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T03:14:50.740Z,61.313333333333,-152.27683333333,-1.01,0.16,ml,8.0,123.0,0.0713,0.08,av,av93502651,2025-02-17T21:29:01.440Z,"66 km WNW of Beluga, Alaska",earthquake,0.26,4.82,0.25722236743051,9.0,reviewed,av,av
 2025-02-17T03:14:23.450Z,61.316666666667,-152.27833333333,-2.21,-0.5,ml,7.0,242.0,0.07343,0.31,av,av93033139,2025-02-17T21:32:42.560Z,"67 km WNW of Beluga, Alaska",earthquake,1.16,4.51,0.26910078625009,7.0,reviewed,av,av
 2025-02-17T21:34:25.372Z,62.8425,-149.5865,63.1,1.7,ml,,,,0.94,ak,ak02527qi3pl,2025-02-17T21:36:23.559Z,"51 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-02-17T03:16:46.260Z,61.3065,-152.2725,-0.66,-0.16,ml,5.0,231.0,0.06769,0.06,av,av93502661,2025-02-17T21:41:25.050Z,"66 km WNW of Beluga, Alaska",earthquake,0.53,3.37,0.16368410514968,6.0,reviewed,av,av
