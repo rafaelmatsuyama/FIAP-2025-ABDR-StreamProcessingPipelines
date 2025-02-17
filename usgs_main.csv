@@ -1524,3 +1524,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T17:01:45.956Z,-37.8509,-72.6939,61.858,4.4,mb,33.0,112.0,1.64,0.63,us,us7000pe9i,2025-02-17T17:21:51.040Z,"6 km SSE of Angol, Chile",earthquake,3.82,9.238,0.189,8.0,reviewed,us,us
 2025-02-17T16:59:16.727Z,32.392,-102.008,4.1225,1.5,ml,38.0,58.0,0.0,0.4,tx,tx2025djeg,2025-02-17T17:20:58.830Z,"31 km WSW of Ackerly, Texas",earthquake,0.0,0.82774388790131,0.1,26.0,automatic,tx,tx
 2025-02-17T16:48:16.150Z,61.316,-152.263,1.52,0.26,ml,9.0,124.0,0.07272,0.09,av,av93503636,2025-02-17T17:50:45.900Z,"66 km WNW of Beluga, Alaska",earthquake,0.24,0.93,0.22507632242839,9.0,reviewed,av,av
+2025-02-17T17:51:47.940Z,38.816665649414,-122.82316589356,2.2200000286102,0.75,md,10.0,57.0,0.009093,0.02,nc,nc75135242,2025-02-17T17:53:22.252Z,"7 km NW of The Geysers, CA",earthquake,0.44,0.949999988,0.15,11.0,automatic,nc,nc
+2025-02-17T17:49:37.460Z,32.2651667,-115.1036667,13.41,2.6,ml,20.0,66.0,0.04433,0.36,ci,ci40187722,2025-02-17T17:53:55.925Z,"2 km S of Guadalupe Victoria, B.C., MX",earthquake,0.64,0.95,0.21,26.0,automatic,ci,ci
