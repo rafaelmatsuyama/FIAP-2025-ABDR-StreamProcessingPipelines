@@ -1595,3 +1595,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T23:02:00.497Z,63.1105,-151.5351,0.0,1.8,ml,,,,0.9,ak,ak02527ri235,2025-02-17T23:04:07.366Z,"48 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-17T23:00:18.371Z,37.7648,-115.9252,12.0,2.0,ml,8.0,290.53,1.014,0.4713,nn,nn00893611,2025-02-17T23:03:01.626Z,"20 km NW of Rachel, Nevada",earthquake,,156.5,0.27,5.0,automatic,nn,nn
 2025-02-17T22:59:48.014Z,38.1825,-116.011,5.5,2.3,ml,23.0,139.5,0.959,0.2565,nn,nn00893609,2025-02-17T23:02:53.900Z,"64 km NNW of Rachel, Nevada",earthquake,,1.0,0.19,14.0,automatic,nn,nn
+2025-02-17T23:25:45.310Z,38.838165283203,-122.79850006103,2.1500000953674,0.46,md,10.0,72.0,0.006374,0.01,nc,nc75135382,2025-02-17T23:27:19.787Z,"7 km WNW of Cobb, CA",earthquake,0.39,1.13,0.33,12.0,automatic,nc,nc
