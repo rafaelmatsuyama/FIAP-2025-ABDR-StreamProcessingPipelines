@@ -1541,3 +1541,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T18:40:42.020Z,60.8115,-150.7835,15.5,1.7,ml,,,,0.4,ak,ak02527or4h6,2025-02-17T18:42:45.702Z,"13 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-17T18:33:57.378Z,63.5435,-148.7788,8.5,1.7,ml,,,,0.5,ak,ak02527opnnd,2025-02-17T18:36:33.511Z,"18 km NNE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-17T18:00:35.910Z,18.8535,-65.300166666667,52.79,3.41,md,17.0,253.0,0.5434,0.26,pr,pr71472938,2025-02-17T18:49:18.770Z,"60 km N of Culebra, Puerto Rico",earthquake,2.25,3.96,0.093472966297633,12.0,reviewed,pr,pr
+2025-02-17T18:50:23.090Z,19.016332626343,-155.35566711426,15.960000038147,2.1500001,md,56.0,218.0,0.1711,0.239999995,hv,hv74617882,2025-02-17T18:53:41.410Z,"24 km ESE of Naalehu, Hawaii",earthquake,0.96,7.94999981,0.0900000036,9.0,automatic,hv,hv
+2025-02-17T18:25:51.807Z,72.1748,-159.4952,10.0,3.8,mb,29.0,100.0,3.086,0.54,us,us7000peb9,2025-02-17T18:55:39.040Z,"136 km NW of Barrow, Alaska",earthquake,9.02,1.93,0.228,5.0,reviewed,us,us
