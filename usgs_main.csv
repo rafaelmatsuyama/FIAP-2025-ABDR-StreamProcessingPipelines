@@ -1484,3 +1484,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T13:46:54.760Z,66.8015,-147.4569,1.9,3.0,ml,,,,0.66,ak,ak02527lt9qc,2025-02-17T13:49:24.091Z,"49 km N of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-17T13:45:20.605Z,61.6809,-146.489,21.4,1.8,ml,,,,0.72,ak,ak02527lszdo,2025-02-17T13:47:39.269Z,"37 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-17T13:40:31.141Z,31.68,-104.343,6.0698,1.8,ml,18.0,67.0,0.1,0.3,tx,tx2025dixt,2025-02-17T13:47:07.224Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.3032758235931,0.1,14.0,automatic,tx,tx
+2025-02-16T15:42:50.039Z,35.13066667,-97.55783333,3.96,1.54,ml,72.0,35.0,0.06658693337,0.4,ok,ok2025dhgf,2025-02-17T13:57:53.980Z,"3 km NNE of Cole, Oklahoma",earthquake,,0.9,0.19,31.0,reviewed,ok,ok
