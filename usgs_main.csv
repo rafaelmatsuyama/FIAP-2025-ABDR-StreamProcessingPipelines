@@ -1493,3 +1493,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T14:19:31.108Z,66.8173,-147.6679,0.0,2.1,ml,,,,1.18,ak,ak02527m8v6e,2025-02-17T14:22:26.270Z,"52 km NNW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-17T14:07:38.599Z,32.111,-102.125,4.4478,0.8,ml,10.0,77.0,0.0,0.4,tx,tx2025diyp,2025-02-17T14:16:41.679Z,"13 km NNW of Midland, Texas",earthquake,0.0,1.7482250928879,0.2,7.0,automatic,tx,tx
 2025-02-17T14:04:32.257Z,32.103,-102.134,7.8373,1.1,ml,14.0,103.0,0.0,0.3,tx,tx2025diyn,2025-02-17T14:16:22.680Z,"12 km NNW of Midland, Texas",earthquake,0.0,2.2820010185242,0.2,9.0,automatic,tx,tx
+2025-02-17T14:45:02.076Z,64.6144,-149.3453,16.5,1.9,ml,,,,0.46,ak,ak02527medjz,2025-02-17T14:47:33.079Z,"10 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
