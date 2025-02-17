@@ -1366,3 +1366,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T02:55:12.741Z,32.413,-102.061,4.5966,1.1,ml,24.0,87.0,0.0,0.4,tx,tx2025dicl,2025-02-17T03:03:49.065Z,"34 km WSW of Ackerly, Texas",earthquake,0.0,1.068109869957,0.2,17.0,automatic,tx,tx
 2025-02-17T02:46:43.780Z,38.788166046143,-122.77083587647,1.0900000333786,1.04,md,18.0,80.0,0.01426,0.04,nc,nc75134982,2025-02-17T02:48:22.073Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.409999996,0.22,19.0,automatic,nc,nc
 2025-02-17T02:37:38.990Z,63.0915,-150.3121,27.4,2.2,ml,,,,0.75,ak,ak02527f7jez,2025-02-17T02:39:51.872Z,"70 km NNE of Petersville, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2025-02-17T03:25:49.890Z,38.820167541504,-122.82316589356,2.0,0.75,md,9.0,81.0,0.009724,0.01,nc,nc75134992,2025-02-17T03:27:28.230Z,"7 km NW of The Geysers, CA",earthquake,0.38,1.09000003,0.15,9.0,automatic,nc,nc
+2025-02-17T03:14:12.791Z,32.37,-102.107,4.8481,1.4,ml,37.0,47.0,0.0,0.3,tx,tx2025didc,2025-02-17T03:26:08.234Z,"40 km NW of Stanton, Texas",earthquake,0.0,0.89757168292999,0.1,28.0,automatic,tx,tx
+2025-02-17T03:09:16.202Z,37.1728,-115.2334,16.0,1.0,ml,10.0,197.21,0.275,0.2481,nn,nn00893586,2025-02-17T03:11:41.932Z,"22 km SSW of Alamo, Nevada",earthquake,,2.0,0.3,5.0,automatic,nn,nn
+2025-02-17T03:04:58.924Z,56.1617,-156.3166,39.7,2.9,ml,,,,0.91,ak,ak02527flxxg,2025-02-17T03:20:08.040Z,"130 km E of Chignik, Alaska",earthquake,,6.1,,,automatic,ak,ak
+2025-02-17T03:04:17.543Z,64.9587,-148.5357,11.7,1.2,ml,,,,0.75,ak,ak02527flupe,2025-02-17T03:07:18.675Z,"27 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
