@@ -1478,3 +1478,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T13:03:42.380Z,38.821834564209,-122.82250213623,2.789999961853,0.26,md,10.0,76.0,0.009832,0.01,nc,nc75135157,2025-02-17T13:05:16.948Z,"8 km NW of The Geysers, CA",earthquake,0.6,1.29999995,0.16,11.0,automatic,nc,nc
 2025-02-17T13:03:01.431Z,61.7991,-150.5283,8.2,1.6,ml,,,,1.11,ak,ak02527ljxtr,2025-02-17T13:05:01.465Z,"26 km WNW of Willow, Alaska",earthquake,,9.0,,,automatic,ak,ak
 2025-02-17T13:35:37.631Z,63.3734,-145.139,11.5,1.7,ml,,,,0.52,ak,ak02527lqvj7,2025-02-17T13:37:33.058Z,"39 km SW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-17T13:40:11.210Z,34.1646667,-117.2651667,7.76,1.23,ml,63.0,27.0,0.03424,0.18,ci,ci40187554,2025-02-17T13:45:02.646Z,"5 km NNE of San Bernardino, CA",earthquake,0.14,0.42,0.194,26.0,automatic,ci,ci
+2025-02-17T13:24:04.466Z,38.5878,-9.1875,10.0,4.8,mb,59.0,86.0,1.28,0.66,us,us7000pe8k,2025-02-17T13:44:25.414Z,"3 km S of Charneca de Caparica, Portugal",earthquake,5.29,1.858,0.056,98.0,reviewed,us,us
+2025-02-17T13:18:47.288Z,31.8421,138.109,353.279,4.3,mb,66.0,88.0,1.92,0.71,us,us7000pe8i,2025-02-17T13:45:25.040Z,"283 km SE of Kushimoto, Japan",earthquake,9.22,7.529,0.045,137.0,reviewed,us,us
