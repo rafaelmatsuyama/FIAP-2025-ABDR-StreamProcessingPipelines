@@ -1589,3 +1589,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T22:07:23.637Z,31.623,-104.505,4.0771,1.9,ml,18.0,150.0,0.0,0.3,tx,tx2025djol,2025-02-17T22:14:03.134Z,"62 km S of Whites City, New Mexico",earthquake,0.0,1.6660500764847,0.1,13.0,automatic,tx,tx
 2025-02-17T03:47:39.680Z,61.311,-152.2695,-0.6,-0.02,ml,8.0,121.0,0.07171,0.06,av,av93502706,2025-02-17T22:27:17.960Z,"66 km WNW of Beluga, Alaska",earthquake,0.26,3.15,0.26387829661828,9.0,reviewed,av,av
 2025-02-17T03:39:36.850Z,61.3095,-152.2715,0.09,-0.31,ml,7.0,121.0,0.07017,0.07,av,av93502686,2025-02-17T22:14:39.360Z,"66 km WNW of Beluga, Alaska",earthquake,0.26,2.21,0.14085409224389,8.0,reviewed,av,av
+2025-02-17T03:55:13.560Z,61.310833333333,-152.2815,0.75,-0.18,ml,7.0,187.0,0.06793,0.08,av,av93502716,2025-02-17T22:33:19.690Z,"67 km WNW of Beluga, Alaska",earthquake,0.37,0.97,0.29963477214157,8.0,reviewed,av,av
