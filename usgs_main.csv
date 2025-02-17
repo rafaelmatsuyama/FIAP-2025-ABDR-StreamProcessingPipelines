@@ -1385,3 +1385,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T04:04:16.936Z,27.0206,127.3109,97.549,4.9,mb,68.0,58.0,0.878,0.95,us,us7000pe6n,2025-02-17T04:23:39.517Z,"60 km NW of Ie, Japan",earthquake,6.31,7.014,0.09,39.0,reviewed,us,us
 2025-02-17T02:47:00.620Z,61.311666666667,-152.27366666667,-1.03,0.29,ml,8.0,122.0,0.07105,0.06,av,av93502616,2025-02-17T04:13:49.730Z,"66 km WNW of Beluga, Alaska",earthquake,0.28,4.31,0.28512104204811,9.0,reviewed,av,av
 2025-02-17T02:08:26.750Z,61.317333333333,-152.2765,-2.42,0.77,ml,9.0,125.0,0.07451,0.25,av,av93502571,2025-02-17T04:22:12.030Z,"67 km WNW of Beluga, Alaska",earthquake,0.59,2.58,0.31526850201288,9.0,reviewed,av,av
+2025-02-17T04:19:30.817Z,19.1295,120.983,16.931,4.7,mb,67.0,104.0,3.671,0.58,us,us7000pe6s,2025-02-17T04:33:47.040Z,"58 km N of Claveria, Philippines",earthquake,9.38,5.392,0.088,39.0,reviewed,us,us
