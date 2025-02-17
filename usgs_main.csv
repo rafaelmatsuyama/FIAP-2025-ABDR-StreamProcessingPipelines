@@ -1565,3 +1565,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T18:27:06.566Z,31.287,-103.354,4.1003,2.0,ml,13.0,79.0,0.0,0.1,tx,tx2025djhe,2025-02-17T20:32:47.956Z,"19 km S of Barstow, Texas",earthquake,0.9087751024604,1.632326177269,0.2,23.0,reviewed,tx,tx
 2025-02-17T01:27:26.380Z,58.193,-155.25883333333,2.72,1.03,ml,9.0,134.0,0.07855,0.06,av,av93502551,2025-02-17T20:31:40.180Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.39,0.35395008315233,9.0,reviewed,av,av
 2025-02-17T05:07:13.315Z,28.864,-98.223,7.0557,1.8,ml,18.0,66.0,0.0,0.3,tx,tx2025digu,2025-02-17T20:38:26.976Z,"23 km WSW of Falls City, Texas",earthquake,1.4960038602802,2.5073861995115,0.0,7.0,reviewed,tx,tx
+2025-02-17T02:20:14.100Z,51.859,-177.94083333333,7.95,-0.05,ml,4.0,153.0,0.04871,0.04,av,av93033129,2025-02-17T20:43:28.440Z,"90 km W of Adak, Alaska",earthquake,0.42,0.8,0.19647541497555,4.0,reviewed,av,av
