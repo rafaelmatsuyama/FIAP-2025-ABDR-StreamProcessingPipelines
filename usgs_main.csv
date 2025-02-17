@@ -1532,3 +1532,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T09:19:37.780Z,61.315,-152.27016666667,0.9,0.86,ml,9.0,123.0,0.07457,0.08,av,av93503266,2025-02-17T18:09:08.898Z,"66 km WNW of Beluga, Alaska",earthquake,0.3,0.83,0.15986705856767,9.0,reviewed,av,av
 2025-02-17T05:57:54.600Z,61.3265,-152.29516666667,0.75,0.77,ml,8.0,129.0,0.07719,0.1,av,av93502921,2025-02-17T18:13:02.280Z,"68 km WNW of Beluga, Alaska",earthquake,0.28,2.32,0.19421582418331,9.0,reviewed,av,av
 2025-02-17T05:13:50.680Z,61.313,-152.274,0.79,1.08,ml,9.0,123.0,0.07194,0.08,av,av93502836,2025-02-17T18:09:11.130Z,"66 km WNW of Beluga, Alaska",earthquake,0.27,1.51,0.30358922315699,10.0,reviewed,av,av
+2025-02-17T18:29:43.339Z,60.5197,-145.3237,17.2,1.4,ml,,,,0.45,ak,ak02527oorp9,2025-02-17T18:32:07.909Z,"24 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-17T18:20:42.272Z,32.365,-101.984,0.2335,1.1,ml,6.0,265.0,0.0,0.3,tx,tx2025djgy,2025-02-17T18:30:17.242Z,"30 km SW of Ackerly, Texas",earthquake,0.0,9.0718364715576,0.2,8.0,automatic,tx,tx
+2025-02-17T18:03:29.068Z,-6.2738,128.361,338.534,4.2,mb,35.0,56.0,2.321,0.51,us,us7000peb1,2025-02-17T18:22:27.040Z,"285 km S of Ambon, Indonesia",earthquake,8.86,8.008,0.113,22.0,reviewed,us,us
+2025-02-17T18:00:35.352Z,18.8766,-65.3744,35.0,2.6,ml,14.0,246.0,0.655,0.36,us,us7000peaz,2025-02-17T18:28:48.040Z,"63 km N of Culebra, Puerto Rico",earthquake,4.12,2.016,0.069,28.0,reviewed,us,us
+2025-02-17T12:30:17.073Z,54.5041,-161.7722,21.2,2.5,ml,,,,0.27,ak,ak02527l4bgk,2025-02-17T18:17:16.446Z,"71 km SSE of King Cove, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-02-17T05:58:29.690Z,61.313,-152.27483333333,1.58,0.83,ml,7.0,174.0,0.07167,0.09,av,av93033124,2025-02-17T18:17:54.650Z,"66 km WNW of Beluga, Alaska",earthquake,0.32,1.43,0.20351817514849,8.0,reviewed,av,av
