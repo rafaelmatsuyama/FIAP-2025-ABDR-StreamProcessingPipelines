@@ -1517,3 +1517,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T16:40:17.760Z,62.8029,-149.797,77.5,1.9,ml,,,,0.5,ak,ak02527nk7e8,2025-02-17T16:43:55.192Z,"42 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-17T16:50:46.360Z,39.822166442871,-122.03450012207,4.2699999809265,2.32,md,8.0,98.0,0.1192,0.05,nc,nc75135237,2025-02-17T16:52:37.964Z,"9 km  of Hamilton City, CA",earthquake,0.41,3.20000005,0.14,9.0,automatic,nc,nc
 2025-02-17T16:43:19.873Z,31.636,-104.51,6.1511,1.6,ml,19.0,74.0,0.0,0.2,tx,tx2025djdt,2025-02-17T16:54:19.663Z,"61 km SSW of Whites City, New Mexico",earthquake,0.84602771964571,0.38350468551479,0.2,16.0,reviewed,tx,tx
+2025-02-17T16:53:16.472Z,61.3329,-152.261,3.7,0.3,ml,,,,0.12,ak,ak02527nmzlr,2025-02-17T16:56:07.495Z,"66 km WNW of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-02-17T16:34:08.338Z,-15.6964,-69.4307,255.919,4.7,mb,100.0,119.0,2.799,0.76,us,us7000pe99,2025-02-17T16:58:52.040Z,"24 km S of Putina, Peru",earthquake,9.84,7.7,0.044,153.0,reviewed,us,us
