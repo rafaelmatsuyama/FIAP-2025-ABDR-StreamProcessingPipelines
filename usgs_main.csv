@@ -1387,3 +1387,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T02:08:26.750Z,61.317333333333,-152.2765,-2.42,0.77,ml,9.0,125.0,0.07451,0.25,av,av93502571,2025-02-17T04:22:12.030Z,"67 km WNW of Beluga, Alaska",earthquake,0.59,2.58,0.31526850201288,9.0,reviewed,av,av
 2025-02-17T04:19:30.817Z,19.1295,120.983,16.931,4.7,mb,67.0,104.0,3.671,0.58,us,us7000pe6s,2025-02-17T04:33:47.040Z,"58 km N of Claveria, Philippines",earthquake,9.38,5.392,0.088,39.0,reviewed,us,us
 2025-02-17T04:30:55.240Z,-16.0124,-75.1799,10.0,5.4,mww,52.0,137.0,4.314,1.2,us,us7000pe6v,2025-02-17T04:42:37.040Z,"71 km S of San Juan, Peru",earthquake,8.99,1.948,0.057,30.0,reviewed,us,us
+2025-02-17T04:53:19.362Z,61.3062,-152.2717,6.2,0.6,ml,,,,0.1,ak,ak02527ghskg,2025-02-17T04:54:31.707Z,"66 km WNW of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
