@@ -1404,3 +1404,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T05:57:54.704Z,61.3232,-152.3056,2.7,0.6,ml,,,,0.38,ak,ak02527h45ri,2025-02-17T06:00:12.274Z,"68 km WNW of Beluga, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-02-17T05:55:58.942Z,58.1749,-156.3512,7.0,1.6,ml,,,,0.26,ak,ak02527h3qnq,2025-02-17T05:57:11.213Z,"59 km SSE of King Salmon, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2025-02-17T05:29:24.610Z,61.310166666667,-152.2775,1.66,0.37,ml,11.0,122.0,0.06869,0.1,av,av93502866,2025-02-17T05:55:38.710Z,"66 km WNW of Beluga, Alaska",earthquake,0.28,0.82,0.14694344940514,12.0,reviewed,av,av
+2025-02-17T06:25:11.510Z,38.835334777832,-122.81666564941,1.8300000429153,1.07,md,23.0,62.0,0.01299,0.02,nc,nc75135047,2025-02-17T06:26:46.832Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.409999996,0.15,24.0,automatic,nc,nc
+2025-02-17T06:18:42.930Z,38.824333190918,-122.80533599853,2.2799999713898,0.77,md,17.0,51.0,0.003818,0.05,nc,nc75135042,2025-02-17T06:20:17.793Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.560000002,0.16,18.0,automatic,nc,nc
+2025-02-17T06:02:58.105Z,16.3253,-94.7287,67.823,4.7,mb,55.0,160.0,2.489,1.06,us,us7000pe75,2025-02-17T06:24:48.040Z,"3 km E of San Dionisio del Mar, Mexico",earthquake,9.55,8.336,0.043,166.0,reviewed,us,us
+2025-02-16T23:19:52.923Z,40.8118,14.1411,10.0,2.9,ml,14.0,129.0,0.39,0.9,us,us7000pe5u,2025-02-17T06:29:37.931Z,"2 km W of Bagnoli, Italy",earthquake,4.22,1.996,0.069,28.0,reviewed,us,us
