@@ -1346,3 +1346,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-16T23:30:36.900Z,38.836166381836,-122.78233337402,1.9700000286102,1.09,md,13.0,133.0,0.006645,0.01,nc,nc75134922,2025-02-16T23:32:12.531Z,"5 km WNW of Cobb, CA",earthquake,0.33,0.460000008,0.09,13.0,automatic,nc,nc
 2025-02-16T23:50:50.466Z,61.9731,-150.8759,50.2,2.6,ml,,,,0.6,ak,ak02526493t2,2025-02-16T23:52:45.238Z,"27 km E of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-02-16T23:25:52.460Z,-30.0959,-71.339,65.269,4.6,mb,39.0,125.0,0.197,0.77,us,us7000pe5v,2025-02-16T23:52:12.707Z,"15 km S of Coquimbo, Chile",earthquake,4.24,4.256,0.1,30.0,reviewed,us,us
+2025-02-16T23:49:31.270Z,31.667,-104.203,4.7017,1.7,ml,18.0,65.0,0.1,0.3,tx,tx2025dhwh,2025-02-16T23:59:47.041Z,"55 km NW of Toyah, Texas",earthquake,0.0,1.2169283628464,0.3,14.0,automatic,tx,tx
