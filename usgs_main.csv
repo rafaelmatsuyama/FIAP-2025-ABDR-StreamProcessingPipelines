@@ -1540,3 +1540,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T05:58:29.690Z,61.313,-152.27483333333,1.58,0.83,ml,7.0,174.0,0.07167,0.09,av,av93033124,2025-02-17T18:17:54.650Z,"66 km WNW of Beluga, Alaska",earthquake,0.32,1.43,0.20351817514849,8.0,reviewed,av,av
 2025-02-17T18:40:42.020Z,60.8115,-150.7835,15.5,1.7,ml,,,,0.4,ak,ak02527or4h6,2025-02-17T18:42:45.702Z,"13 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-17T18:33:57.378Z,63.5435,-148.7788,8.5,1.7,ml,,,,0.5,ak,ak02527opnnd,2025-02-17T18:36:33.511Z,"18 km NNE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-17T18:00:35.910Z,18.8535,-65.300166666667,52.79,3.41,md,17.0,253.0,0.5434,0.26,pr,pr71472938,2025-02-17T18:49:18.770Z,"60 km N of Culebra, Puerto Rico",earthquake,2.25,3.96,0.093472966297633,12.0,reviewed,pr,pr
