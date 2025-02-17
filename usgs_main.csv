@@ -1396,3 +1396,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T05:15:49.830Z,33.474,-116.4255,12.62,0.68,ml,25.0,80.0,0.1402,0.14,ci,ci40187410,2025-02-17T05:20:18.997Z,"24 km SSW of La Quinta, CA",earthquake,0.2,0.66,0.221,11.0,automatic,ci,ci
 2025-02-17T05:03:28.960Z,61.310166666667,-152.27233333333,-2.68,1.53,ml,9.0,121.0,0.07038,0.16,av,av93033114,2025-02-17T05:20:49.270Z,"66 km WNW of Beluga, Alaska",earthquake,0.42,1.85,0.25169620445104,9.0,reviewed,av,av
 2025-02-17T02:57:28.720Z,46.8505,-121.76266666667,1.48,0.34,ml,21.0,70.0,0.02079,0.09,uw,uw62076181,2025-02-17T05:32:16.100Z,"22 km ENE of Ashford, Washington",earthquake,0.18,0.44,0.16912366333914,8.0,reviewed,uw,uw
+2025-02-17T05:27:50.052Z,10.9061,-62.2361,100.785,4.5,mb,33.0,93.0,1.345,0.99,us,us7000pe71,2025-02-17T05:39:59.040Z,"37 km N of Güiria, Venezuela",earthquake,10.14,7.659,0.097,31.0,reviewed,us,us
