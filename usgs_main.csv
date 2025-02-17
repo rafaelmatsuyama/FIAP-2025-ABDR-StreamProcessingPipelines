@@ -1448,3 +1448,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T09:19:37.547Z,61.292,-152.2735,9.0,0.7,ml,,,,0.28,ak,ak02527j9pne,2025-02-17T09:21:42.041Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-17T09:31:11.900Z,60.0863,-152.6306,99.6,1.8,ml,,,,0.62,ak,ak02527jc89i,2025-02-17T09:34:14.619Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-17T09:07:54.654Z,38.6646,-97.6636,10.0,2.7,ml,24.0,76.0,0.657,0.45,us,us7000pe7v,2025-02-17T09:47:13.040Z,"5 km WSW of Assaria, Kansas",earthquake,2.78,1.996,0.067,29.0,reviewed,us,us
+2025-02-17T09:53:20.430Z,38.840167999268,-122.82483673096,2.2999999523163,0.28,md,9.0,104.0,0.008466,0.01,nc,nc75135117,2025-02-17T09:54:57.315Z,"9 km WNW of Cobb, CA",earthquake,0.51,1.09000003,0.15,10.0,automatic,nc,nc
+2025-02-17T09:52:33.370Z,36.018501281738,-120.0308303833,10.640000343323,2.08,md,22.0,136.0,0.09974,0.2,nc,nc75135112,2025-02-17T09:54:12.763Z,"6 km WNW of Kettleman City, CA",earthquake,0.56,0.75999999,0.13,12.0,automatic,nc,nc
