@@ -1458,3 +1458,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T10:10:32.635Z,31.665,-104.481,8.3743,2.0,ml,8.0,75.0,0.0,0.3,tx,tx2025diqu,2025-02-17T10:26:10.007Z,"57 km S of Whites City, New Mexico",earthquake,0.0,3.6681320667267,0.1,6.0,automatic,tx,tx
 2025-02-17T10:10:03.644Z,63.1167,-150.6171,112.3,1.4,ml,,,,0.16,ak,ak02527jt570,2025-02-17T10:12:18.902Z,"69 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-17T10:42:24.760Z,37.337501525879,-121.70616912842,3.5999999046326,1.16,md,11.0,76.0,0.05086,0.04,nc,nc75135127,2025-02-17T10:44:01.696Z,"11 km ESE of Alum Rock, CA",earthquake,0.33,1.25999999,0.08,9.0,automatic,nc,nc
+2025-02-17T11:07:07.120Z,33.2065,-116.0565,6.92,0.99,ml,47.0,55.0,0.07379,0.26,ci,ci40187498,2025-02-17T11:11:03.397Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.24,0.76,0.187,28.0,automatic,ci,ci
