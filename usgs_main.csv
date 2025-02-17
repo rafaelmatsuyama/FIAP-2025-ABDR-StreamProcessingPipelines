@@ -1481,3 +1481,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T13:40:11.210Z,34.1646667,-117.2651667,7.76,1.23,ml,63.0,27.0,0.03424,0.18,ci,ci40187554,2025-02-17T13:45:02.646Z,"5 km NNE of San Bernardino, CA",earthquake,0.14,0.42,0.194,26.0,automatic,ci,ci
 2025-02-17T13:24:04.466Z,38.5878,-9.1875,10.0,4.8,mb,59.0,86.0,1.28,0.66,us,us7000pe8k,2025-02-17T13:44:25.414Z,"3 km S of Charneca de Caparica, Portugal",earthquake,5.29,1.858,0.056,98.0,reviewed,us,us
 2025-02-17T13:18:47.288Z,31.8421,138.109,353.279,4.3,mb,66.0,88.0,1.92,0.71,us,us7000pe8i,2025-02-17T13:45:25.040Z,"283 km SE of Kushimoto, Japan",earthquake,9.22,7.529,0.045,137.0,reviewed,us,us
+2025-02-17T13:46:54.760Z,66.8015,-147.4569,1.9,3.0,ml,,,,0.66,ak,ak02527lt9qc,2025-02-17T13:49:24.091Z,"49 km N of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-17T13:45:20.605Z,61.6809,-146.489,21.4,1.8,ml,,,,0.72,ak,ak02527lszdo,2025-02-17T13:47:39.269Z,"37 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-17T13:40:31.141Z,31.68,-104.343,6.0698,1.8,ml,18.0,67.0,0.1,0.3,tx,tx2025dixt,2025-02-17T13:47:07.224Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.3032758235931,0.1,14.0,automatic,tx,tx
