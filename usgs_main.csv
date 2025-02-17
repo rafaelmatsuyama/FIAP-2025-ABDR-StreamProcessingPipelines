@@ -1555,3 +1555,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-17T20:03:13.160Z,63.4089,-151.9971,34.1,1.4,ml,,,,1.32,ak,ak02527ppzyt,2025-02-17T20:14:09.121Z,"20 km SW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-17T19:45:31.244Z,31.59,-104.525,4.3613,1.4,ml,17.0,157.0,0.1,0.5,tx,tx2025djjr,2025-02-17T20:08:59.829Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,1.6925719976425,0.1,13.0,automatic,tx,tx
 2025-02-17T19:45:06.059Z,31.564,-104.526,3.5501,1.6,ml,5.0,166.0,0.1,0.1,tx,tx2025djjt,2025-02-17T20:09:50.827Z,"64 km NNE of Van Horn, Texas",earthquake,0.0,3.8112664222717,0.2,5.0,automatic,tx,tx
+2025-02-17T20:16:15.070Z,33.6426667,-116.6965,10.23,0.7,ml,26.0,96.0,0.0724,0.18,ci,ci40187778,2025-02-17T20:20:48.075Z,"10 km NNW of Anza, CA",earthquake,0.28,0.44,0.299,21.0,automatic,ci,ci
+2025-02-17T20:01:20.600Z,17.959166666667,-66.835333333333,14.61,2.48,md,12.0,204.0,0.0447,0.11,pr,pr71472963,2025-02-17T20:27:22.130Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.54,0.51,0.1582409750979,6.0,reviewed,pr,pr
+2025-02-17T19:56:26.127Z,13.7486,-90.7645,80.799,4.4,mb,46.0,155.0,0.82,1.01,us,us7000pebq,2025-02-17T20:27:36.040Z,"20 km SSE of Puerto San José, Guatemala",earthquake,7.07,8.24,0.072,55.0,reviewed,us,us
+2025-02-17T01:25:57.020Z,58.195666666667,-155.25883333333,2.5,0.15,ml,9.0,132.0,0.03939,0.07,av,av93502546,2025-02-17T20:27:19.920Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.5,0.30445733772863,9.0,reviewed,av,av
