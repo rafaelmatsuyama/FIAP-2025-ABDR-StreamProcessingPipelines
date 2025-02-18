@@ -1662,3 +1662,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T04:29:47.820Z,32.9575,-115.5311667,4.62,1.31,ml,16.0,147.0,0.06115,0.22,ci,ci40188002,2025-02-18T04:33:15.111Z,"2 km S of Brawley, CA",earthquake,0.66,1.01,0.322,17.0,automatic,ci,ci
 2025-02-18T04:29:12.433Z,38.5007,-118.4856,6.3,1.5,ml,11.0,93.07,0.131,0.159,nn,nn00893621,2025-02-18T04:31:49.400Z,"12 km ESE of Hawthorne, Nevada",earthquake,,1.0,0.41,6.0,automatic,nn,nn
 2025-02-18T04:46:52.332Z,36.5641,25.8397,10.0,5.1,mww,76.0,58.0,1.489,1.06,us,us7000pefq,2025-02-18T05:01:59.040Z,"30 km S of Amorgós, Greece",earthquake,3.72,1.693,0.052,36.0,reviewed,us,us
+2025-02-18T05:28:36.234Z,65.4389,-148.1587,0.1,1.7,ml,,,,1.0,ak,ak025294h92f,2025-02-18T05:30:41.385Z,"20 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-18T04:33:27.041Z,-7.4141,121.0484,554.543,4.3,mb,66.0,43.0,1.691,0.66,us,us7000pefp,2025-02-18T05:18:22.040Z,"147 km NNE of Ruteng, Indonesia",earthquake,10.35,6.563,0.084,40.0,reviewed,us,us
+2025-02-17T19:12:47.880Z,61.318833333333,-152.2745,-0.29,1.0,ml,7.0,125.0,0.07629,0.09,av,av93503761,2025-02-18T05:30:04.300Z,"67 km WNW of Beluga, Alaska",earthquake,0.24,3.33,0.28939264521673,8.0,reviewed,av,av
