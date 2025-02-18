@@ -1838,3 +1838,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T07:52:25.400Z,31.62,-104.096,5.8051,1.6,ml,30.0,55.0,0.0,0.1,tx,tx2025dkht,2025-02-18T21:53:09.501Z,"44 km NW of Toyah, Texas",earthquake,0.41755557906283,0.42852598284152,0.2,18.0,reviewed,tx,tx
 2025-02-18T22:13:58.360Z,35.3380013,-117.7973328,6.42,1.45,ml,19.0,125.0,0.08082,0.15,ci,ci40188522,2025-02-18T22:16:02.602Z,"15 km WSW of Johannesburg, CA",earthquake,0.38,0.88,0.218,15.0,automatic,ci,ci
 2025-02-18T21:59:19.311Z,31.635,-104.476,6.5642,1.6,ml,8.0,120.0,0.0,0.3,tx,tx2025dljs,2025-02-18T22:08:42.939Z,"60 km S of Whites City, New Mexico",earthquake,0.0,5.6664228439331,0.1,6.0,automatic,tx,tx
+2025-02-18T15:32:09.750Z,46.992333333333,-114.471,13.56,1.28,ml,15.0,68.0,0.04203,0.13,mb,mb90072673,2025-02-18T22:33:23.150Z,"1 km S of Alberton, Montana",earthquake,0.41,0.71,0.31125639344557,8.0,reviewed,mb,mb
