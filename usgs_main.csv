@@ -1696,3 +1696,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T08:15:52.440Z,33.8311667,-116.7425,12.62,0.68,ml,40.0,40.0,0.04574,0.15,ci,ci40188058,2025-02-18T08:20:31.286Z,"10 km NNW of Idyllwild, CA",earthquake,0.16,0.41,0.189,20.0,automatic,ci,ci
 2025-02-18T08:12:44.222Z,60.1896,-140.4701,1.1,1.7,ml,,,,0.89,ak,ak025296651i,2025-02-18T08:14:41.956Z,"82 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-18T08:11:32.595Z,61.612,-146.3643,29.0,1.9,ml,,,,0.74,ak,ak0252965wff,2025-02-18T08:13:20.308Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-18T08:26:50.940Z,39.82149887085,-122.03433227539,0.89999997615814,2.56,md,10.0,98.0,0.1199,0.1,nc,nc75135562,2025-02-18T08:32:17.980Z,"9 km  of Hamilton City, CA",earthquake,0.37,9.96000004,0.11,21.0,automatic,nc,nc
+2025-02-18T08:22:46.810Z,36.416667938232,-120.60083007812,4.6300001144409,2.12,md,5.0,226.0,0.4353,0.02,nc,nc75135557,2025-02-18T08:32:16.980Z,"6 km ESE of New Idria, CA",earthquake,3.53,7.36999989,0.36,2.0,automatic,nc,nc
+2025-02-18T08:22:02.423Z,59.8209,-152.8666,105.8,2.9,ml,,,,0.23,ak,ak02529686y1,2025-02-18T08:23:32.746Z,"58 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
