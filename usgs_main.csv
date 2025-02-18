@@ -1819,3 +1819,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T19:36:08.391Z,40.5818,141.2265,93.748,4.3,mb,30.0,151.0,0.241,0.85,us,us7000pekr,2025-02-18T20:03:11.040Z,"4 km SSE of Towada, Japan",earthquake,10.58,5.2,0.137,15.0,reviewed,us,us
 2025-02-18T13:42:03.710Z,46.9185,-121.9435,8.37,0.41,ml,21.0,100.0,0.01546,0.09,uw,uw62076361,2025-02-18T20:09:32.830Z,"19 km NNE of Ashford, Washington",earthquake,0.23,0.41,0.11476198873801,10.0,reviewed,uw,uw
 2025-02-18T20:18:23.710Z,35.909,-117.7501667,8.08,1.25,ml,23.0,50.0,0.06803,0.12,ci,ci40188410,2025-02-18T20:21:51.990Z,"14 km ESE of Little Lake, CA",earthquake,0.17,0.4,0.244,21.0,automatic,ci,ci
+2025-02-18T20:24:55.437Z,37.4383,-114.5873,3.4,2.7,ml,8.0,87.64,0.37,0.1276,nn,nn00893657,2025-02-18T20:37:12.531Z,"20 km SSW of Caliente, Nevada",earthquake,,3.5,0.33,6.0,reviewed,nn,nn
+2025-02-18T10:52:06.090Z,39.7005,-110.81466666667,-3.4,1.6,ml,13.0,101.0,0.06316,0.15,uu,uu80102326,2025-02-18T20:37:48.340Z,"1 km NNW of Kenilworth, Utah",earthquake,0.61,1.02,0.078527427182016,2.0,reviewed,uu,uu
