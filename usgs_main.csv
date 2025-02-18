@@ -1761,3 +1761,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T14:34:07.130Z,61.5466,-152.2994,34.9,0.4,ml,,,,3.9,ak,ak025299vdwo,2025-02-18T14:36:38.926Z,"68 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-18T07:35:31.330Z,46.996333333333,-114.4625,13.16,2.21,ml,27.0,93.0,0.03603,0.15,mb,mb90072663,2025-02-18T15:19:27.180Z,"1 km SE of Alberton, Montana",earthquake,0.33,0.49,0.30487221898795,22.0,reviewed,mb,mb
 2025-02-17T20:51:27.330Z,45.524166666667,-112.29233333333,2.38,2.35,ml,36.0,51.0,0.2683,0.15,mb,mb90072653,2025-02-18T15:10:24.720Z,"3 km SE of Twin Bridges, Montana",earthquake,0.26,3.53,0.24073901833335,47.0,reviewed,mb,mb
+2025-02-18T06:31:58.784Z,36.7565,-116.1433,3.8,-0.1,ml,8.0,199.34,0.021,0.0745,nn,nn00893630,2025-02-18T15:31:23.059Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.0,1.0,reviewed,nn,nn
+2025-02-18T05:58:42.074Z,36.6416,-116.2865,5.6,-0.2,ml,11.0,274.28,0.098,0.0393,nn,nn00893629,2025-02-18T15:28:12.947Z,"51 km SE of Beatty, Nevada",earthquake,,3.1,0.1,2.0,reviewed,nn,nn
