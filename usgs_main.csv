@@ -1806,3 +1806,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T16:17:42.460Z,47.671833333333,-113.672,3.18,0.27,ml,4.0,260.0,0.1314,0.08,mb,mb90072668,2025-02-18T18:48:37.710Z,"16 km N of Condon, Montana",earthquake,1.92,1.45,0.14096112151935,2.0,reviewed,mb,mb
 2025-02-18T18:48:04.510Z,34.3378333,-116.848,-1.59,1.24,ml,24.0,73.0,0.0198,0.15,ci,ci40188330,2025-02-18T18:52:13.957Z,"8 km N of Big Bear City, CA",earthquake,0.23,0.45,0.222,31.0,automatic,ci,ci
 2025-02-18T18:43:30.738Z,32.43,-101.319,5.9798,1.6,ml,5.0,127.0,0.0,0.2,tx,tx2025dldi,2025-02-18T18:52:55.018Z,"14 km N of Coahoma, Texas",earthquake,0.0,5.4606184959412,0.2,5.0,automatic,tx,tx
+2025-02-18T18:51:53.337Z,-6.0889,130.7765,117.291,4.9,mww,80.0,49.0,1.782,0.66,us,us7000pekj,2025-02-18T19:12:36.040Z,"224 km WSW of Tual, Indonesia",earthquake,8.1,6.706,0.08,15.0,reviewed,us,us
