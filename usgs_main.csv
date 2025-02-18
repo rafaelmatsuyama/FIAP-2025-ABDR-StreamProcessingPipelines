@@ -1781,3 +1781,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T16:58:38.118Z,63.1919,-151.3359,0.1,1.6,ml,,,,0.57,ak,ak02529b7gcj,2025-02-18T17:00:50.125Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-18T16:57:17.617Z,37.7106,-114.5557,5.8,2.0,ml,15.0,225.78,0.497,0.431,nn,nn00893641,2025-02-18T16:59:58.974Z,"10 km WNW of Beaverdam, Nevada",earthquake,,1.0,0.36,12.0,automatic,nn,nn
 2025-02-18T16:54:31.553Z,37.9323,21.0562,10.0,4.8,mww,183.0,19.0,1.021,0.65,us,us7000peij,2025-02-18T17:12:48.040Z,"7 km W of Kyllíni, Greece",earthquake,4.57,1.799,0.06,27.0,reviewed,us,us
+2025-02-18T17:22:14.851Z,57.1739,-157.6232,6.4,2.6,ml,,,,0.6,ak,ak02529bl4dp,2025-02-18T17:25:00.364Z,"40 km SSW of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-18T17:18:43.710Z,33.464,-116.9403333,13.27,1.78,ml,82.0,21.0,0.03,0.22,ci,ci40188186,2025-02-18T17:24:08.077Z,"7 km WNW of Aguanga, CA",earthquake,0.15,0.39,0.256,26.0,automatic,ci,ci
+2025-02-18T17:16:45.740Z,33.464,-116.9393333,13.29,1.72,ml,75.0,21.0,0.02933,0.21,ci,ci40188178,2025-02-18T17:27:38.020Z,"7 km WNW of Aguanga, CA",earthquake,0.15,0.4,0.304,27.0,automatic,ci,ci
+2025-02-18T17:14:05.679Z,31.648,-104.164,4.3112,2.3,ml,18.0,72.0,0.1,0.3,tx,tx2025dlag,2025-02-18T17:21:34.374Z,"51 km NW of Toyah, Texas",earthquake,0.0,1.2290478944778,0.2,14.0,automatic,tx,tx
+2025-02-18T17:00:48.226Z,-11.3172,-74.8217,94.254,5.0,mb,69.0,77.0,2.089,0.86,us,us7000pein,2025-02-18T17:18:32.040Z,"12 km NW of Mariposa, Peru",earthquake,7.76,2.873,0.038,227.0,reviewed,us,us
+2025-02-18T13:34:02.680Z,46.917166666667,-121.93733333333,7.94,1.15,ml,33.0,72.0,0.01492,0.15,uw,uw62076356,2025-02-18T17:14:43.550Z,"19 km NNE of Ashford, Washington",earthquake,0.22,0.35,0.14841524490248,18.0,reviewed,uw,uw
