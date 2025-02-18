@@ -1709,3 +1709,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T08:58:08.350Z,31.656,-104.296,6.3177,3.4,ml,35.0,68.0,0.0,0.1,tx,tx2025dkjx,2025-02-18T09:15:41.175Z,"58 km S of Whites City, New Mexico",earthquake,0.47877184817154,0.55022331444067,0.2,34.0,reviewed,tx,tx
 2025-02-18T09:19:52.021Z,31.651,-104.294,4.1803,1.6,ml,18.0,68.0,0.0,0.2,tx,tx2025dkkq,2025-02-18T09:24:58.210Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.2731643915176,0.2,13.0,automatic,tx,tx
 2025-02-18T09:35:35.509Z,62.9434,-149.6821,70.0,2.0,ml,,,,0.78,ak,ak025296wh93,2025-02-18T09:37:49.553Z,"59 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-02-18T09:40:47.692Z,31.599,-104.548,3.9363,2.5,ml,8.0,166.0,0.1,0.1,tx,tx2025dkli,2025-02-18T09:43:23.291Z,"65 km SSW of Whites City, New Mexico",earthquake,0.0,2.9850406646728,0.1,6.0,automatic,tx,tx
+2025-02-18T09:37:13.584Z,62.7448,-148.1726,3.3,1.8,ml,,,,0.54,ak,ak025296wv6m,2025-02-18T09:39:21.119Z,"82 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-18T09:30:14.629Z,31.59,-104.546,3.5816,1.6,ml,7.0,164.0,0.1,0.2,tx,tx2025dkky,2025-02-18T09:43:20.292Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.5766081809998,0.2,7.0,automatic,tx,tx
