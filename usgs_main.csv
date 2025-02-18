@@ -1737,3 +1737,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T12:16:27.559Z,31.7437,-104.5722,8.0,4.3,mwr,89.0,66.0,0.096,0.99,us,us7000peh7,2025-02-18T12:32:22.587Z,"51 km SSW of Whites City, New Mexico",earthquake,4.8,1.947,0.043,51.0,reviewed,us,us
 2025-02-18T12:15:56.919Z,31.688,-104.446,5.7564,2.3,ml,6.0,134.0,0.0,0.5,tx,tx2025dkqk,2025-02-18T12:32:41.990Z,"54 km S of Whites City, New Mexico",earthquake,0.0,4.7783222198486,2.1,6.0,automatic,tx,tx
 2025-02-18T11:04:08.330Z,38.828,-122.821,1.45,0.42,md,14.0,68.0,0.009694,0.02,nc,nc75135647,2025-02-18T12:03:35.218Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.58,0.212,15.0,reviewed,nc,nc
+2025-02-18T12:56:45.190Z,37.337001800537,-122.23100280762,7.8499999046326,1.57,md,11.0,60.0,0.04028,0.08,nc,nc75135672,2025-02-18T12:58:20.505Z,"5 km S of Portola Valley, CA",earthquake,0.46,0.829999983,0.25,8.0,automatic,nc,nc
+2025-02-18T12:56:43.380Z,31.6013336,-115.9716644,6.71,3.05,ml,23.0,80.0,0.2636,0.16,ci,ci40188098,2025-02-18T12:58:58.724Z,"58 km ESE of Maneadero, B.C., MX",earthquake,0.22,1.52,0.246,24.0,automatic,ci,ci
+2025-02-18T12:36:17.829Z,31.645,-104.287,4.2834,1.6,ml,17.0,68.0,0.0,0.2,tx,tx2025dkrd,2025-02-18T12:50:59.444Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3277860879898,0.2,12.0,automatic,tx,tx
+2025-02-18T12:16:28.855Z,31.722,-104.474,6.51,4.6,ml,39.0,71.0,0.0,0.1,tx,tx2025dkql,2025-02-18T12:57:26.311Z,"51 km S of Whites City, New Mexico",earthquake,1.0641017022166,0.49912051767827,0.2,26.0,reviewed,tx,tx
