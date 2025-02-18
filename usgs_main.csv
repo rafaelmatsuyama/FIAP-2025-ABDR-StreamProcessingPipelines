@@ -1661,3 +1661,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T04:31:51.600Z,33.4786667,-116.5746667,7.79,0.8,ml,38.0,46.0,0.02802,0.13,ci,ci40188010,2025-02-18T04:36:12.767Z,"12 km SE of Anza, CA",earthquake,0.15,0.33,0.177,28.0,automatic,ci,ci
 2025-02-18T04:29:47.820Z,32.9575,-115.5311667,4.62,1.31,ml,16.0,147.0,0.06115,0.22,ci,ci40188002,2025-02-18T04:33:15.111Z,"2 km S of Brawley, CA",earthquake,0.66,1.01,0.322,17.0,automatic,ci,ci
 2025-02-18T04:29:12.433Z,38.5007,-118.4856,6.3,1.5,ml,11.0,93.07,0.131,0.159,nn,nn00893621,2025-02-18T04:31:49.400Z,"12 km ESE of Hawthorne, Nevada",earthquake,,1.0,0.41,6.0,automatic,nn,nn
+2025-02-18T04:46:52.332Z,36.5641,25.8397,10.0,5.1,mww,76.0,58.0,1.489,1.06,us,us7000pefq,2025-02-18T05:01:59.040Z,"30 km S of Amorgós, Greece",earthquake,3.72,1.693,0.052,36.0,reviewed,us,us
