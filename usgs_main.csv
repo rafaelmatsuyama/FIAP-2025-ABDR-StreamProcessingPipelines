@@ -1792,3 +1792,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T17:35:25.320Z,34.1541667,-116.4366667,8.72,1.19,ml,33.0,46.0,0.04961,0.18,ci,ci40188226,2025-02-18T17:39:46.161Z,"4 km N of Yucca Valley, CA",earthquake,0.19,0.51,0.11,27.0,automatic,ci,ci
 2025-02-18T17:18:44.593Z,-26.1821,-71.2022,10.0,5.6,mww,85.0,116.0,0.543,0.91,us,us7000peiq,2025-02-18T17:42:44.132Z,"111 km SW of Taltal, Chile",earthquake,4.88,1.837,0.066,22.0,reviewed,us,us
 2025-02-18T06:00:56.940Z,46.837833333333,-121.76433333333,1.37,0.64,ml,21.0,60.0,0.02164,0.08,uw,uw62076296,2025-02-18T17:43:34.610Z,"22 km ENE of Ashford, Washington",earthquake,0.19,0.44,0.17864979816585,8.0,reviewed,uw,uw
+2025-02-18T17:52:58.572Z,39.1185,-119.0509,9.1,1.1,ml,8.0,88.09,0.051,0.1168,nn,nn00893652,2025-02-18T17:55:13.514Z,"17 km NNE of Yerington, Nevada",earthquake,,0.9,0.4,4.0,automatic,nn,nn
+2025-02-18T07:58:25.770Z,46.836333333333,-121.76633333333,1.63,0.67,ml,18.0,70.0,0.02291,0.08,uw,uw62076316,2025-02-18T17:51:51.560Z,"21 km ENE of Ashford, Washington",earthquake,0.21,0.55,0.19443347697084,7.0,reviewed,uw,uw
