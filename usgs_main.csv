@@ -1770,3 +1770,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T15:42:27.775Z,61.9851,-149.075,33.9,2.4,ml,,,,0.6,ak,ak02529aikhl,2025-02-18T15:44:05.504Z,"28 km NNE of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-17T21:18:30.690Z,32.216,-102.006,6.1768,2.1,ml,34.0,75.0,0.1,0.1,tx,tx2025djmv,2025-02-18T15:43:30.732Z,"22 km WNW of Stanton, Texas",earthquake,0.34769881017325,1.494685027149,0.1,30.0,reviewed,tx,tx
 2025-02-18T07:14:19.553Z,32.133,-102.217,6.2012,1.5,ml,23.0,78.0,0.0,0.1,tx,tx2025dkgn,2025-02-18T15:48:51.761Z,"19 km NE of Gardendale, Texas",earthquake,0.68708101457829,1.1504801708426,0.2,13.0,reviewed,tx,tx
+2025-02-18T15:58:16.059Z,58.5543,-153.5973,52.6,1.9,ml,,,,0.23,ak,ak02529alz1h,2025-02-18T16:00:36.139Z,"68 km NW of Aleneva, Alaska",earthquake,,1.9,,,automatic,ak,ak
