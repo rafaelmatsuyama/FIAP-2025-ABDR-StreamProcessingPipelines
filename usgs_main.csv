@@ -1814,3 +1814,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T19:44:52.124Z,62.9449,-148.1944,57.7,2.0,ml,,,,0.89,ak,ak02529cws7w,2025-02-18T19:46:49.608Z,"62 km SE of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-02-18T19:47:16.750Z,34.8551667,-118.7851667,-1.15,1.22,ml,39.0,53.0,0.07864,0.28,ci,ci40188378,2025-02-18T19:52:42.544Z,"7 km ENE of Lebec, CA",earthquake,0.32,0.67,0.188,27.0,automatic,ci,ci
 2025-02-18T19:29:33.100Z,-11.9393,112.3419,10.0,4.3,mb,31.0,96.0,3.88,0.77,us,us7000pekn,2025-02-18T19:57:00.040Z,"south of Java, Indonesia",earthquake,8.58,1.918,0.138,15.0,reviewed,us,us
+2025-02-18T19:59:30.950Z,35.0588333,-118.3355,-0.21,1.17,ml,29.0,43.0,0.06826,0.2,ci,ci40188386,2025-02-18T20:03:49.317Z,"13 km SE of Tehachapi, CA",earthquake,0.29,0.76,0.177,29.0,automatic,ci,ci
+2025-02-18T19:46:25.434Z,0.6246,122.3277,110.371,4.5,mb,35.0,66.0,1.62,1.19,us,us7000pekt,2025-02-18T20:11:20.040Z,"82 km W of Gorontalo, Indonesia",earthquake,6.93,8.384,0.112,23.0,reviewed,us,us
+2025-02-18T19:36:08.391Z,40.5818,141.2265,93.748,4.3,mb,30.0,151.0,0.241,0.85,us,us7000pekr,2025-02-18T20:03:11.040Z,"4 km SSE of Towada, Japan",earthquake,10.58,5.2,0.137,15.0,reviewed,us,us
+2025-02-18T13:42:03.710Z,46.9185,-121.9435,8.37,0.41,ml,21.0,100.0,0.01546,0.09,uw,uw62076361,2025-02-18T20:09:32.830Z,"19 km NNE of Ashford, Washington",earthquake,0.23,0.41,0.11476198873801,10.0,reviewed,uw,uw
