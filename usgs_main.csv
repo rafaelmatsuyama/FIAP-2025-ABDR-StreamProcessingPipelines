@@ -1811,3 +1811,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T16:29:42.170Z,45.8835,-122.19433333333,8.28,0.69,ml,13.0,140.0,0.1645,0.11,uw,uw62076396,2025-02-18T19:27:21.590Z,"16 km E of Yacolt, Washington",earthquake,0.51,0.68,0.2394758485174,5.0,reviewed,uw,uw
 2025-02-18T19:38:28.980Z,33.6838341,-116.6983337,15.96,0.97,ml,14.0,109.0,0.03224,0.11,ci,ci40188370,2025-02-18T19:40:42.464Z,"6 km SSE of Idyllwild, CA",earthquake,0.72,0.58,0.169,8.0,automatic,ci,ci
 2025-02-17T21:02:31.150Z,34.0985,-117.7951667,6.4,1.11,ml,13.0,99.0,0.09228,0.29,ci,ci40187826,2025-02-18T19:40:47.700Z,"1 km SE of San Dimas, CA",earthquake,0.58,1.4,0.187,6.0,reviewed,ci,ci
+2025-02-18T19:44:52.124Z,62.9449,-148.1944,57.7,2.0,ml,,,,0.89,ak,ak02529cws7w,2025-02-18T19:46:49.608Z,"62 km SE of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
