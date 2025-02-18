@@ -1686,3 +1686,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T06:46:50.985Z,31.702,-104.648,3.6719,1.6,ml,8.0,218.0,0.1,0.2,tx,tx2025dkfr,2025-02-18T07:05:06.347Z,"58 km SSW of Whites City, New Mexico",earthquake,0.0,2.776504278183,0.2,6.0,automatic,tx,tx
 2025-02-18T06:44:55.097Z,31.643,-104.166,4.1588,1.7,ml,18.0,68.0,0.1,0.2,tx,tx2025dkfp,2025-02-18T06:58:21.316Z,"50 km NW of Toyah, Texas",earthquake,0.0,1.3094339370727,0.2,12.0,automatic,tx,tx
 2025-02-18T07:06:43.790Z,38.827835083008,-122.8201675415,1.6599999666214,1.81,md,32.0,43.0,0.009045,0.02,nc,nc75135507,2025-02-18T07:09:56.850Z,"8 km NNW of The Geysers, CA",earthquake,0.16,0.25999999,0.12,33.0,automatic,nc,nc
+2025-02-17T07:46:23.557Z,36.6681,25.6107,10.0,4.5,mb,105.0,58.0,1.496,0.5,us,us7000pe7i,2025-02-18T07:31:09.040Z,"30 km ESE of Íos, Greece",earthquake,4.49,1.508,0.063,75.0,reviewed,us,us
