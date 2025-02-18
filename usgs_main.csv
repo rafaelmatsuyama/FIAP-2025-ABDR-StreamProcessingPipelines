@@ -1835,3 +1835,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T20:40:39.307Z,10.2222,-85.7528,18.156,4.4,mb,46.0,202.0,0.765,1.08,us,us7000pel7,2025-02-18T21:35:59.040Z,"12 km SE of Tamarindo, Costa Rica",earthquake,4.51,5.376,0.09,35.0,reviewed,us,us
 2025-02-18T11:42:39.010Z,46.916833333333,-121.94166666667,7.84,0.78,ml,26.0,92.0,0.0139,0.09,uw,uw62076346,2025-02-18T21:46:00.310Z,"18 km NNE of Ashford, Washington",earthquake,0.23,0.42,0.18345437586504,16.0,reviewed,uw,uw
 2025-02-18T02:12:50.215Z,31.7,-104.166,6.2024,1.8,ml,21.0,53.0,0.1,0.1,tx,tx2025djwq,2025-02-18T21:45:46.457Z,"53 km W of Mentone, Texas",earthquake,0.65931521756109,1.2350735332132,0.1,11.0,reviewed,tx,tx
+2025-02-18T07:52:25.400Z,31.62,-104.096,5.8051,1.6,ml,30.0,55.0,0.0,0.1,tx,tx2025dkht,2025-02-18T21:53:09.501Z,"44 km NW of Toyah, Texas",earthquake,0.41755557906283,0.42852598284152,0.2,18.0,reviewed,tx,tx
