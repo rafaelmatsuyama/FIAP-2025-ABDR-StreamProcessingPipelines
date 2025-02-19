@@ -1872,3 +1872,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T00:45:56.110Z,38.829166412354,-122.81199645996,1.3099999427795,0.69,md,7.0,126.0,0.005955,0.01,nc,nc75135927,2025-02-19T00:47:30.836Z,"8 km NNW of The Geysers, CA",earthquake,0.46,0.939999998,0.24,7.0,automatic,nc,nc
 2025-02-19T00:44:06.720Z,35.6045,-117.4831667,9.37,1.13,ml,24.0,57.0,0.07748,0.12,ci,ci40188634,2025-02-19T00:47:31.376Z,"18 km E of Ridgecrest, CA",earthquake,0.18,0.44,0.217,16.0,automatic,ci,ci
 2025-02-19T00:33:04.248Z,38.7344,-119.5672,8.3,1.4,ml,16.0,83.14,0.082,0.1342,nn,nn00893681,2025-02-19T02:02:26.969Z,"4 km NNW of Topaz Lake, Nevada",earthquake,,1.5,0.21,4.0,reviewed,nn,nn
+2025-02-19T02:40:31.195Z,59.2458,-153.8857,143.9,2.0,ml,,,,0.16,ak,ak0252aqauy7,2025-02-19T02:42:06.301Z,"48 km SE of Pope-Vannoy Landing, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2025-02-19T02:40:04.357Z,65.6932,-145.382,3.4,1.6,ml,,,,0.93,ak,ak0252aqasvn,2025-02-19T02:41:56.464Z,"29 km WNW of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-19T02:36:43.710Z,38.845500946045,-122.87650299072,1.9700000286102,0.71,md,9.0,92.0,0.008252,0.04,nc,nc75135962,2025-02-19T02:38:20.936Z,"13 km NW of The Geysers, CA",earthquake,0.45,0.629999995,0.14,11.0,automatic,nc,nc
+2025-02-19T02:19:12.630Z,39.1414,-119.0556,8.5,1.4,ml,11.0,81.8,0.03,0.1798,nn,nn00893687,2025-02-19T02:21:22.439Z,"19 km NNE of Yerington, Nevada",earthquake,,0.5,0.24,5.0,automatic,nn,nn
+2025-02-19T02:07:29.750Z,36.0936667,-117.8656667,1.75,1.17,ml,24.0,69.0,0.02542,0.17,ci,ci40188666,2025-02-19T02:16:45.444Z,"9 km NE of Coso Junction, CA",earthquake,0.23,0.24,0.213,23.0,automatic,ci,ci
+2025-02-19T02:02:09.320Z,32.9346667,-116.2155,12.24,0.96,ml,41.0,43.0,0.07652,0.17,ci,ci40188658,2025-02-19T02:06:51.266Z,"24 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.57,0.209,21.0,automatic,ci,ci
