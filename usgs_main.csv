@@ -2035,3 +2035,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T19:26:10.871Z,59.8774,-153.9272,189.2,2.7,ml,,,,0.64,ak,ak0252b0c7dm,2025-02-19T19:38:49.013Z,"14 km NE of Pedro Bay, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-02-19T19:43:09.450Z,38.793998718262,-122.75350189209,1.289999961853,1.11,md,15.0,88.0,0.008205,0.02,nc,nc75136267,2025-02-19T19:44:45.083Z,"2 km NNE of The Geysers, CA",earthquake,0.25,0.49000001,0.12,15.0,automatic,nc,nc
 2025-02-19T10:13:21.970Z,32.4015,-115.2578333,4.99,1.69,ml,15.0,68.0,0.04375,0.15,ci,ci37541645,2025-02-19T19:49:12.386Z,"8 km NW of Delta, B.C., MX",earthquake,0.32,0.59,0.176,14.0,reviewed,ci,ci
+2025-02-19T19:49:50.360Z,19.021999359131,-155.4255065918,32.119998931885,2.83,ml,58.0,210.0,0.1372,0.170000002,hv,hv74619337,2025-02-19T19:55:49.393Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.51,0.819999993,0.32,39.0,automatic,hv,hv
