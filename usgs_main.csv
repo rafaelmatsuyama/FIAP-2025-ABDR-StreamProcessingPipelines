@@ -2059,3 +2059,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T22:30:30.970Z,38.830001831055,-122.81466674805,2.1600000858307,0.72,md,14.0,63.0,0.01733,0.01,nc,nc75136342,2025-02-19T22:32:05.216Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.680000007,0.13,16.0,automatic,nc,nc
 2025-02-19T21:20:51.750Z,37.416,-119.06933333333,7.89,1.58,md,18.0,87.0,0.08109,0.1,nc,nc75136317,2025-02-19T22:27:57.974Z,"26 km SSW of Mammoth Lakes, CA",earthquake,0.35,0.68,0.258,14.0,reviewed,nc,nc
 2025-02-19T20:23:28.300Z,45.319833333333,-121.65666666667,6.42,1.45,ml,13.0,146.0,0.004719,0.05,uw,uw62076531,2025-02-19T22:25:22.670Z,"7 km ENE of Government Camp, Oregon",earthquake,0.27,0.32,0.12407903105808,6.0,reviewed,uw,uw
+2025-02-19T22:35:10.713Z,61.6654,-151.306,75.1,1.8,ml,,,,0.63,ak,ak0252b26evz,2025-02-19T22:37:45.596Z,"36 km S of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-02-19T19:39:38.580Z,37.920166666667,-121.953,-0.2,1.64,md,21.0,63.0,0.02827,0.17,nc,nc75136262,2025-02-19T22:34:29.885Z,"3 km SW of Clayton, CA",quarry blast,0.26,31.61,0.302,19.0,reviewed,nc,nc
