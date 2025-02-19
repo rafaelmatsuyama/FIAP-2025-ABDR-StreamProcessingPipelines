@@ -2073,3 +2073,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T23:49:57.590Z,53.417166666667,-168.20366666667,-0.33,0.89,ml,6.0,233.0,0.02409,0.18,av,av93504806,2025-02-19T23:35:06.990Z,"69 km NE of Nikolski, Alaska",earthquake,1.02,1.31,0.36132938643897,5.0,reviewed,av,av
 2025-02-19T23:25:57.220Z,38.8611,142.4166,67.764,4.3,mb,41.0,142.0,2.189,0.67,us,us7000peuz,2025-02-19T23:44:04.040Z,"65 km ESE of Ōfunato, Japan",earthquake,8.67,7.675,0.098,30.0,reviewed,us,us
 2025-02-19T23:46:00.168Z,31.596,-104.541,3.2862,1.5,ml,8.0,163.0,0.1,0.1,tx,tx2025dniv,2025-02-19T23:49:22.127Z,"66 km SSW of Whites City, New Mexico",earthquake,0.0,2.9400968551636,0.1,6.0,automatic,tx,tx
+2025-02-19T23:50:05.590Z,38.820667266846,-122.82266998291,2.2300000190735,0.74,md,16.0,54.0,0.00996,0.01,nc,nc75136352,2025-02-19T23:51:42.125Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.579999983,0.18,16.0,automatic,nc,nc
