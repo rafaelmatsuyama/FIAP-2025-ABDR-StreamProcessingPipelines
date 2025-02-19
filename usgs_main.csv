@@ -1920,3 +1920,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T07:18:03.370Z,37.635166168213,-118.94699859619,6.6100001335144,0.66,md,14.0,86.0,0.03135,0.04,nc,nc75136022,2025-02-19T07:19:41.106Z,"3 km ESE of Mammoth Lakes, CA",earthquake,0.34,0.790000021,0.16,13.0,automatic,nc,nc
 2025-02-19T07:46:13.757Z,59.8352,-152.5462,74.6,1.8,ml,,,,0.54,ak,ak0252atb9xb,2025-02-19T07:48:24.110Z,"40 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-02-19T06:46:16.395Z,-19.3244,-70.1834,55.362,4.6,mb,50.0,135.0,0.96,0.99,us,us7000pep7,2025-02-19T07:49:35.040Z,"18 km S of Cuya, Chile",earthquake,5.71,6.378,0.06,83.0,reviewed,us,us
+2025-02-19T08:14:35.833Z,61.0748,-149.8459,35.4,2.1,ml,,,,0.46,ak,ak0252atpwbj,2025-02-19T08:16:53.183Z,"16 km S of Anchorage, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-02-19T08:14:01.140Z,33.456,-116.619,9.53,0.7,ml,43.0,40.0,0.02135,0.15,ci,ci40188778,2025-02-19T08:18:48.722Z,"12 km SSE of Anza, CA",earthquake,0.15,0.3,0.217,23.0,automatic,ci,ci
+2025-02-19T08:04:57.215Z,57.0376,-157.1054,113.8,2.4,ml,,,,0.74,ak,ak0252atnst5,2025-02-19T08:06:42.451Z,"55 km SSE of Ugashik, Alaska",earthquake,,2.2,,,automatic,ak,ak
