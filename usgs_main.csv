@@ -1948,3 +1948,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T11:12:52.670Z,38.775833129883,-122.71166992188,1.960000038147,1.15,md,13.0,81.0,0.01234,0.02,nc,nc75136072,2025-02-19T11:14:27.930Z,"2 km WNW of Anderson Springs, CA",earthquake,0.28,0.379999995,0.09,14.0,automatic,nc,nc
 2025-02-19T11:07:07.875Z,65.4455,-148.2433,13.5,1.4,ml,,,,0.37,ak,ak0252avgmyr,2025-02-19T11:09:01.845Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-18T12:26:37.134Z,31.716,-104.495,2.2034,1.3,ml,11.0,71.0,0.0,0.1,tx,tx2025dkqu,2025-02-19T11:18:07.210Z,"52 km SSW of Whites City, New Mexico",earthquake,0.7421257153805,1.403733175544,0.1,12.0,reviewed,tx,tx
+2025-02-19T11:20:53.219Z,32.127,-101.645,4.4571,1.5,ml,31.0,58.0,0.0,0.4,tx,tx2025dmkc,2025-02-19T11:27:06.271Z,"13 km E of Stanton, Texas",earthquake,0.0,1.0035495758057,0.2,21.0,automatic,tx,tx
