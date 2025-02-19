@@ -1888,3 +1888,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T04:23:02.240Z,35.5250015,-117.3990021,8.54,1.03,ml,11.0,146.0,0.02812,0.17,ci,ci40188730,2025-02-19T04:25:05.402Z,"27 km S of Trona, CA",earthquake,0.59,1.25,0.448,4.0,automatic,ci,ci
 2025-02-19T04:16:09.210Z,33.472,-116.9325,12.36,0.54,ml,37.0,37.0,0.02016,0.2,ci,ci40188714,2025-02-19T04:20:25.465Z,"7 km WNW of Aguanga, CA",earthquake,0.22,0.54,0.202,19.0,automatic,ci,ci
 2025-02-19T04:13:15.019Z,36.6837,25.5996,8.693,4.0,mb,17.0,100.0,1.507,0.8,us,us7000penp,2025-02-19T04:32:47.040Z,"28 km E of Íos, Greece",earthquake,5.71,5.734,0.184,8.0,reviewed,us,us
+2025-02-19T04:41:58.660Z,62.0883,-149.0141,28.1,2.1,ml,,,,0.81,ak,ak0252arhzya,2025-02-19T04:43:29.149Z,"36 km NNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
