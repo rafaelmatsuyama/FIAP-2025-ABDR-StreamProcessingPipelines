@@ -1988,3 +1988,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T15:38:51.407Z,61.9292,-148.2247,142.6,1.9,ml,,,,1.59,ak,ak0252ay13yr,2025-02-19T15:41:52.168Z,"19 km NE of Chickaloon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-02-19T15:14:18.210Z,44.2085,-115.10066666667,10.06,2.93,ml,42.0,72.0,0.2095,0.26,mb,mb90072738,2025-02-19T15:36:47.800Z,"12 km W of Stanley, Idaho",earthquake,0.43,0.75,0.20480504304028,48.0,reviewed,mb,mb
 2025-02-19T14:21:27.740Z,18.8375,-67.3281,8.0,3.39,md,19.0,211.0,0.4289,0.38,pr,pr2025050000,2025-02-19T15:37:28.898Z,"45 km NNW of San Antonio, Puerto Rico",earthquake,1.18,1.32,0.14,11.0,reviewed,pr,pr
+2025-02-19T15:40:35.070Z,33.9816667,-116.9331667,16.84,1.18,ml,46.0,53.0,0.1116,0.16,ci,ci40188954,2025-02-19T15:45:34.934Z,"7 km NE of Beaumont, CA",earthquake,0.17,0.47,0.196,27.0,automatic,ci,ci
