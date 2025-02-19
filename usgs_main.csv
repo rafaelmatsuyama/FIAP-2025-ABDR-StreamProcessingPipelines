@@ -1929,3 +1929,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T09:12:15.610Z,33.066,-115.9718333,2.61,1.38,ml,58.0,34.0,0.1073,0.25,ci,ci40188794,2025-02-19T09:15:43.994Z,"17 km ESE of Ocotillo Wells, CA",earthquake,0.19,0.56,0.189,27.0,automatic,ci,ci
 2025-02-19T09:38:00.230Z,38.814498901367,-122.82749938965,1.6399999856949,0.83,md,6.0,132.0,0.005774,0.0,nc,nc75136047,2025-02-19T09:39:36.296Z,"7 km NW of The Geysers, CA",earthquake,0.76,1.88999999,0.27,8.0,automatic,nc,nc
 2025-02-19T09:43:42.511Z,36.7702,-116.253,10.4,0.3,ml,19.0,65.11,0.048,0.0636,nn,nn00893699,2025-02-19T09:45:38.608Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.25,11.0,automatic,nn,nn
+2025-02-18T21:20:54.084Z,31.663,-104.313,6.6638,1.7,ml,27.0,61.0,0.0,0.2,tx,tx2025dlin,2025-02-19T09:54:47.653Z,"57 km S of Whites City, New Mexico",earthquake,0.72325993843047,0.74087448057882,0.1,17.0,reviewed,tx,tx
