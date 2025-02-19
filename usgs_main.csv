@@ -1953,3 +1953,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T11:32:20.480Z,38.833999633789,-122.81632995606,1.7699999809265,1.51,md,29.0,48.0,0.01166,0.03,nc,nc75136077,2025-02-19T11:33:58.464Z,"8 km NNW of The Geysers, CA",earthquake,0.18,0.310000002,0.07,29.0,automatic,nc,nc
 2025-02-19T11:44:08.638Z,61.8847,-150.9498,67.8,1.9,ml,,,,0.35,ak,ak0252avokin,2025-02-19T11:46:35.679Z,"26 km ESE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-19T11:42:51.110Z,19.191833496094,-155.44082641602,-0.37000000476837,2.11,ml,50.0,138.0,0.04144,0.270000011,hv,hv74619172,2025-02-19T11:46:32.270Z,"4 km ESE of Pāhala, Hawaii",earthquake,0.46,0.189999998,1.23,3.0,automatic,hv,hv
+2025-02-19T11:52:58.788Z,63.5427,-149.6004,101.8,2.2,ml,,,,0.56,ak,ak0252avqe4i,2025-02-19T11:55:35.708Z,"36 km WNW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-02-19T11:48:45.770Z,32.9131667,-116.2315,8.07,0.66,ml,32.0,57.0,0.07322,0.18,ci,ci40188810,2025-02-19T11:53:17.372Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.65,0.124,9.0,automatic,ci,ci
