@@ -1980,3 +1980,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T14:35:15.760Z,33.4653333,-116.9375,13.24,1.03,ml,56.0,23.0,0.02731,0.21,ci,ci40188914,2025-02-19T14:39:52.740Z,"7 km WNW of Aguanga, CA",earthquake,0.2,0.44,0.218,27.0,automatic,ci,ci
 2025-02-19T14:32:08.650Z,34.0878333,-119.0101667,14.19,1.51,ml,26.0,149.0,0.03838,0.24,ci,ci40188906,2025-02-19T14:37:11.726Z,"14 km S of Camarillo, CA",earthquake,0.44,0.5,0.3,32.0,automatic,ci,ci
 2025-02-19T09:32:55.150Z,47.669166666667,-113.66766666667,2.37,1.56,ml,19.0,62.0,0.1352,0.12,mb,mb90072708,2025-02-19T14:41:17.260Z,"16 km NNE of Condon, Montana",earthquake,0.37,1.23,0.13205501652015,11.0,reviewed,mb,mb
+2025-02-19T14:55:04.640Z,59.5824,-152.7542,88.0,2.1,ml,,,,0.22,ak,ak0252axj8eo,2025-02-19T14:57:38.599Z,"53 km WNW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
