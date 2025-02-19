@@ -2039,3 +2039,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T20:00:10.970Z,34.4099998,-117.0090027,21.31,1.39,ml,18.0,123.0,0.1624,0.44,ci,ci40189154,2025-02-19T20:04:39.471Z,"5 km SW of Lucerne Valley, CA",earthquake,1.65,2.78,0.411,13.0,automatic,ci,ci
 2025-02-19T19:38:43.780Z,31.562,-104.193,6.1356,1.8,ml,16.0,73.0,0.1,0.3,tx,tx2025dnan,2025-02-19T20:05:38.973Z,"46 km NW of Toyah, Texas",earthquake,0.0,3.4384839534759,0.2,11.0,automatic,tx,tx
 2025-02-18T20:54:05.730Z,42.090666666667,-123.6435,-1.13,1.26,md,4.0,154.0,0.06201,0.03,uw,uw62076426,2025-02-19T20:09:50.030Z,"4 km NNW of Takilma, Oregon",explosion,0.54,31.61,0.25052578917531,4.0,reviewed,uw,uw
+2025-02-19T20:27:21.990Z,38.838500976562,-122.80816650391,2.1099998950958,1.03,md,11.0,63.0,0.01392,0.01,nc,nc75136277,2025-02-19T20:28:57.990Z,"8 km WNW of Cobb, CA",earthquake,0.47,1.11000001,0.1,14.0,automatic,nc,nc
+2025-02-19T20:17:38.979Z,58.2103,-156.3081,0.0,2.0,ml,,,,0.81,ak,ak0252b0vqyx,2025-02-19T20:19:24.732Z,"57 km SSE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-02-19T20:11:58.396Z,58.1079,-156.1793,0.0,3.1,ml,,,,1.17,ak,ak0252b0ui5s,2025-02-19T20:14:29.456Z,"70 km SSE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-02-19T20:05:16.510Z,37.184666666667,-112.891,18.88,2.5,ml,22.0,78.0,0.1766,0.15,uu,uu80102376,2025-02-19T20:23:36.310Z,"9 km E of Springdale, Utah",earthquake,0.36,0.76,0.22990026557922,13.0,reviewed,uu,uu
