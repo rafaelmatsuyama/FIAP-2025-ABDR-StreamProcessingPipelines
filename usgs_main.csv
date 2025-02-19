@@ -1969,3 +1969,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T13:26:25.985Z,61.9259,-150.0449,27.8,1.5,ml,,,,0.52,ak,ak0252awrm6e,2025-02-19T13:33:23.649Z,"19 km N of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-19T13:19:41.290Z,33.8926667,-117.7308333,6.44,1.34,ml,51.0,32.0,0.0432,0.24,ci,ci40188850,2025-02-19T13:31:15.910Z,"8 km E of Yorba Linda, CA",earthquake,0.23,0.48,0.187,34.0,automatic,ci,ci
 2025-02-19T13:40:52.762Z,60.3499,-150.6337,38.0,2.3,ml,,,,0.35,ak,ak0252awuo9o,2025-02-19T13:42:36.144Z,"18 km SSE of Funny River, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-02-19T14:03:47.350Z,34.2713333,-118.6523333,10.06,1.29,ml,15.0,134.0,0.03262,0.17,ci,ci40188882,2025-02-19T14:08:52.588Z,"5 km WNW of Chatsworth, CA",earthquake,0.38,0.66,0.405,31.0,automatic,ci,ci
+2025-02-19T13:59:08.861Z,56.9455,-155.6811,75.2,2.5,ml,,,,0.35,ak,ak0252awynhi,2025-02-19T14:01:00.246Z,"91 km W of Akhiok, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-02-19T03:30:09.290Z,41.603833333333,-112.42533333333,6.35,1.05,md,16.0,90.0,0.07063,0.15,uu,uu80102361,2025-02-19T14:05:26.990Z,"14 km SW of Thatcher, Utah",earthquake,0.35,1.11,0.14387084514131,11.0,reviewed,uu,uu
