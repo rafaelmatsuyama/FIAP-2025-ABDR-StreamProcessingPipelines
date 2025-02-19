@@ -1985,3 +1985,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T14:39:40.050Z,47.666666666667,-113.69016666667,0.01,0.91,ml,7.0,163.0,0.1312,0.06,mb,mb90072733,2025-02-19T15:20:33.190Z,"15 km N of Condon, Montana",earthquake,0.35,1.09,0.2664563250208,4.0,reviewed,mb,mb
 2025-02-19T14:30:18.830Z,19.450833333333,-67.815666666667,30.36,3.27,md,9.0,250.0,1.074,0.23,pr,pr71473033,2025-02-19T15:12:53.290Z,"114 km NNE of Punta Cana, Dominican Republic",earthquake,1.64,15.92,0.16664434901957,5.0,reviewed,pr,pr
 2025-02-19T12:10:37.846Z,31.12,-103.752,5.5103,1.6,ml,17.0,70.0,0.2,0.1,tx,tx2025dmlu,2025-02-19T15:19:43.764Z,"15 km N of Balmorhea, Texas",earthquake,1.1061116642569,2.3465133152019,0.1,27.0,reviewed,tx,tx
+2025-02-19T15:38:51.407Z,61.9292,-148.2247,142.6,1.9,ml,,,,1.59,ak,ak0252ay13yr,2025-02-19T15:41:52.168Z,"19 km NE of Chickaloon, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-02-19T15:14:18.210Z,44.2085,-115.10066666667,10.06,2.93,ml,42.0,72.0,0.2095,0.26,mb,mb90072738,2025-02-19T15:36:47.800Z,"12 km W of Stanley, Idaho",earthquake,0.43,0.75,0.20480504304028,48.0,reviewed,mb,mb
+2025-02-19T14:21:27.740Z,18.8375,-67.3281,8.0,3.39,md,19.0,211.0,0.4289,0.38,pr,pr2025050000,2025-02-19T15:37:28.898Z,"45 km NNW of San Antonio, Puerto Rico",earthquake,1.18,1.32,0.14,11.0,reviewed,pr,pr
