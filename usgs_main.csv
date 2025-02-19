@@ -1940,3 +1940,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T10:37:19.041Z,36.7583,-116.2371,6.4,0.7,ml,21.0,68.86,0.035,0.0922,nn,nn00893702,2025-02-19T10:39:10.099Z,"49 km ESE of Beatty, Nevada",earthquake,,0.6,0.27,14.0,automatic,nn,nn
 2025-02-19T10:34:53.002Z,37.3812,-117.1285,1.5,1.5,ml,26.0,105.99,0.133,0.2792,nn,nn00893700,2025-02-19T10:37:23.042Z,"37 km SSE of Goldfield, Nevada",earthquake,,3.2,0.24,16.0,automatic,nn,nn
 2025-02-19T09:20:53.040Z,17.968833333333,-66.776666666667,16.63,2.34,md,8.0,206.0,0.09784,0.12,pr,pr71473008,2025-02-19T10:41:31.160Z,"5 km ESE of Indios, Puerto Rico",earthquake,0.57,1.13,0.074172308318177,6.0,reviewed,pr,pr
+2025-02-19T10:48:59.579Z,36.7566,-116.2492,3.7,0.0,ml,16.0,84.23,0.041,0.2047,nn,nn00893704,2025-02-19T10:50:58.736Z,"48 km ESE of Beatty, Nevada",earthquake,,0.4,0.25,9.0,automatic,nn,nn
+2025-02-19T09:34:27.880Z,36.049333333333,-120.20483333333,8.45,1.07,md,26.0,105.0,0.04569,0.17,nc,nc75136042,2025-02-19T10:50:31.835Z,"8 km NW of Avenal, CA",earthquake,0.52,0.79,0.136,7.0,reviewed,nc,nc
