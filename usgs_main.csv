@@ -1995,3 +1995,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T04:19:16.250Z,32.336,-101.073,6.8115,2.2,ml,24.0,71.0,0.2,0.1,tx,tx2025dlwf,2025-02-19T15:49:32.076Z,"5 km WSW of Westbrook, Texas",earthquake,0.69864416816187,2.3473850991282,0.1,11.0,reviewed,tx,tx
 2025-02-19T12:24:56.470Z,41.929166666667,-112.26633333333,7.66,1.09,md,18.0,87.0,0.04353,0.14,uu,uu80102371,2025-02-19T16:01:07.980Z,"5 km SSW of Portage, Utah",earthquake,0.3,0.71,0.21829537445162,11.0,reviewed,uu,uu
 2025-02-19T02:21:53.229Z,36.7335,-116.1629,0.0,-0.1,ml,5.0,278.88,0.03,0.0741,nn,nn00893709,2025-02-19T15:56:16.689Z,"47 km WNW of Indian Springs, Nevada",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
+2025-02-19T16:18:33.380Z,38.81266784668,-122.82683563232,1.7699999809265,0.82,md,9.0,99.0,0.01224,0.02,nc,nc75136157,2025-02-19T16:20:10.255Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.870000005,0.25,13.0,automatic,nc,nc
+2025-02-19T12:59:11.974Z,36.8217,-116.2928,5.1,-0.2,ml,8.0,74.89,0.032,0.081,nn,nn00893711,2025-02-19T16:28:07.515Z,"42 km ESE of Beatty, Nevada",earthquake,,1.5,0.0,1.0,reviewed,nn,nn
