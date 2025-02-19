@@ -1972,3 +1972,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T14:03:47.350Z,34.2713333,-118.6523333,10.06,1.29,ml,15.0,134.0,0.03262,0.17,ci,ci40188882,2025-02-19T14:08:52.588Z,"5 km WNW of Chatsworth, CA",earthquake,0.38,0.66,0.405,31.0,automatic,ci,ci
 2025-02-19T13:59:08.861Z,56.9455,-155.6811,75.2,2.5,ml,,,,0.35,ak,ak0252awynhi,2025-02-19T14:01:00.246Z,"91 km W of Akhiok, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-02-19T03:30:09.290Z,41.603833333333,-112.42533333333,6.35,1.05,md,16.0,90.0,0.07063,0.15,uu,uu80102361,2025-02-19T14:05:26.990Z,"14 km SW of Thatcher, Utah",earthquake,0.35,1.11,0.14387084514131,11.0,reviewed,uu,uu
+2025-02-19T14:26:28.656Z,69.6051,-144.6131,9.1,3.4,ml,,,,0.79,ak,ak0252axd1wu,2025-02-19T14:29:58.945Z,"69 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-02-19T14:16:36.250Z,64.6981,-149.6188,27.1,3.6,ml,,,,0.51,ak,ak0252axaxek,2025-02-19T14:29:06.774Z,"26 km WNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-19T13:50:10.907Z,-21.876,-176.4864,251.037,4.6,mb,32.0,127.0,6.581,0.79,us,us7000peqm,2025-02-19T14:27:04.040Z,"145 km WSW of Houma, Tonga",earthquake,14.28,11.195,0.105,28.0,reviewed,us,us
