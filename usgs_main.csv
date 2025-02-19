@@ -2017,3 +2017,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T13:18:12.730Z,61.310833333333,-152.25233333333,1.01,-0.28,ml,8.0,121.0,0.06541,0.08,av,av93505236,2025-02-19T17:51:33.170Z,"65 km WNW of Beluga, Alaska",earthquake,0.23,0.82,0.18039307136156,9.0,reviewed,av,av
 2025-02-19T17:15:28.723Z,-4.025,152.9612,72.222,4.7,mb,33.0,198.0,0.813,0.74,us,us7000perj,2025-02-19T17:58:10.040Z,"84 km ENE of Kokopo, Papua New Guinea",earthquake,10.86,9.159,0.104,28.0,reviewed,us,us
 2025-02-19T01:35:23.560Z,51.779833333333,-178.586,21.83,1.56,ml,5.0,333.0,0.1012,0.07,av,av93504881,2025-02-19T18:10:38.470Z,"134 km W of Adak, Alaska",earthquake,1.71,1.17,0.069324656870725,5.0,reviewed,av,av
+2025-02-19T18:14:48.360Z,34.2858333,-117.5056667,11.19,1.84,ml,21.0,69.0,0.05521,0.14,ci,ci40189074,2025-02-19T18:26:07.052Z,"3 km NNW of Lytle Creek, CA",earthquake,0.27,0.45,0.443,38.0,automatic,ci,ci
