@@ -2271,3 +2271,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T17:52:38.686Z,36.6739,21.2966,10.0,4.2,mb,46.0,132.0,0.712,1.29,us,us7000pf23,2025-02-20T18:14:59.040Z,"39 km WSW of Methóni, Greece",earthquake,5.16,1.932,0.112,22.0,reviewed,us,us
 2025-02-19T23:19:41.480Z,61.308333333333,-152.22816666667,3.13,-0.62,ml,4.0,224.0,0.05564,0.07,av,av93505686,2025-02-20T18:16:50.890Z,"64 km WNW of Beluga, Alaska",earthquake,0.65,1.24,0.14202066743568,4.0,reviewed,av,av
 2025-02-19T22:13:36.310Z,59.3655,-153.44083333333,-0.13,0.0,ml,4.0,155.0,0.003519,0.07,av,av93505621,2025-02-20T18:03:02.150Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.32,0.17,0.41830139483314,4.0,reviewed,av,av
+2025-02-20T18:34:41.934Z,38.7841,-119.6148,6.8,1.2,ml,8.0,149.95,0.075,0.0583,nn,nn00893756,2025-02-20T18:37:00.252Z,"8 km SSE of Carter Springs, Nevada",earthquake,,0.8,0.4,5.0,automatic,nn,nn
+2025-02-20T17:51:05.810Z,18.2308,-67.8871,119.0,3.82,md,24.0,177.0,0.5696,0.24,pr,pr2025051000,2025-02-20T18:28:40.040Z,"67 km SE of Punta Cana, Dominican Republic",earthquake,1.87,0.97,0.09,18.0,reviewed,pr,pr
