@@ -2200,3 +2200,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T13:08:53.940Z,38.802501678467,-122.77899932861,3.4000000953674,1.1,md,22.0,78.0,0.01082,0.03,nc,nc75136562,2025-02-20T13:19:51.958Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.519999981,0.27,23.0,automatic,nc,nc
 2025-02-20T13:31:06.350Z,38.414665222168,-122.57499694824,3.670000076294,1.75,md,19.0,79.0,0.06578,0.08,nc,nc75136572,2025-02-20T13:32:44.428Z,"3 km WNW of Kenwood, CA",earthquake,0.26,1.11000001,0.18,18.0,automatic,nc,nc
 2025-02-19T16:27:32.939Z,35.13666667,-97.24216667,17.2,1.03,ml,17.0,167.0,0.1430719244,0.17,ok,ok2025dmuf,2025-02-20T13:34:54.051Z,"6 km W of Etowah, Oklahoma",earthquake,,1.4,0.24,9.0,reviewed,ok,ok
+2025-02-20T13:41:01.884Z,63.7643,-146.4518,19.1,1.4,ml,,,,0.6,ak,ak0252cke4jw,2025-02-20T13:43:03.013Z,"46 km SW of Delta Junction, Alaska",earthquake,,0.5,,,automatic,ak,ak
