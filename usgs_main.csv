@@ -2117,3 +2117,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T03:19:41.432Z,4.9933,94.7501,70.163,5.3,mb,124.0,123.0,2.201,0.76,us,us7000pevu,2025-02-20T03:37:53.040Z,"88 km SW of Banda Aceh, Indonesia",earthquake,9.38,6.818,0.052,123.0,reviewed,us,us
 2025-02-20T03:42:48.570Z,32.9275,-116.3023333,6.26,0.98,ml,43.0,42.0,0.02704,0.18,ci,ci40189458,2025-02-20T03:47:18.871Z,"24 km ENE of Pine Valley, CA",earthquake,0.19,0.4,0.291,21.0,automatic,ci,ci
 2025-02-20T03:21:30.695Z,-20.4402,68.2771,10.0,5.0,mb,52.0,83.0,4.662,0.66,us,us7000pevy,2025-02-20T03:55:17.040Z,Mid-Indian Ridge,earthquake,10.37,1.87,0.086,43.0,reviewed,us,us
+2025-02-20T04:06:04.513Z,63.9546,-145.6148,0.0,2.0,ml,,,,0.88,ak,ak0252cetq8z,2025-02-20T04:08:12.705Z,"2 km NW of Fort Greely, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-20T04:05:30.286Z,65.417,-148.235,10.4,3.1,ml,,,,0.65,ak,ak0252cetkis,2025-02-20T04:13:36.892Z,"18 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
