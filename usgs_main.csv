@@ -2240,3 +2240,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T15:21:43.740Z,17.908833333333,-66.903166666667,12.9,2.29,md,10.0,231.0,0.06968,0.23,pr,pr71473103,2025-02-20T16:09:10.130Z,"6 km S of Guánica, Puerto Rico",earthquake,1.12,0.48,0.12317710161711,6.0,reviewed,pr,pr
 2025-02-20T13:13:46.660Z,35.4914,138.907,33.022,4.5,mb,38.0,114.0,1.191,0.85,us,us7000pexw,2025-02-20T16:35:38.241Z,"5 km NE of Oshino, Japan",earthquake,6.2,6.345,0.094,33.0,reviewed,us,us
 2025-02-20T07:54:02.307Z,32.078,-101.621,5.4199,1.3,ml,22.0,61.0,0.0,0.1,tx,tx2025dnys,2025-02-20T16:23:47.642Z,"16 km ESE of Stanton, Texas",earthquake,0.68224307313138,1.0010563063616,0.2,24.0,reviewed,tx,tx
+2025-02-20T15:41:05.412Z,54.3779,-118.4885,10.0,4.7,mb,83.0,47.0,0.629,0.85,us,us7000peye,2025-02-20T16:47:34.181Z,"69 km NE of Grande Cache, Canada",earthquake,4.81,1.72,0.038,208.0,reviewed,us,us
+2025-02-20T08:24:38.300Z,37.055666666667,-112.94733333333,14.18,1.03,md,6.0,121.0,0.1076,0.11,uu,uu80002708,2025-02-20T16:47:54.180Z,"6 km NNE of Hildale, Utah",earthquake,0.47,1.03,0.18193298408416,5.0,reviewed,uu,uu
+2025-02-20T04:45:19.993Z,36.7001,-116.1344,2.2,-0.3,ml,10.0,131.33,0.019,0.0471,nn,nn00893746,2025-02-20T16:46:29.153Z,"43 km WNW of Indian Springs, Nevada",earthquake,,2.0,0.22,3.0,reviewed,nn,nn
