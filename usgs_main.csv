@@ -2119,3 +2119,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T03:21:30.695Z,-20.4402,68.2771,10.0,5.0,mb,52.0,83.0,4.662,0.66,us,us7000pevy,2025-02-20T03:55:17.040Z,Mid-Indian Ridge,earthquake,10.37,1.87,0.086,43.0,reviewed,us,us
 2025-02-20T04:06:04.513Z,63.9546,-145.6148,0.0,2.0,ml,,,,0.88,ak,ak0252cetq8z,2025-02-20T04:08:12.705Z,"2 km NW of Fort Greely, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-20T04:05:30.286Z,65.417,-148.235,10.4,3.1,ml,,,,0.65,ak,ak0252cetkis,2025-02-20T04:13:36.892Z,"18 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-20T04:37:31.540Z,38.804500579834,-122.72399902344,4.5,0.77,md,8.0,158.0,0.02345,0.01,nc,nc75136437,2025-02-20T04:39:07.501Z,"2 km SSW of Cobb, CA",earthquake,0.58,3.07999992,0.29,7.0,automatic,nc,nc
+2025-02-20T02:28:51.909Z,36.6469,-116.2744,7.4,-0.2,ml,14.0,173.87,0.052,0.0736,nn,nn00893724,2025-02-20T04:38:16.201Z,"52 km SE of Beatty, Nevada",earthquake,,1.2,0.13,3.0,reviewed,nn,nn
