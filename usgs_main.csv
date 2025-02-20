@@ -2174,3 +2174,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T10:31:23.000Z,-15.141,-173.676,98.5,5.5,Mi,10.0,158.399987328,,,pt,pt25051000,2025-02-20T10:40:07.626Z,"90 km N of Hihifo, Tonga",earthquake,,,,4.0,reviewed,pt,pt
 2025-02-20T10:11:34.490Z,18.561666666667,-66.6795,18.18,2.73,md,17.0,211.0,0.1071,0.26,pr,pr71473078,2025-02-20T10:32:14.110Z,"10 km NNE of Arecibo, Puerto Rico",earthquake,0.8,0.51,0.12327631052125,9.0,reviewed,pr,pr
 2025-02-20T09:46:00.430Z,18.573333333333,-66.670166666667,22.17,3.04,md,26.0,204.0,0.1217,0.22,pr,pr71473068,2025-02-20T10:37:15.420Z,"12 km NNE of Arecibo, Puerto Rico",earthquake,0.69,0.89,0.05302358210441,11.0,reviewed,pr,pr
+2025-02-20T10:42:57.722Z,31.688,-104.171,3.9058,1.7,ml,17.0,96.0,0.1,0.3,tx,tx2025doej,2025-02-20T10:53:27.261Z,"54 km W of Mentone, Texas",earthquake,0.0,1.3652679920196,0.2,13.0,automatic,tx,tx
+2025-02-20T10:31:20.208Z,-15.4151,-173.8496,103.467,5.6,mww,64.0,37.0,2.499,1.27,us,us7000pexc,2025-02-20T10:51:43.954Z,"59 km N of Hihifo, Tonga",earthquake,7.75,6.179,0.073,18.0,reviewed,us,us
