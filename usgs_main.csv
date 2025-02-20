@@ -2165,3 +2165,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T10:00:29.071Z,62.3928,-149.4957,49.1,1.6,ml,,,,0.48,ak,ak0252cid3h7,2025-02-20T10:03:00.898Z,"31 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-20T10:00:18.062Z,39.0466,-119.0165,4.4,1.1,ml,8.0,113.41,0.124,0.1159,nn,nn00893729,2025-02-20T10:02:18.257Z,"14 km ENE of Yerington, Nevada",earthquake,,2.4,0.21,4.0,automatic,nn,nn
 2025-02-20T09:43:15.179Z,31.691,-104.627,3.6297,1.6,ml,8.0,213.0,0.1,1.0,tx,tx2025docl,2025-02-20T10:05:21.983Z,"58 km SSW of Whites City, New Mexico",earthquake,0.0,2.806853055954,0.2,7.0,automatic,tx,tx
+2025-02-20T10:10:54.410Z,33.7331667,-115.9795,2.33,1.71,ml,57.0,37.0,0.0783,0.18,ci,ci40189610,2025-02-20T10:21:51.070Z,"18 km NE of Thermal, CA",earthquake,0.15,0.31,0.144,27.0,automatic,ci,ci
+2025-02-20T10:10:18.430Z,38.818000793457,-122.84366607666,2.3399999141693,0.44,md,9.0,95.0,0.008462,0.02,nc,nc75136502,2025-02-20T10:11:54.983Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.920000017,0.31,11.0,automatic,nc,nc
+2025-02-20T10:08:19.233Z,31.633,-104.483,6.1284,1.6,ml,15.0,129.0,0.0,0.3,tx,tx2025dodf,2025-02-20T10:17:09.014Z,"61 km S of Whites City, New Mexico",earthquake,0.0,4.3867001533508,0.1,13.0,automatic,tx,tx
+2025-02-20T10:06:34.248Z,32.401,-102.047,6.438,1.2,ml,33.0,81.0,0.1,0.3,tx,tx2025dode,2025-02-20T10:16:55.020Z,"34 km WSW of Ackerly, Texas",earthquake,0.0,1.5258702039719,0.1,23.0,automatic,tx,tx
+2025-02-20T10:03:58.890Z,0.3967,121.9649,148.828,4.9,mb,54.0,77.0,1.38,0.85,us,us7000pex6,2025-02-20T10:18:56.040Z,"123 km W of Gorontalo, Indonesia",earthquake,5.62,7.04,0.09,39.0,reviewed,us,us
+2025-02-20T10:00:52.035Z,32.085,-101.634,3.849,2.4,ml,75.0,59.0,0.0,0.3,tx,tx2025docz,2025-02-20T10:16:51.910Z,"15 km ESE of Stanton, Texas",earthquake,0.0,0.6965304017067,0.2,55.0,automatic,tx,tx
