@@ -2257,3 +2257,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T02:10:19.308Z,31.282,-103.352,5.5103,1.6,ml,13.0,58.0,0.0,0.1,tx,tx2025dnnl,2025-02-20T17:11:18.937Z,"20 km ESE of Lindsay, Texas",earthquake,1.5025173747153,2.3865419501296,0.2,12.0,reviewed,tx,tx
 2025-02-20T17:27:29.399Z,38.7722,-119.6146,7.1,1.6,ml,12.0,151.82,0.08,0.2246,nn,nn00893754,2025-02-20T17:29:51.367Z,"10 km SSE of Carter Springs, Nevada",earthquake,,0.6,0.31,7.0,automatic,nn,nn
 2025-02-19T18:38:55.740Z,61.3055,-152.22966666667,1.94,-0.14,ml,8.0,118.0,0.05396,0.05,av,av93505431,2025-02-20T17:25:51.640Z,"64 km WNW of Beluga, Alaska",earthquake,0.27,0.61,0.19011835375622,9.0,reviewed,av,av
+2025-02-20T17:36:17.710Z,19.167333602905,-155.71482849121,8.6800003051758,2.68,ml,36.0,100.0,0.03248,0.340000004,hv,hv74619697,2025-02-20T17:40:21.438Z,"12 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.78,0.529999971,0.15,7.0,automatic,hv,hv
