@@ -2206,3 +2206,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T14:02:16.905Z,60.9501,-151.2244,54.7,1.5,ml,,,,0.41,ak,ak0252ckr8d6,2025-02-20T14:04:24.658Z,"13 km SSW of Tyonek, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2025-02-20T13:58:54.702Z,32.437,-102.064,8.9497,1.1,ml,10.0,150.0,0.0,0.3,tx,tx2025dokv,2025-02-20T14:04:49.327Z,"34 km SSW of Los Ybanez, Texas",earthquake,0.0,3.2089972496033,0.2,8.0,automatic,tx,tx
 2025-02-19T20:04:49.829Z,36.41433333,-96.91016667,3.37,0.46,ml,15.0,91.0,0.01979611533,0.25,ok,ok2025dnbl,2025-02-20T13:57:48.647Z,"12 km NW of Pawnee, Oklahoma",earthquake,,1.4,0.22,7.0,reviewed,ok,ok
+2025-02-20T14:22:44.150Z,34.421,-119.438,9.3,1.46,ml,27.0,99.0,0.06785,0.21,ci,ci40189682,2025-02-20T14:26:52.236Z,"8 km ENE of Carpinteria, CA",earthquake,0.29,0.92,0.157,30.0,automatic,ci,ci
+2025-02-20T11:05:27.820Z,44.565666666667,-110.69383333333,7.99,0.73,md,16.0,57.0,0.0537,0.2,uu,uu80102406,2025-02-20T14:22:31.050Z,"34 km ESE of West Yellowstone, Montana",earthquake,0.56,0.76,0.1979918798826,12.0,reviewed,uu,uu
