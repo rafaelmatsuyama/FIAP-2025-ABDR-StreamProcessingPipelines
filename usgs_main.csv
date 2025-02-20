@@ -2114,3 +2114,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T06:10:14.120Z,60.525,-152.93433333333,2.83,0.39,ml,9.0,170.0,0.03731,0.08,av,av93505036,2025-02-20T02:32:55.830Z,"84 km ENE of Port Alsworth, Alaska",earthquake,0.34,0.87,0.16743528656656,8.0,reviewed,av,av
 2025-02-20T02:58:34.790Z,36.685665130615,-120.96299743652,5.3099999427795,2.31,md,5.0,197.0,0.2423,0.02,nc,nc75136427,2025-02-20T03:07:18.932Z,"23 km NE of Pinnacles, CA",earthquake,7.05,2.95000005,,1.0,automatic,nc,nc
 2025-02-20T03:18:25.042Z,63.0336,-149.3247,61.5,2.3,ml,,,,0.71,ak,ak0252ceawtk,2025-02-20T03:20:26.222Z,"44 km SSW of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2025-02-20T03:19:41.432Z,4.9933,94.7501,70.163,5.3,mb,124.0,123.0,2.201,0.76,us,us7000pevu,2025-02-20T03:37:53.040Z,"88 km SW of Banda Aceh, Indonesia",earthquake,9.38,6.818,0.052,123.0,reviewed,us,us
