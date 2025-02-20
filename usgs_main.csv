@@ -2258,3 +2258,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T17:27:29.399Z,38.7722,-119.6146,7.1,1.6,ml,12.0,151.82,0.08,0.2246,nn,nn00893754,2025-02-20T17:29:51.367Z,"10 km SSE of Carter Springs, Nevada",earthquake,,0.6,0.31,7.0,automatic,nn,nn
 2025-02-19T18:38:55.740Z,61.3055,-152.22966666667,1.94,-0.14,ml,8.0,118.0,0.05396,0.05,av,av93505431,2025-02-20T17:25:51.640Z,"64 km WNW of Beluga, Alaska",earthquake,0.27,0.61,0.19011835375622,9.0,reviewed,av,av
 2025-02-20T17:36:17.710Z,19.167333602905,-155.71482849121,8.6800003051758,2.68,ml,36.0,100.0,0.03248,0.340000004,hv,hv74619697,2025-02-20T17:40:21.438Z,"12 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.78,0.529999971,0.15,7.0,automatic,hv,hv
+2025-02-20T17:44:52.694Z,60.8579,-150.8829,44.3,1.8,ml,,,,0.61,ak,ak0252cmsm1h,2025-02-20T17:46:43.750Z,"12 km SW of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-02-20T17:24:51.791Z,-22.4255,179.3184,593.02,5.0,mb,51.0,112.0,4.806,0.99,us,us7000pf1x,2025-02-20T17:44:27.040Z,south of the Fiji Islands,earthquake,11.58,6.897,0.082,48.0,reviewed,us,us
+2025-02-19T19:39:18.870Z,61.325,-152.24566666667,-2.28,-0.45,ml,5.0,244.0,0.07404,0.22,av,av93505481,2025-02-20T17:46:12.310Z,"65 km WNW of Beluga, Alaska",earthquake,1.17,3.66,0.30462427826193,5.0,reviewed,av,av
+2025-02-19T19:38:20.250Z,61.318166666667,-152.24366666667,-2.21,-0.51,ml,7.0,180.0,0.06802,0.15,av,av93505476,2025-02-20T17:41:20.900Z,"65 km WNW of Beluga, Alaska",earthquake,0.48,1.79,0.25362175282228,7.0,reviewed,av,av
