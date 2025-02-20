@@ -2209,3 +2209,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T14:22:44.150Z,34.421,-119.438,9.3,1.46,ml,27.0,99.0,0.06785,0.21,ci,ci40189682,2025-02-20T14:26:52.236Z,"8 km ENE of Carpinteria, CA",earthquake,0.29,0.92,0.157,30.0,automatic,ci,ci
 2025-02-20T11:05:27.820Z,44.565666666667,-110.69383333333,7.99,0.73,md,16.0,57.0,0.0537,0.2,uu,uu80102406,2025-02-20T14:22:31.050Z,"34 km ESE of West Yellowstone, Montana",earthquake,0.56,0.76,0.1979918798826,12.0,reviewed,uu,uu
 2025-02-20T14:32:03.650Z,33.8241667,-116.756,16.11,2.17,ml,90.0,15.0,0.0357,0.19,ci,ci40189698,2025-02-20T14:37:13.288Z,"10 km NNW of Idyllwild, CA",earthquake,0.12,0.29,0.187,25.0,automatic,ci,ci
+2025-02-20T04:04:35.710Z,41.8955,-112.48733333333,1.43,0.63,md,7.0,113.0,0.126,0.11,uu,uu80102396,2025-02-20T14:40:54.320Z,"11 km NNW of Howell, Utah",earthquake,0.49,7.47,0.15641520407747,5.0,reviewed,uu,uu
