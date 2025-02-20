@@ -2243,3 +2243,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T15:41:05.412Z,54.3779,-118.4885,10.0,4.7,mb,83.0,47.0,0.629,0.85,us,us7000peye,2025-02-20T16:47:34.181Z,"69 km NE of Grande Cache, Canada",earthquake,4.81,1.72,0.038,208.0,reviewed,us,us
 2025-02-20T08:24:38.300Z,37.055666666667,-112.94733333333,14.18,1.03,md,6.0,121.0,0.1076,0.11,uu,uu80002708,2025-02-20T16:47:54.180Z,"6 km NNE of Hildale, Utah",earthquake,0.47,1.03,0.18193298408416,5.0,reviewed,uu,uu
 2025-02-20T04:45:19.993Z,36.7001,-116.1344,2.2,-0.3,ml,10.0,131.33,0.019,0.0471,nn,nn00893746,2025-02-20T16:46:29.153Z,"43 km WNW of Indian Springs, Nevada",earthquake,,2.0,0.22,3.0,reviewed,nn,nn
+2025-02-20T09:41:07.660Z,45.320499420166,-121.65466308594,6.5,1.6123904585838,ml,11.0,103.0,0.003168,0.0700000003,uw,uw62076581,2025-02-20T16:53:46.960Z,"8 km ENE of Government Camp, Oregon",earthquake,0.53,0.629999995,0.2160589993,5.0,reviewed,uw,uw
