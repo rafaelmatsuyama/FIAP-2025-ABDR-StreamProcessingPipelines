@@ -2123,3 +2123,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T02:28:51.909Z,36.6469,-116.2744,7.4,-0.2,ml,14.0,173.87,0.052,0.0736,nn,nn00893724,2025-02-20T04:38:16.201Z,"52 km SE of Beatty, Nevada",earthquake,,1.2,0.13,3.0,reviewed,nn,nn
 2025-02-20T04:55:49.865Z,32.361,-101.239,3.8947,1.4,ml,20.0,115.0,0.0,0.2,tx,tx2025dnsy,2025-02-20T05:03:14.277Z,"9 km NE of Coahoma, Texas",earthquake,0.0,1.2902748584747,0.2,12.0,automatic,tx,tx
 2025-02-20T04:36:49.933Z,-33.4049,-178.9117,52.813,5.0,mb,27.0,166.0,4.216,1.27,us,us7000pew5,2025-02-20T04:56:46.040Z,south of the Kermadec Islands,earthquake,12.84,10.876,0.118,23.0,reviewed,us,us
+2025-02-20T05:06:46.376Z,63.3942,-151.1412,0.1,1.8,ml,,,,1.04,ak,ak0252cff8wl,2025-02-20T05:18:59.809Z,"33 km ESE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2025-02-19T11:30:40.430Z,53.943,-166.57,9.22,0.47,ml,7.0,227.0,0.07035,0.08,av,av93505206,2025-02-20T05:19:40.270Z,"6 km NNW of Dutch Harbor, Alaska",earthquake,0.42,0.64,0.2093750836427,7.0,reviewed,av,av
