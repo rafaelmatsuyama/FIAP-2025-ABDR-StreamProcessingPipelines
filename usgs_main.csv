@@ -2250,3 +2250,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T15:54:18.350Z,39.696666666667,-110.81566666667,-3.42,2.43,ml,17.0,58.0,0.06571,0.17,uu,uu80102441,2025-02-20T16:58:20.820Z,"1 km NW of Kenilworth, Utah",earthquake,0.35,0.92,0.10428805013148,7.0,reviewed,uu,uu
 2025-02-20T13:13:22.339Z,53.03,-167.8486,50.3,2.1,ml,,,,0.62,ak,ak0252ck861q,2025-02-20T17:07:56.685Z,"68 km E of Nikolski, Alaska",earthquake,,2.5,,,reviewed,ak,ak
 2025-02-19T23:40:12.610Z,34.0133333,-117.5771667,5.29,0.84,ml,12.0,77.0,0.09512,0.13,ci,ci40189306,2025-02-20T16:58:14.504Z,"6 km WNW of Mira Loma, CA",earthquake,0.24,0.55,0.136,9.0,reviewed,ci,ci
+2025-02-20T17:21:50.837Z,38.784,-119.6061,10.4,3.2,ml,25.0,92.25,0.069,0.314,nn,nn00893750,2025-02-20T17:24:15.326Z,"9 km SSE of Carter Springs, Nevada",earthquake,,0.4,0.34,12.0,automatic,nn,nn
+2025-02-20T17:16:16.270Z,38.820667266846,-122.82233428955,2.3800001144409,0.89,md,18.0,80.0,0.009957,0.02,nc,nc75136632,2025-02-20T17:17:51.321Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.620000005,0.23,20.0,automatic,nc,nc
+2025-02-20T17:13:23.384Z,37.779,-114.5509,8.2,2.1,ml,13.0,237.34,0.544,0.3916,nn,nn00893748,2025-02-20T17:16:42.012Z,"14 km NW of Beaverdam, Nevada",earthquake,,0.8,0.39,9.0,automatic,nn,nn
+2025-02-20T16:48:17.487Z,53.6244,-160.1678,9.6,3.9,ml,,,,0.54,ak,ak0252cm7ytg,2025-02-20T17:20:28.198Z,"191 km S of Sand Point, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2025-02-20T02:10:19.308Z,31.282,-103.352,5.5103,1.6,ml,13.0,58.0,0.0,0.1,tx,tx2025dnnl,2025-02-20T17:11:18.937Z,"20 km ESE of Lindsay, Texas",earthquake,1.5025173747153,2.3865419501296,0.2,12.0,reviewed,tx,tx
