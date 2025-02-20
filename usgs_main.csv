@@ -2182,3 +2182,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T11:16:53.637Z,39.1756,-119.0187,0.4,2.3,ml,23.0,75.8,0.017,0.2324,nn,nn00893732,2025-02-20T11:19:33.321Z,"24 km NNE of Yerington, Nevada",earthquake,,0.2,0.24,11.0,automatic,nn,nn
 2025-02-20T11:05:17.750Z,65.4069,-148.13,13.0,1.5,ml,,,,0.31,ak,ak0252cizksf,2025-02-20T11:07:17.528Z,"23 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-20T10:59:37.024Z,31.641,-104.295,4.3187,1.6,ml,20.0,62.0,0.0,0.3,tx,tx2025doex,2025-02-20T11:19:04.412Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.2096779346466,0.2,16.0,automatic,tx,tx
+2025-02-20T11:27:59.930Z,38.806167602539,-122.81632995606,3.0099999904633,1.08,md,14.0,64.0,0.01039,0.02,nc,nc75136532,2025-02-20T11:29:35.390Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.699999988,0.33,16.0,automatic,nc,nc
+2025-02-20T11:08:15.380Z,18.109,-67.28,16.23,2.72,md,8.0,288.0,0.1676,0.23,pr,pr71473093,2025-02-20T11:30:10.650Z,"10 km WNW of Puerto Real, Puerto Rico",earthquake,1.52,0.67,0.020493667732197,4.0,reviewed,pr,pr
