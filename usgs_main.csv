@@ -2255,3 +2255,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T17:13:23.384Z,37.779,-114.5509,8.2,2.1,ml,13.0,237.34,0.544,0.3916,nn,nn00893748,2025-02-20T17:16:42.012Z,"14 km NW of Beaverdam, Nevada",earthquake,,0.8,0.39,9.0,automatic,nn,nn
 2025-02-20T16:48:17.487Z,53.6244,-160.1678,9.6,3.9,ml,,,,0.54,ak,ak0252cm7ytg,2025-02-20T17:20:28.198Z,"191 km S of Sand Point, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2025-02-20T02:10:19.308Z,31.282,-103.352,5.5103,1.6,ml,13.0,58.0,0.0,0.1,tx,tx2025dnnl,2025-02-20T17:11:18.937Z,"20 km ESE of Lindsay, Texas",earthquake,1.5025173747153,2.3865419501296,0.2,12.0,reviewed,tx,tx
+2025-02-20T17:27:29.399Z,38.7722,-119.6146,7.1,1.6,ml,12.0,151.82,0.08,0.2246,nn,nn00893754,2025-02-20T17:29:51.367Z,"10 km SSE of Carter Springs, Nevada",earthquake,,0.6,0.31,7.0,automatic,nn,nn
+2025-02-19T18:38:55.740Z,61.3055,-152.22966666667,1.94,-0.14,ml,8.0,118.0,0.05396,0.05,av,av93505431,2025-02-20T17:25:51.640Z,"64 km WNW of Beluga, Alaska",earthquake,0.27,0.61,0.19011835375622,9.0,reviewed,av,av
